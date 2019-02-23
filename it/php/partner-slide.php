@@ -14,7 +14,7 @@
                                 <div class="pic">
                                   <a href="http://www.flikkaboards.com/" target="_blank"> <img src="../img/partneri/logo-flikka.jpg" alt="flikka" class="img-responsive"></a> 
                                 </div>
-                                <h3 class="testimonial-title">Flikka Sails</h3>
+                                <h3 class="testimonial-title">Flikka Boards</h3>
                             </div>
                             <div class="testimonial">
                                 <div class="pic">
@@ -43,7 +43,7 @@
                                     <img src="../img/partneri/logo-caas.jpg" alt="Cass" class="img-responsive">
                                  </a>   
                                 </div>
-                                <h3 class="testimonial-title">Cass</h3> 
+                                <h3 class="testimonial-title">Caas</h3> 
                             </div>
                             <div class="testimonial">
                                 <div class="pic">

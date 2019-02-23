@@ -82,7 +82,7 @@
                         <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>  
                         </p>
                         
-                        <span class='name btn btn-info btn-block '>500,00 kn</span>
+                        <span class='name btn btn-info btn-block '>750,00 kn</span>
                   </div>
                   <div class='back'>
                     <b>   <span>Bike – Special Offer inlcudes:</span></b>
@@ -172,7 +172,7 @@
       <tr>     
         <td>200.00 kn</td>
         <td>350,00 kn</td>
-        <td>500,00 kn</td>
+        <td>750,00 kn</td>
       </tr>
 
     </tbody>

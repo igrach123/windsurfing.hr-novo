@@ -69,7 +69,7 @@ if ($_POST['submit']) {
             <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
             <meta name="theme-color" content="#ffffff">
             <base href="#">
-            <link href="http://www.windsuring.hr/index.php" rel="canonical" />
+            <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
             <link href="../en/index.php" rel="alternate" hreflang="en"> 
             <meta name="keywords" content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
             <meta name="description" content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
@@ -159,8 +159,7 @@ if ($_POST['submit']) {
         <script src="js/echo.min.js"></script> -->
 
         <!-- Go to www.addthis.com/dashboard to customize your tools --> 
-        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a6f3ef91fd254d7"></script>
-
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ac0f8a1b1b5a818"></script>
 
 
 

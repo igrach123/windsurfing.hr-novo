@@ -21,7 +21,7 @@ if ($_POST['submit']) {
   if ($error) {
     $result='<div class="alert alert-danger" role="alert"><strong>Whoops, there is an error!</strong> Please correct the following: '.$error.'</div>';
   } else {
-    mail("brajkovich.igor@gmail.com" , "Contact message", "
+    mail("bivancic@yahoo.com" , "Contact message", "
       Name: ".$_POST['name'] ."
       Email: ".$_POST['email']."
       Message:".$_POST['message'] ."
@@ -70,7 +70,7 @@ if ($_POST['submit']) {
             <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
             <meta name="theme-color" content="#ffffff">
             <base href="#">
-            <link href="http://www.windsuring.hr/index.php" rel="canonical" />
+            <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
             <link href="en/index.php" rel="alternate" hreflang="en"> 
             <meta name="keywords" content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
             <meta name="description" content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
@@ -173,8 +173,8 @@ if ($_POST['submit']) {
 
      
         
-        <!-- Go to www.addthis.com/dashboard to customize your tools --> 
-        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a6f3ef91fd254d7"></script>
+     <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ac0f8a1b1b5a818"></script>
 
 
 

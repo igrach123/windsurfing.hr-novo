@@ -945,14 +945,13 @@ header{
 
 @include sm {
     #lang-id{
-        margin-top: 1px;
+        margin-top: 3px;
         margin-left: 0%;
 
         .language button{
             color:$bg-white;
             background-color: inherit;
             border:0px;
-            font-size: 12px;
             padding: 3px;
             transition:  0.3s ease-in-out;
             -webkit-transition: 0.3s ease-in-out;

@@ -32,10 +32,7 @@
                 <h5 class="text-center">VISITATECI</h5>
                <div class="col-xs-12">
                  <div class="google-maps">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1683.0729243841236!2d13.929866032708853!3d44.809747908134696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47632bef9fe44a43%3A0x43d2387bd3aa1f7e!2sUnnamed+Road%2C+52203%2C+Medulin!5e0!3m2!1sen!2shr!4v1519299620432" width="1280" height="450" frameborder="0" style="border:0" allowfullscreen >
-                        
-
-                    </iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19043.70453166762!2d13.954715689713211!3d44.803968037175316!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdc26cb54e05a9a6c!2sWindsurf+Centar+Medulin!5e0!3m2!1sen!2shr!4v1522863254672" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
                  </div>
                </div>
 

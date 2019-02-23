@@ -148,7 +148,7 @@
                                     <p class="text-center">WINDSUFING PREMANTURA - MEDULIN  &copy;  <span class="hidden-sm">2018.</span> </p>
                              </div>
                               <div class="footer-bottom-right">   
-                                  <a href="http://www.bookafriend.com.hr" target="_blank" > <p class="text-left hidden-xs izradio">STRANICU IZRADIO Igor B.</p></a>
+                                 <a href="https://www.cro-webdesign.com/" target="_blank" > <p class="text-left hidden-xs izradio">Cro Web Design</p></a>
                              </div>
                                            
                 </div>

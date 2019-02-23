@@ -33,7 +33,7 @@
                 <h5 class="text-center">POSJETITE NAS</h5>
                <div class="col-xs-12">
                  <div class="google-maps">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22654.283282566183!2d13.917269!3d44.78518!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xca0468cf2e75f6c4!2sWindsurfcentar+Premantura!5e0!3m2!1sen!2shr!4v1519296723001" width="1280" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d862459.9398552391!2d14.082646276738716!3d44.76109412937612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47632bc69674cd8d%3A0xca0468cf2e75f6c4!2sWindsurfcentar+Premantura!5e0!3m2!1sen!2shr!4v1522863871226" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
                  </div>
                </div>
 
