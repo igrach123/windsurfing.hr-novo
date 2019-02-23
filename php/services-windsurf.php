@@ -347,7 +347,8 @@
 
 
       <div class="pmd-card-actions col-xs-6">
-        <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FWindsurfing-Center-Premantura-353020854723902%2F%3Fref%3Dbr_rs&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+        <a class="facebook-modal-link btn-success btn" href="https://www.facebook.com/Windsurfing-Center-Premantura-353020854723902/" target="_blank"><span class="fa fa-facebook">POSJETITE NAS</span></a>
+        <iframe class="facebook-modal-iframe" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FWindsurfing-Center-Premantura-353020854723902%2F%3Fref%3Dbr_rs&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
      </div>  
      
      <div class="modal-footer row">

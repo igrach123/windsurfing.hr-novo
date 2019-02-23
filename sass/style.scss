@@ -25,6 +25,7 @@ $bg-grey-strong:#E0E0E0;
 $main-blue:#03a9f5;
 $light-blue:#bbd9ee;
 $torkis-blue:#89e9f8;
+$facebook-blue:#3b5998;
 $main-orange:#ffab35;
 $bg-grey-light:#F5F5F5;
 $bg-grey-lighter:#FAFAFA;
@@ -222,22 +223,22 @@ h2{
 // BLUE BUTTON ON THE SITE
 .btn-success{
 	background-color: inherit;
-	color: $light-blue;
-	border:1px solid $light-blue;
+	color: $facebook-blue;
+	border:1px solid $facebook-blue;
 	-webkit-animation-delay: 2s;
     animation-delay: 2s;
     -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
     transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 .btn-success:hover{
-	background-color:$light-blue;
+	background-color:$facebook-blue;
 	color: $bg-white;
-	border:1px solid $light-blue;
+	border:1px solid $facebook-blue;
 }
 .btn-success:focus, .dropdown-toggle.btn-primary:focus {
     background-color:inherit;
-    color: $light-blue;
-    border:1px solid $light-blue;
+    color: $facebook-blue;
+    border:1px solid $facebook-blue;
 }
 
 
@@ -1213,7 +1214,13 @@ h3{
           letter-spacing: 4px;
           text-align: center;
           padding-top: 40px;
-      } 
+      }
+  .facebook-modal-link{
+      margin-left: 0px !important;
+  }
+  .facebook-modal-iframe{
+      display: inherit;
+  } 
       
 }
 
@@ -1260,6 +1267,15 @@ h3{
         }
     }     
 }
+
+//facebook iframe i link u modalu
+.facebook-modal-link{
+    margin-left: 0px !important;
+}
+.facebook-modal-iframe{
+    display: inherit;
+}
+
 #services-kayaking{
     
     h4{
