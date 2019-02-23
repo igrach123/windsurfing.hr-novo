@@ -20,7 +20,7 @@
                               <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>  
                               </p>
                                 
-                              <span class='name btn btn-info btn-block '>200,00 kn</span>
+                              <span class='name btn btn-info btn-block '>300,00 kn</span>
                             </div>  
                           
                         <div class='back'>
@@ -50,7 +50,7 @@
                           <br>
                               <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>  
                               </p>
-                           <span class='name btn btn-info btn-block '>350,00 kn</span>
+                           <span class='name btn btn-info btn-block '>450,00 kn</span>
                       </div>
                       <div class='back'>
                          <b><span>Cjelodnevni izlet uključuje:</span></b>
@@ -70,24 +70,23 @@
              <div class=" col-sm-4 col-xs-12">
                 <div class='card'>
                     <div class='front'>
-                      <h6>BICIKLE POSEBNA PONUDA</h6>
-                      <div><span class='badge badge-info'>8H</span></div>
+                      <h6>GRADSKA TURA PULA</h6>
+                      <div><span class='badge badge-info'>5H</span></div>
                       
                       
-                      <span class='job'> Izlet biciklom za najviše 6 osoba. </span>
+                      <span class='job'> Urbana gradska tura. </span>
                        <br>
                               <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>  
                               </p>
-                        <span class='name btn btn-info btn-block '>750,00 kn</span>
+                        <span class='name btn btn-info btn-block '>350,00 kn</span>
                   </div>
                   <div class='back'>
-                    <b>   <span>Posebna ponuda bicikle uključuje:</span></b>
+                    <b>   <span> Urbana gradska tura uključuje:</span></b>
                       <ul>
-                          <li>Personaliziranog vodiča</li>
+                          <li>Vodiča</li>
                           <li>Biciklu</li>
                           <li>Voće i vodu</li>
                           <li>Ručak</li>
-                          <li>Večeru</li>
                           <li>Sigurnosnu opremu</li>
                       </ul>
                      <div class='icons'>
@@ -107,7 +106,7 @@
        <ul class="nav nav-tabs" role="tablist">
          <li role="presentation" class="active"><a href="#home1" aria-controls="home1" role="tab" data-toggle="tab"><span>POLUDNEVNI IZLET</span></a></li>
          <li role="presentation"><a href="#profile1" aria-controls="profile1" role="tab" data-toggle="tab">  <span>CJELODNEVNI IZLET</span></a></li>
-         <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab" data-toggle="tab">  <span>POSEBNA PONUDA</span></a></li>
+         <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab" data-toggle="tab">  <span>URBANA GRADSKA TURA</span></a></li>
        </ul>
        
        <!-- Tab panes -->
@@ -128,22 +127,22 @@
           <b>Prijeći ćemo oko 30 km</b>
          </div>
 
-         <div role="tabpanel" class="tab-pane" id="messages1"><b>Izlet biciklom za najviše 6 osoba.</b> 
-          Ovaj izlet sa ograničenim brojem sudionika, s personaliziranim pristupom svakom gostu, malo je skuplji od cjelodnevnog izleta biciklom, ali nudi puno veći doživljaj. Uz ovaj izlet organiziramo i večeru od 4 slijeda s menijem po izboru (riblji, mesni, vegetarijanski) u restoranu Fabula u Premanturi. U večeru nije uračunato piće.
+         <div role="tabpanel" class="tab-pane" id="messages1"><b>Urbana gradska tura.</b> 
+          Početak ture Marsovo polje
+          Prvi stop Verudela 
+          Obilazak Aquarima ili kupanje
+          Drugi stop Valovine
+          Snorkeling u špilju (grotte di colombi)
+          Treći stop Arena pula
+          Četvrti stop Forum
+          Peti stop Zlatna vrata
+          Povratak na Marsovo polje
          </div>
        </div> <!-- tab content -->
      </div> <!-- card1 -->
    </div> <!-- col md 12 -->
  </div> <!-- row -->
-  
-  <div class="row">     
-  <div class="col-xs-12 col-sm-12 col-md-6">
-        <p class="text-muted">Večera se odvija u resotranu <strong> Fabula by Stare užance</strong></p>
-  </div>
-  <div class="klopa col-xs-12 col-sm-12 col-md-6 text-center " style="overflow:hidden; padding-right: 0px; padding-left: 0px;">
-     <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFabula-by-Stare-u%25C5%25BEance-1759251951013048%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=false&appId=867309230068477" width="340" height="70" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-  </div>
- </div>      
+      
 
  <hr> 
 
@@ -157,14 +156,14 @@
       <tr>
         <th scope="col">POLUDNEVNI IZLET</th>
         <th scope="col">CJELODNEVNI IZLET</th>
-        <th scope="col">POSEBNA PONUDA</th>
+        <th scope="col">URBANA GRADSKA TURA - PULA</th>
       </tr>
     </thead>
     <tbody>
       <tr>     
-        <td>200.00 kn</td>
+        <td>300.00 kn</td>
+        <td>450,00 kn</td>
         <td>350,00 kn</td>
-        <td>750,00 kn</td>
       </tr>
 
     </tbody>
@@ -179,7 +178,7 @@
         <th scope="col">BICIKLA 1</th>
         <th scope="col">BICIKLA 2</th>
         <th scope="col">BICIKLA 3</th>
-        <th scope="col">BICIKLA 4</th>
+    
       </tr>
     </thead>
     <tbody>
@@ -187,19 +186,19 @@
         <td>1H - 20,00kn</td>
         <td>1H - 30,00kn</td>
         <td>1H - 40,00kn</td>
-        <td></td>
+      
       </tr>
       <tr>     
         <td>4H - 50,00kn</td>
         <td>4H - 70,00kn</td>
         <td>4H - 80,00kn</td>
-        <td>4H - 100,00kn</td>
+       
       </tr>
       <tr>     
         <td>1Dan - 80,00kn</td>
         <td>1Dan - 100,00kn</td>
         <td>1Dan - 120,00kn</td>
-        <td>1Dan - 150,00kn</td>
+        
       </tr>
     </tbody>
   </table>
@@ -218,21 +217,25 @@
       <a href="img/bike/torpado-bt590-storm-red.jpg" class="text-center"><img  src="img/bike/torpado-bt590-storm-red_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt590</p>
   </div>
+
   <div class="col-xs-6 col-sm-4">
       <a href="img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img  src="img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
   </div>
+
    <div class="col-xs-6  col-sm-4 ">
-      <a href="img/bike/brb-stratos-275-rc03-24s-black.jpg" class="text-center"><img  src="img/bike/brb-stratos-275-rc03-24s-black_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-      <p class="text-center text-muted"> <b>BIKE 2</b> Stratos-275</p>
+      <a href="img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+      <p class="text-center text-muted"> <b>BIKE 2</b> Trance 2 2019</p>
   </div>
+
   <div class="col-xs-6 col-sm-4 ">
       <a href="img/bike/Talon-2-Blue.jpg" class="text-center"><img  src="img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 3</b> Talon-2</p>
   </div>
-    <div class="col-xs-6   col-sm-4">
+
+  <div class="col-xs-6   col-sm-4">
     <a href="img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img  src="img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike" class="img-responsive thumbnail"></a>
-    <p class="text-center text-muted"><b> BIKE 4</b> Stratos-29</p>
+    <p class="text-center text-muted"><b> BIKE 3</b> Stratos-29</p>
   </div>
  
 
