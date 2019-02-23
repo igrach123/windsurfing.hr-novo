@@ -1,2 +1,2 @@
-exports.themeLocation = './xampp/htdocs/MASTER-DEV';
-exports.urlToPreview = 'http://localhost/master-dev';
+exports.themeLocation = './xamp2/htdocs/ws-hr-master-19';
+exports.urlToPreview = 'http://localhost/ws-hr-master-19';
