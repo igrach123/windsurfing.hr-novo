@@ -24,7 +24,7 @@
                                    <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>  
                                    </p>
                                    
-                                <span class='name btn btn-info btn-block '>200,00 kn</span>
+                                <span class='name btn btn-info btn-block '>300,00 kn</span>
                            </div>
                            <div class='back'>
                               <b><span>Half-day excursion inlcudes:</span></b>
@@ -53,7 +53,7 @@
                               <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>  
                               </p>
                               
-                           <span class='name btn btn-info btn-block '>350,00 kn</span>
+                           <span class='name btn btn-info btn-block '>450,00 kn</span>
                       </div>
                       <div class='back'>
                          <b><span>Full-day excursion inlcudes:</span></b>
@@ -74,8 +74,8 @@
              <div class=" col-sm-4 col-xs-12">
                 <div class='card'>
                     <div class='front'>
-                      <h6>Kayak - Special offer</h6>
-                      <div><span class='badge badge-info'>8H</span></div>
+                      <h6>Kayak - Cave excursion</h6>
+                      <div><span class='badge badge-info'>5H</span></div>
                       
                       
                       <span class='job'> Min 3 Max 6 pax </span>
@@ -83,19 +83,17 @@
                         <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>  
                         </p>
                         
-                        <span class='name btn btn-info btn-block '>750,00 kn</span>
+                        <span class='name btn btn-info btn-block '>350,00 kn</span>
                   </div>
                   <div class='back'>
-                    <b>   <span>Kayak - Special offer includes:</span></b>
+                    <b>   <span>Kayak - Cave excursion includes:</span></b>
                       <ul>
                               <li>Personal Guide</li>
                               <li>Fruit & water</li>
                               <li>Lunch</li>
-                              <li>Dinner</li>
                               <li>Snorkeling equipment</li>
                               <li>Safety equipment,</li>
-                              <li>Kayak</li>
-                             
+                              <li>Kayak</li>       
                      </ul>
                      <div class='icons'>
 
@@ -113,7 +111,7 @@
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><span>HALF-DAY TRIP</span></a></li>
         <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">  <span>FULL-DAY TRIP</span></a></li>
-        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">  <span>KAYAK-SPECIAL OFFER</span></a></li>
+        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">  <span>KAYAK-COASTAL CAVE EXCURSION</span></a></li>
       </ul>
       
       <!-- Tab panes -->
@@ -129,23 +127,20 @@
 
         </div>
        
-        <div role="tabpanel" class="tab-pane" id="messages"><b>Kayak excursion for up to 6 persons.</b> 
-        This excursion with a limited number of participants and a personalized approach to each guest, is a bit more expensive than the normal full day excursion, but offers a greater experience. This excursion also includes a 4 course dinner (with menu choices: fish, meat or vegetarian) at the restaurant Fabula in Premantura. Drinks are not included in the dinner price. 
+        <div role="tabpanel" class="tab-pane" id="messages"><b>The guided kayak excursion to the coastal caves</b> 
+        starts at 9 am and lasts approximately five-
+        hours. The tour must be booked at least one day in advance. The place of departure and return is
+        the campsite of Stupice in Premantura. The excursion includes snorkelling on the beautiful
+        beaches of secluded islands and in the caves of the Kamenjak nature park. The duration of the
+        snorkelling may be adapted to the wishes of the participants, taking into account the season and
+        sea temperature. You will visit at least one uninhabited island, snorkel in the caves and discover
+        the underwater flora and fauna of the Medulin archipelago. The tour guide will set the tempo of
+        the excursion always bearing in mind the safety conditions and the comfort limits of the group.
         </div>
       </div> <!-- tab content -->
     </div> <!-- card1 -->
   </div> <!-- col md 12 -->
 </div> <!-- row -->
-
- <div class="row">     
-  <div class="col-xs-12 col-sm-12 col-md-6 klopa" >
-        <p class="text-muted"> Dinner takes place in the restaurant <strong> Fabula by Stare užance</strong></p>
-  </div>
-  <div class="col-xs-12 col-sm-12 col-md-6 text-center" style="overflow:hidden; padding-right: 0px; padding-left: 0px;">
-  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFabula-by-Stare-u%25C5%25BEance-1759251951013048%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=false&appId=867309230068477" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-  </div>
- </div>            
-  
 
 
  <hr>  
@@ -159,14 +154,14 @@
     <tr>
       <th scope="col">HALF-DAY EXCURSION</th>
       <th scope="col">FULL-DAY EXCURSION</th>
-      <th scope="col">KAYAK-SPECIAL OFFER</th>
+      <th scope="col">KAYAK-COASTAL CAVES</th>
     </tr>
   </thead>
   <tbody>
     <tr>     
-      <td>200.00 kn</td>
+      <td>300.00 kn</td>
+      <td>450,00 kn</td>
       <td>350,00 kn</td>
-      <td>750,00 kn</td>
     </tr>
 
   </tbody>
@@ -182,6 +177,8 @@
       <th scope="col">1 PAX</th>
       <th scope="col">KAJAK 2</th>
       <th scope="col">2 PAX</th>
+      <th scope="col">KAJAK 3</th>
+      <th scope="col">2 PAX</th>
     </tr>
   </thead>
   <tbody>
@@ -190,24 +187,32 @@
       <td>40,00 kn</td>
       <td>1H</td>
       <td>60,00kn</td>
+      <td>1H</td>
+      <td>100,00kn</td>
     </tr>
     <tr>     
       <td>2H</td>
       <td>70,00 kn</td>
       <td>2H</td>
       <td>100,00kn</td>
+      <td>2H</td>
+      <td>150,00kn</td>
     </tr>
     <tr>     
       <td>4H</td>
       <td>100,00 kn</td>
       <td>4H</td>
       <td>150,00kn</td>
+      <td>4H</td>
+      <td>200,00kn</td>
     </tr>
     <tr>     
       <td>8H</td>
       <td>150,00 kn</td>
       <td>8H</td>
       <td>200,00kn</td>
+      <td>8H</td>
+      <td>300,00kn</td>
     </tr>
   </tbody>
 </table>
@@ -293,7 +298,9 @@
 
 
     <div class="pmd-card-actions col-xs-6">
-          <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FKayaking-Premantura-241379939600438%2F&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+           <a class="facebook-modal-link btn-success btn" href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
+          <iframe class="facebook-modal-iframe" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FKayaking-Premantura-241379939600438%2F&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 
      </div>  

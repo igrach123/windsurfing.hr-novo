@@ -2086,6 +2086,7 @@ header .arrow:hover, header .arrow:focus {
   background-repeat: no-repeat; }
 
 #vrijeme-bg {
+  margin: 0 aauto;
   background-color: #FFFFFF;
   overflow: hidden; }
 

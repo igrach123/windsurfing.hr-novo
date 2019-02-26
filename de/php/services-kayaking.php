@@ -21,7 +21,7 @@
                                  <br>
                                    <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>  
                                    </p>
-                                <span class='name btn btn-info btn-block '>200,00 kn</span>
+                                <span class='name btn btn-info btn-block '>300,00 kn</span>
                            </div>
                            <div class='back'>
                               <b><span>Halbtagsausflug beinhaltet:</span></b>
@@ -49,7 +49,7 @@
                             <br>
                               <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>  
                               </p>
-                           <span class='name btn btn-info btn-block '>350,00 kn</span>
+                           <span class='name btn btn-info btn-block '>450,00 kn</span>
                       </div>
                       <div class='back'>
                          <b><span>Ganztagsausflug beinhaltet:</span></b>
@@ -70,18 +70,18 @@
              <div class=" col-sm-4 col-xs-12">
                 <div class='card'>
                     <div class='front'>
-                      <h6>Kajak Sonderangebot</h6>
-                      <div><span class='badge badge-info'>8H</span></div>
+                      <h6>Ausflug zu Küstenhöhlen</h6>
+                      <div><span class='badge badge-info'>5H</span></div>
                       
                       
                       <span class='job'> Min 3 Max 6 pax </span>
                       <br>
                         <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>  
                         </p>
-                        <span class='name btn btn-info btn-block '>750,00 kn</span>
+                        <span class='name btn btn-info btn-block '>350,00 kn</span>
                   </div>
                   <div class='back'>
-                    <b>   <span>Kajak Sonderangebot beinhaltet:</span></b>
+                    <b>   <span>Kajakausflug zu Küstenhöhlen beinhaltet:</span></b>
                       <ul>
                               <li>Personaler Tourleiter</li>
                               <li>Obst & Wasser</li>
@@ -107,7 +107,7 @@
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><span>Halbtagsausflug</span></a></li>
         <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">  <span>Ganztagsausflug</span></a></li>
-        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">  <span>Kajak Sonderangebot</span></a></li>
+        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">  <span>Kajakausflug zu Küstenhöhlen</span></a></li>
       </ul>
       
       <!-- Tab panes -->
@@ -131,8 +131,17 @@
         </div>
        
         <div role="tabpanel" class="tab-pane" id="messages">
-       <b> Kajakausflug für bis zu sechs Personen.</b>
-        Dieser Tagesausflug mit begrenzter Teilnehmerzahl und individualisierter Dienstleistung ist preislich zwar etwas höher angesiedelt als der Ganztagsausflug, er bietet jedoch ein wahres Erlebnis. Das Angebot beinhaltet ein Abendessen mit Viergangmenü nach Wunsch (Fisch, Fleisch oder vegetarisch) im Restaurant Fabula in Premantura. Getränke sind nicht im Preis inbegriffen.
+       <b> Der Kajakausflug zu Küstenhöhlen</b>
+        beginnt um 9 Uhr. Diese etwa fünfstündige Tour muss
+        mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist der
+        Campingplatz Stupice in Premantura. Der Ausflug bietet Schnorchelgelegenheiten an
+        wunderschönen Stränden der entlegenen Inseln und in den Höhlen des Schutzgebiets Kamenjak.
+        Die Dauer der Schnorchelgelegenheiten kann, der Jahreszeit und Meerestemperatur
+        entsprechend, den Wünschen der Teilnehmer angepasst werden. Sie werden mindestens eine
+        unbewohnte Insel besuchen und in einer Höhle schnorcheln und dabei die Tier- und Pflanzenwelt
+        des Medulin-Archipels kennenlernen. Der Tourleiter bestimmt den Rhythmus des Ausflugs
+        indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller
+        Teilnehmer anpasst.
 
         </div>
       </div> <!-- tab content -->
@@ -140,15 +149,7 @@
   </div> <!-- col md 12 -->
 </div> <!-- row -->
 
- <div class="row">     
-  <div class="col-xs-12 col-sm-12 col-md-6">
-        <p class="text-muted"> Das Abendessen findet im<strong> Fabula by Stare užance</strong>  Restaurant statt.</p>
-  </div>
-  <div class="col-xs-12 col-sm-12 col-md-6 text-center klopa" style="overflow:hidden; padding-right: 0px; padding-left: 0px;">
-  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFabula-by-Stare-u%25C5%25BEance-1759251951013048%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=false&appId=867309230068477" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-  </div>
- </div>            
-  
+ <br>  
 
 
  <hr>  
@@ -162,14 +163,14 @@
     <tr>
       <th scope="col">Halbtagsausflug</th>
       <th scope="col">Ganztagsausflug</th>
-      <th scope="col">Kajak Sonderangebot</th>
+      <th scope="col">Kajakausflug zu Küstenhöhlen</th>
     </tr>
   </thead>
   <tbody>
     <tr>     
-      <td>200.00 kn</td>
+      <td>400.00 kn</td>
+      <td>450,00 kn</td>
       <td>350,00 kn</td>
-      <td>750,00 kn</td>
     </tr>
 
   </tbody>
@@ -185,6 +186,8 @@
       <th scope="col">1 PAX</th>
       <th scope="col">KAJAK 2</th>
       <th scope="col">2 PAX</th>
+      <th scope="col">KAJAK 2</th>
+      <th scope="col">3 PAX</th>
     </tr>
   </thead>
   <tbody>
@@ -193,24 +196,32 @@
       <td>40,00 kn</td>
       <td>1H</td>
       <td>60,00kn</td>
+      <td>1H</td>
+      <td>100,00kn</td>
     </tr>
     <tr>     
       <td>2H</td>
       <td>70,00 kn</td>
       <td>2H</td>
       <td>100,00kn</td>
+      <td>2H</td>
+      <td>150,00kn</td>
     </tr>
     <tr>     
       <td>4H</td>
       <td>100,00 kn</td>
       <td>4H</td>
       <td>150,00kn</td>
+      <td>4H</td>
+      <td>200,00kn</td>
     </tr>
     <tr>     
       <td>8H</td>
       <td>150,00 kn</td>
       <td>8H</td>
       <td>200,00kn</td>
+      <td>8H</td>
+      <td>300,00kn</td>
     </tr>
   </tbody>
 </table>
@@ -296,7 +307,9 @@
 
 
     <div class="pmd-card-actions col-xs-6">
-          <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FKayaking-Premantura-241379939600438%2F&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+          <a class="facebook-modal-link btn-success btn" href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
+         <iframe class="facebook-modal-iframe" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FKayaking-Premantura-241379939600438%2F&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 
      </div>  

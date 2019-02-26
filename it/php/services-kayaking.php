@@ -22,7 +22,7 @@
                                    <p><a href="#" class="">più <span><i class="fa fa-arrow-right"></i></span></a>  
                                    </p>
                                    
-                                <span class='name btn btn-info btn-block '>200,00 kn</span>
+                                <span class='name btn btn-info btn-block '>300,00 kn</span>
                            </div>
                            <div class='back'>
                               <b><span>Escursione mezza giornata inlcude:</span></b>
@@ -51,7 +51,7 @@
                               <p><a href="#" class="">più <span><i class="fa fa-arrow-right"></i></span></a>  
                               </p>
                               
-                           <span class='name btn btn-info btn-block '>350,00 kn</span>
+                           <span class='name btn btn-info btn-block '>450,00 kn</span>
                       </div>
                       <div class='back'>
                          <b><span>Escursione di giornata intera inlcude:</span></b>
@@ -72,8 +72,8 @@
              <div class=" col-sm-4 col-xs-12">
                 <div class='card'>
                     <div class='front'>
-                      <h6>Kayak - Offerta speciale</h6>
-                      <div><span class='badge badge-info'>CIRCA 8H</span></div>
+                      <h6>L’escursione alle grotte costiere</h6>
+                      <div><span class='badge badge-info'>CIRCA 5H</span></div>
                       
                       
                       <span class='job'>Escursione in kayak per un massimo di 6 persone. </span>
@@ -81,15 +81,14 @@
                         <p><a href="#" class="">più <span><i class="fa fa-arrow-right"></i></span></a>  
                         </p>
                         
-                        <span class='name btn btn-info btn-block '>750,00 kn</span>
+                        <span class='name btn btn-info btn-block '>450,00 kn</span>
                   </div>
                   <div class='back'>
-                    <b>   <span>Kayak - Offerta speciale include:</span></b>
+                    <b>   <span>Kayak - L’escursione alle grotte include:</span></b>
                       <ul>
-                              <li>guida</li>
+                             <li>guida</li>
                              <li>frutta & acqua</li>
                              <li>pranzo</li>
-                             <li>cena</li>
                              <li>attrezzatura per lo snorkeling</li>
                              <li>equipaggiamento di sicurezza</li>
                              <li>Kayak</li>
@@ -111,7 +110,7 @@
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><span>Escursione mezza giornata</span></a></li>
         <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">  <span>Escursione di giornata intera</span></a></li>
-        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">  <span>Kayak - Offerta speciale</span></a></li>
+        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">  <span>L’escursione alle grotte costiere</span></a></li>
       </ul>
       
       <!-- Tab panes -->
@@ -128,24 +127,27 @@
 
         </div>
        
-        <div role="tabpanel" class="tab-pane" id="messages"><b>Escursione in kayak per un massimo di 6 persone.</b> 
-        Questa escursione è particolare nel suo genere per il suo approccio personale, dato che i gruppi possono essere formati al massimo da 6 persone. È un più costosa rispetto alla normale escursione di una giornata intera, ma offre un’esperienza più intensa. Questa escursione include anche una cena di 4 portate (con menù a scelta: di pesce, carne o vegetariano) al ristorante Fabula a Premantura. Le bevande non sono incluse nel prezzo della cena.
+        <div role="tabpanel" class="tab-pane" id="messages"><b>L’escursione guidata in kayak alle grotte costiere</b> 
+              
+   
+              inizia alle 9 del mattino e dura circa cinque
+             ore. L’escursione deve essere prenotata con almeno un giorno di anticipo. Il luogo di partenza e
+             di ritorno è il campeggio di Stupice a Premantura. L’escursione include lo snorkeling sulle
+             splendide spiagge delle isole appartate e nelle grotte del parco naturale di Kamenjak. La durata
+             dello snorkeling può essere adattata ai desideri dei partecipanti sempre tenendo conto della
+             stagione e della temperatura del mare. I partecipanti visiteranno almeno un’isola disabitata,
+             faranno snorkeling in una grotta e potranno ammirare la flora e la fauna sottomarina
+             dell’Arcipelago di Medulin. La guida stabilirà il ritmo dell&#39;escursione adattandolo alle condizioni
+             di sicurezza e ai partecipanti all&#39;escursione.
+         
+ 
         </div>
       </div> <!-- tab content -->
     </div> <!-- card1 -->
   </div> <!-- col md 12 -->
 </div> <!-- row -->
 
- <div class="row">     
-  <div class="col-xs-12 col-sm-12 col-md-6">
-        <p class="text-muted"> Il cena si svolge nel ristorante <strong> Fabula by Stare užance</strong></p>
-  </div>
-  <div class="col-xs-12 col-sm-12 col-md-6 text-center klopa" style="overflow:hidden; padding-right: 0px; padding-left: 0px;">
-  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFabula-by-Stare-u%25C5%25BEance-1759251951013048%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=false&appId=867309230068477" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-  </div>
- </div>            
-  
-
+<br>  
 
  <hr>  
 
@@ -158,14 +160,14 @@
     <tr>
       <th scope="col">Escursione mezza giornata</th>
       <th scope="col">Escursione di giornata intera</th>
-      <th scope="col">Kayak - Offerta speciale</th>
+      <th scope="col">Kayak - L’escursione alle grotte costiere</th>
     </tr>
   </thead>
   <tbody>
     <tr>     
-      <td>200.00 kn</td>
+      <td>300.00 kn</td>
+      <td>450,00 kn</td>
       <td>350,00 kn</td>
-      <td>750,00 kn</td>
     </tr>
 
   </tbody>
@@ -181,6 +183,8 @@
       <th scope="col">1 PAX</th>
       <th scope="col">KAJAK 2</th>
       <th scope="col">2 PAX</th>
+       <th scope="col">KAJAK 3</th>
+      <th scope="col">2 PAX</th>
     </tr>
   </thead>
   <tbody>
@@ -189,24 +193,32 @@
       <td>40,00 kn</td>
       <td>1H</td>
       <td>60,00kn</td>
+      <td>1H</td>
+      <td>100,00kn</td>
     </tr>
     <tr>     
       <td>2H</td>
       <td>70,00 kn</td>
       <td>2H</td>
       <td>100,00kn</td>
+      <td>2H</td>
+      <td>150,00kn</td>
     </tr>
     <tr>     
       <td>4H</td>
       <td>100,00 kn</td>
       <td>4H</td>
       <td>150,00kn</td>
+      <td>4H</td>
+      <td>200,00kn</td>
     </tr>
     <tr>     
       <td>8H</td>
       <td>150,00 kn</td>
       <td>8H</td>
       <td>200,00kn</td>
+      <td>8H</td>
+      <td>300,00kn</td>
     </tr>
   </tbody>
 </table>
@@ -292,8 +304,9 @@
 
 
     <div class="pmd-card-actions col-xs-6">
-          <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FKayaking-Premantura-241379939600438%2F&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
+        
+         <a class="facebook-modal-link btn-success btn" href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
+        <iframe class="facebook-modal-iframe" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FKayaking-Premantura-241379939600438%2F&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
      </div>  
      <div class="modal-footer row">
