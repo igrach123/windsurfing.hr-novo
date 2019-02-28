@@ -883,7 +883,7 @@ header{
 //language button
 @include xxs {
      #lang-id{
-        margin-top: 3px;
+        
         margin-left: 4%;
         font-size: 18px;
 
@@ -946,7 +946,7 @@ header{
 
 @include sm {
     #lang-id{
-        margin-top: 3px;
+       
         margin-left: 0%;
 
         .language button{

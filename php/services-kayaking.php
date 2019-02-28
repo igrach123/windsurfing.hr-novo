@@ -74,7 +74,7 @@
                       <div><span class='badge badge-info'>5H</span></div>
                       
                       
-                      <span class='job'> Min 3 Max 6 osobe </span>
+                      <span class='job'> Min 4 osobe </span>
                       <br>
                               <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>  
                               </p>
@@ -110,12 +110,12 @@
       
       <!-- Tab panes -->
       <div class="tab-content">
-        <div role="tabpanel" class="tab-pane active" id="home"> <b>Poludnevni izlet kajakom</b>  počinje u 10 h i 14 h.
+        <div role="tabpanel" class="tab-pane active" id="home"> <b>Poludnevni izlet kajakom</b>  počinje u 09 h i 13 h.
         Izlet kajakom se dogovara najmanjejedan dan unaprijed.
         Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i završava.
         Izlet uključuje i snorkeling. Isti će se odvijati na predivnim plažama osamljenih otoka ili uvalama parka prirode Kamenjak. Snorkeling će trajati po želji samih sudionika i, naravno, ovisno o temperaturi mora i godišnjem dobu. Posjetiti ćete barem dva nenaseljena otoka te upoznati floru i faunu podmorskog svijeta Medulinskog arhipelaga. O ritmu odvijanja izleta odlučuje vodič, na način da se odvijanje izleta provodi na siguran način i onim tempom koji mogu pratiti svi sudionici izleta.
         </div>
-        <div role="tabpanel" class="tab-pane" id="profile"> <b>Cjelodnevni izlet kajakom</b>  počinje u 10h
+        <div role="tabpanel" class="tab-pane" id="profile"> <b>Cjelodnevni izlet kajakom</b>  počinje u 09h
         Izlet kajakom se dogovara najmanje jedan dan unaprijed.
         Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i završava.
         Izlet uključuje i snorkeling. Isti će se odvijati na predivnim plažama osamljenih otoka ili uvalama parka prirode Kamenjak. Snorkeling će trajati po želji samih sudionika i, naravno, ovisno o temperaturi mora i godišnjem dobu. Posjetiti ćete barem dva nenaseljena otoka,špilju na Velikoj Kolumbarici,otok Fenoligu na kojem se vide otisci dinosaurusa te upoznati floru i faunu podmorskog svijeta Medulinskog arhipelaga. Ručak u Safari baru.
@@ -175,7 +175,7 @@
       <th scope="col">KAJAK 2</th>
       <th scope="col">2 OSOBE</th>
       <th scope="col">KAJAK 3</th>
-      <th scope="col">2 OSOBE</th>
+      <th scope="col">3 OSOBE</th>
     </tr>
   </thead>
   <tbody>

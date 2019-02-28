@@ -71,10 +71,8 @@
                 <div class='card'>
                     <div class='front'>
                       <h6>Ausflug zu Küstenhöhlen</h6>
-                      <div><span class='badge badge-info'>5H</span></div>
-                      
-                      
-                      <span class='job'> Min 3 Max 6 pax </span>
+                      <div><span class='badge badge-info'>5H</span></div> 
+                      <span class='job'> Min 4 pax </span>
                       <br>
                         <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>  
                         </p>
@@ -113,7 +111,7 @@
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="home">
-       <b> Ein Halbtagsausflug</b> mit dem Kajak beginnt wahlweise um 10 Uhr oder um 14 Uhr.
+       <b> Ein Halbtagsausflug</b> mit dem Kajak beginnt wahlweise um 09 Uhr oder um 13 Uhr.
         Die Tour muss mindestens einen Tag im Voraus gebucht werden.
         Ausgangs- und Rückkehrort ist der Campingplatz Stupice in Premantura.
         Der Ausflug bietet auch Gelegenheiten zum Schnorcheln an wunderschönen Stränden der entlegenen Inseln oder Buchten des SchutzgebietsKamenjak. Die Dauer der Schnorchelgelegenheitenkann,der Jahreszeit und Meerestemperatur entsprechend, den Wünschen der Teilnehmer angepasstwerden. Sie werden mindestens zwei unbewohnte Inseln besuchen und die marine Tier- und Pflanzenwelt des Archipels von Medulinkennenlernen. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst
@@ -121,7 +119,7 @@
 
         </div>
         <div role="tabpanel" class="tab-pane" id="profile"> 
-        <b>Ein Ganztagsausflug</b> mit dem Kajak beginnt um 10 Uhr.
+        <b>Ein Ganztagsausflug</b> mit dem Kajak beginnt um 9 Uhr.
         Die Tour muss mindestens einen Tag im Voraus gebucht werden.
         Ausgangs- und Rückkehrort ist der Campingplatz Stupice in Premantura.
         Der Ausflug bietet auch Gelegenheiten zum Schnorcheln an wunderschönen Stränden der entlegenen Inseln oder Buchten des SchutzgebietsKamenjak. Die Dauer der Schnorchelgelegenheiten kann, der Jahreszeit und Meerestemperatur entsprechend, den Wünschen der Teilnehmer angepasst werden. Sie werden mindestens zwei unbewohnte Inseln besuchen sowie die Grotte Velika Kolumbarica und die Insel Fenoliga, auf der Spuren von Dinosauriern zu sehen sind, und dabei die marine Tier- und Pflanzenwelt des Archipels von Medulin kennenlernen. Das Mittagessen findet in der Safari Bar statt.

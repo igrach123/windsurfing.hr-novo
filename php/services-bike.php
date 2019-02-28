@@ -195,10 +195,39 @@
        
       </tr>
       <tr>     
-        <td>1Dan - 80,00kn</td>
-        <td>1Dan - 100,00kn</td>
-        <td>1Dan - 120,00kn</td>
-        
+        <td>1 Day - 80,00kn</td>
+        <td>1 Day - 100,00kn</td>
+        <td>1 Day - 300,00kn</td>
+      </tr>
+      <tr>     
+        <td>2 Days - 150,00kn</td>
+        <td>2 Days - 190,00kn</td>
+        <td>2 Days - 570,00kn</td>
+      </tr>
+      <tr>     
+        <td>3 Days - 210,00kn</td>
+        <td>3 Days - 270,00kn</td>
+        <td>3 Days - 830,00kn</td>
+      </tr>
+      <tr>     
+        <td>4 Days - 260,00kn</td>
+        <td>4 Days - 320,00kn</td>
+        <td>4 Days - 1060,00kn</td>
+      </tr>
+      <tr>     
+        <td>5 Days - 300,00kn</td>
+        <td>5 Days - 400,00kn</td>
+        <td>5 Days - 1280,00kn</td>
+      </tr>
+      <tr>     
+        <td>6 Days - 350,00kn</td>
+        <td>6 Days - 450,00kn</td>
+        <td>6 Days - 1500,00kn</td>
+      </tr>
+      <tr>     
+        <td>7 Days - 400,00kn</td>
+        <td>7 Days - 500,00kn</td>
+        <td>7 Days - 1650,00kn</td>
       </tr>
     </tbody>
   </table>
@@ -225,17 +254,17 @@
 
    <div class="col-xs-6  col-sm-4 ">
       <a href="img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-      <p class="text-center text-muted"> <b>BIKE 2</b> Trance 2 2019</p>
+      <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
   </div>
 
   <div class="col-xs-6 col-sm-4 ">
       <a href="img/bike/Talon-2-Blue.jpg" class="text-center"><img  src="img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-      <p class="text-center text-muted"> <b>BIKE 3</b> Talon-2</p>
+      <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
   </div>
 
   <div class="col-xs-6   col-sm-4">
     <a href="img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img  src="img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike" class="img-responsive thumbnail"></a>
-    <p class="text-center text-muted"><b> BIKE 3</b> Stratos-29</p>
+    <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
   </div>
  
 
@@ -298,7 +327,7 @@
 
 
 
-    <div class="pmd-card-actions col-xs-6">
+     <div class="pmd-card-actions col-xs-6">
 
         <a class="facebook-modal-link btn-success btn" href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/" target="_blank"><span class="fa fa-facebook">POSJETITE NAS</span></a>
         <iframe class="facebook-modal-iframe" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRENT-A-BIKE-Premantura-917457535047303%2F&width=140&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="140" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

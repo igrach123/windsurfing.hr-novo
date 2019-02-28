@@ -1555,7 +1555,6 @@ header .arrow:hover, header .arrow:focus {
 
 @media only screen and (min-width: 320px) {
   #lang-id {
-    margin-top: 3px;
     margin-left: 4%;
     font-size: 18px; }
     #lang-id .language button {
@@ -1599,7 +1598,6 @@ header .arrow:hover, header .arrow:focus {
       font-size: 120%; } }
 @media only screen and (min-width: 768px) {
   #lang-id {
-    margin-top: 3px;
     margin-left: 0%; }
     #lang-id .language button {
       color: #FFFFFF;

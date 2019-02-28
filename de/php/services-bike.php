@@ -21,7 +21,7 @@
                                 <br>
                                   <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>  
                                   </p>
-                              <span class='name btn btn-info btn-block '>200,00 kn</span>
+                              <span class='name btn btn-info btn-block '>300,00 kn</span>
                             </div>  
                           
                         <div class='back'>
@@ -52,7 +52,7 @@
                          <br>
                            <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>  
                            </p>
-                           <span class='name btn btn-info btn-block '>350,00 kn</span>
+                           <span class='name btn btn-info btn-block '>450,00 kn</span>
                       </div>
                       <div class='back'>
                          <b><span>Ganztagsausflug beinhaltet:</span></b>
@@ -72,25 +72,24 @@
              <div class=" col-sm-4 col-xs-12">
                 <div class='card'>
                     <div class='front'>
-                      <h6>Fahrrad Sonderangebot</h6>
-                      <div><span class='badge badge-info'>8H</span></div>
-                      
-                      
-                      <span class='job'> Radausflug für bis zu sechs Personen. </span>
+                      <h6>Urban Stadtausflug Pula</h6>
+                      <div><span class='badge badge-info'>5H</span></div>   
+
                       <br>
+
                         <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>  
                         </p>
-                        <span class='name btn btn-info btn-block '>750,00 kn</span>
+                        <span class='name btn btn-info btn-block '>350,00 kn</span>
                   </div>
                   <div class='back'>
-                    <b>   <span>Fahrrad Sonderangebot beinhaltet:</span></b>
+                    <b>   <span>Urban Stadtausflug Pula:</span></b>
                       <ul>
                           <li>Tourleiter</li>
                           <li>Geländefahrrad</li>
                           <li>Sicherheitsausstattung</li>
                           <li>Obst & Wasser</li>
                           <li>Mahlzeit</li>
-                          <li>Abendessen</li>
+                          
                       </ul>
                      <div class='icons'>
 
@@ -109,7 +108,7 @@
        <ul class="nav nav-tabs text-uppercase" role="tablist">
          <li role="presentation" class="active"><a href="#home1" aria-controls="home1" role="tab" data-toggle="tab"><span>Halbtagsradausflug</span></a></li>
          <li role="presentation"><a href="#profile1" aria-controls="profile1" role="tab" data-toggle="tab">  <span>Ganztagsradausflug</span></a></li>
-         <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab" data-toggle="tab">  <span>Fahrrad Sonderangebot</span></a></li>
+         <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab" data-toggle="tab">  <span>Urban Stadtausflug Pula</span></a></li>
        </ul>
        
        <!-- Tab panes -->
@@ -133,23 +132,23 @@
           <b>   Es werden rund 30 Km zurückgelegt.</b>
          </div>
 
-         <div role="tabpanel" class="tab-pane" id="messages1"><b>Radausflug für bis zu sechs Personen.</b> 
-        Dieser Tagesausflug mit begrenzter Teilnehmerzahl und individualisierter Dienstleistung ist preislich zwar etwas höher angesiedelt als der Ganztagsausflug, er bietet jedoch ein wahres Erlebnis. Das Angebot beinhaltet ein Abendessen mit Viergangmenü nach Wunsch (Fisch, Fleisch oder vegetarisch) im Restaurant Fabula in Premantura. Getränke sind nicht im Preis inbegriffen
+         <div role="tabpanel" class="tab-pane" id="messages1"><b>Urban Stadtausflug Pula</b> 
+          Der Beginn der Feldbesichtigung von Mars
+            Erster Stopp Verudela
+            Aquarienrundfahrt oder Schwimmen
+            Der zweite Halt Valovine
+            Schnorcheln in der Höhle (Colombi-Grotten)
+            Third Stage Arena Arena
+            Das vierte Stop-Forum
+            Fünfte Haltestelle Golden Gate
+            Kehre zum Marsfeld zurück
+
          </div>
        </div> <!-- tab content -->
      </div> <!-- card1 -->
    </div> <!-- col md 12 -->
  </div> <!-- row -->
-  
-  <div class="row">     
-  <div class="col-xs-12 col-sm-12 col-md-6">
-       <p class="text-muted"> Das Abendessen findet im<strong> Fabula by Stare užance</strong>  Restaurant statt.</p>
-  </div>
-  <div class="col-xs-12 col-sm-12 col-md-6 text-center klopa" style="overflow:hidden; padding-right: 0px; padding-left: 0px;">
-  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFabula-by-Stare-u%25C5%25BEance-1759251951013048%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=false&appId=867309230068477" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-  </div>
- </div>      
-
+       
  <hr> 
 
 
@@ -162,14 +161,14 @@
       <tr>
         <th scope="col">Halbtagsausflug</th>
         <th scope="col">Ganztagsausflug</th>
-        <th scope="col">Fahrrad Sonderangebot</th>
+        <th scope="col">Urban Stadtausflug Pula</th>
       </tr>
     </thead>
     <tbody>
       <tr>     
-        <td>200.00 kn</td>
+        <td>300.00 kn</td>
+        <td>450,00 kn</td>
         <td>350,00 kn</td>
-        <td>750,00 kn</td>
       </tr>
 
     </tbody>
@@ -184,27 +183,55 @@
         <th scope="col">BICIKLA 1</th>
         <th scope="col">BICIKLA 2</th>
         <th scope="col">BICIKLA 3</th>
-        <th scope="col">BICIKLA 4</th>
       </tr>
     </thead>
-    <tbody>
+     <tbody>
       <tr>     
         <td>1H - 20,00kn</td>
         <td>1H - 30,00kn</td>
         <td>1H - 40,00kn</td>
-        <td></td>
+      
       </tr>
       <tr>     
         <td>4H - 50,00kn</td>
         <td>4H - 70,00kn</td>
         <td>4H - 80,00kn</td>
-        <td>4H - 100,00kn</td>
+       
       </tr>
       <tr>     
-        <td>1Dan - 80,00kn</td>
-        <td>1Dan - 100,00kn</td>
-        <td>1Dan - 120,00kn</td>
-        <td>1Dan - 150,00kn</td>
+        <td>1 Day - 80,00kn</td>
+        <td>1 Day - 100,00kn</td>
+        <td>1 Day - 300,00kn</td>
+      </tr>
+      <tr>     
+        <td>2 Days - 150,00kn</td>
+        <td>2 Days - 190,00kn</td>
+        <td>2 Days - 570,00kn</td>
+      </tr>
+      <tr>     
+        <td>3 Days - 210,00kn</td>
+        <td>3 Days - 270,00kn</td>
+        <td>3 Days - 830,00kn</td>
+      </tr>
+      <tr>     
+        <td>4 Days - 260,00kn</td>
+        <td>4 Days - 320,00kn</td>
+        <td>4 Days - 1060,00kn</td>
+      </tr>
+      <tr>     
+        <td>5 Days - 300,00kn</td>
+        <td>5 Days - 400,00kn</td>
+        <td>5 Days - 1280,00kn</td>
+      </tr>
+      <tr>     
+        <td>6 Days - 350,00kn</td>
+        <td>6 Days - 450,00kn</td>
+        <td>6 Days - 1500,00kn</td>
+      </tr>
+      <tr>     
+        <td>7 Days - 400,00kn</td>
+        <td>7 Days - 500,00kn</td>
+        <td>7 Days - 1650,00kn</td>
       </tr>
     </tbody>
   </table>
@@ -228,16 +255,16 @@
       <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
   </div>
    <div class="col-xs-6  col-sm-4 ">
-      <a href="../img/bike/brb-stratos-275-rc03-24s-black.jpg" class="text-center"><img  src="../img/bike/brb-stratos-275-rc03-24s-black_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-      <p class="text-center text-muted"> <b>BIKE 2</b> Stratos-275</p>
-  </div>
+       <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+       <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
+   </div>
   <div class="col-xs-6 col-sm-4 ">
       <a href="../img/bike/Talon-2-Blue.jpg" class="text-center"><img  src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-      <p class="text-center text-muted"> <b>BIKE 3</b> Talon-2</p>
+      <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
   </div>
     <div class="col-xs-6   col-sm-4">
     <a href="../img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img  src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike" class="img-responsive thumbnail"></a>
-    <p class="text-center text-muted"><b> BIKE 4</b> Stratos-29</p>
+    <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
   </div>
  
 

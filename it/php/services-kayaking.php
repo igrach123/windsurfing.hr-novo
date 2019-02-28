@@ -74,9 +74,10 @@
                     <div class='front'>
                       <h6>L’escursione alle grotte costiere</h6>
                       <div><span class='badge badge-info'>CIRCA 5H</span></div>
+                      <span class='job'>Min 4 PAX </span>
                       
                       
-                      <span class='job'>Escursione in kayak per un massimo di 6 persone. </span>
+            
                       <br>
                         <p><a href="#" class="">più <span><i class="fa fa-arrow-right"></i></span></a>  
                         </p>
@@ -115,12 +116,12 @@
       
       <!-- Tab panes -->
       <div class="tab-content">
-        <div role="tabpanel" class="tab-pane active" id="home"> <b>L'escursione in kayak di mezza giornata </b> ha due orari di partenza, alle 10:00 e alle 14:00.
+        <div role="tabpanel" class="tab-pane active" id="home"> <b>L'escursione in kayak di mezza giornata </b> ha due orari di partenza, alle 09:00 e alle 13:00.
         Le escursioni in kayak devono essere prenotate con almeno un giorno di anticipo.
         Si parte dalCampeggio ArenaStupice a Premantura. L’escursione Include lo snorkeling nelle acque che bagnano le bellissime e isolate spiagge delle isole e delle baie del parco Kamenjak. Il tempo dedicato allo snorkeling dipende dalle preferenze del gruppo e, naturalmente, dalla temperatura del mare e dalla stagione. È prevista la visita ad almeno due isole con zone bellissime dove si potrà ammirare la biodiversità del fondale marino dell'arcipelago di Medulin. Il ritmo dell'escursione è deciso dalla guida nell'interesse di rendere le escursioni sicure e praticabili da tutti i presenti.
 
         </div>
-        <div role="tabpanel" class="tab-pane" id="profile"> L'escursione in <b>kayak di giornata intera </b> parte alle 10:00 h.
+        <div role="tabpanel" class="tab-pane" id="profile"> L'escursione in <b>kayak di giornata intera </b> parte alle 09:00 h.
         Le escursioni in kayak devono essere prenotate con almeno un giorno di anticipo.
         Si parte dal Campeggio Arena Stupice a Premantura. L’escursione include lo snorkeling nelle acque che bagnano le bellissime e isolate spiagge delle isole e delle baie del parco Kamenjak. Il tempo dedicato allo snorkeling dipende dalle preferenze del gruppo e, naturalmente, dalla temperatura del mare e dalla stagione. È prevista la visita ad almeno due isole disabitate, alla grotta di VelikaKolumbarica, all'isola di Fenoliga con le impronte dei dinosauri. Il mare offre zone bellissime dove si potrà ammirare la biodiversità del fondale marino dell'arcipelago di Medulin. Il pranzo è organizzato al Safari Bar. Il ritmo dell'escursione è deciso dalla guida nell'interesse di rendere le escursioni sicure e praticabili da tutti i presenti.
 
@@ -184,7 +185,7 @@
       <th scope="col">KAJAK 2</th>
       <th scope="col">2 PAX</th>
        <th scope="col">KAJAK 3</th>
-      <th scope="col">2 PAX</th>
+      <th scope="col">3 PAX</th>
     </tr>
   </thead>
   <tbody>
