@@ -11,7 +11,7 @@
                 <h5 class="services-sm-title">IZLETI BICIKLIMA</h5>
 
                 <div class="row">
-                    <div class=" col-sm-4 col-xs-12 col-sm-offset-2">
+                    <div class=" col-sm-6 col-md-3 col-xs-12 ">
                         <div class='card'>
                             <div class='front'>
                                 <h6>POLUDNEVNI IZLET</h6>
@@ -41,7 +41,7 @@
 
                     <!-- end of probni tečaj   -->
 
-                    <div class=" col-sm-4 col-xs-12">
+                    <div class=" col-sm-6 col-md-3 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>CJLEODNEVNI IZLET</h6>
@@ -68,7 +68,7 @@
                         </div>
                     </div><!-- end of col-sm-1   -->
 
-                    <div class=" col-sm-4 col-xs-12 col-sm-offset-2">
+                    <div class=" col-sm-6 col-md-3 col-xs-12 ">
                         <div class='card'>
                             <div class='front'>
                                 <h6>GRADSKA TURA PULA</h6>
@@ -97,11 +97,11 @@
                         </div> <!-- card -->
                     </div><!-- end of col-sm-1   -->
 
-                    <div class=" col-sm-4 col-xs-12">
+                    <div class=" col-sm-6 col-md-3 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>ENDURO TURA KAMENJAK</h6>
-                                <div><span class='badge badge-info'>cca 5H</span></div>
+                                <div><span class='badge badge-info'>cca 5H-8H</span></div>
 
 
                                 <span class='job'> </span>
@@ -114,7 +114,6 @@
                                 <b> <span> Enduro Tours Kamenjak uključuje:</span></b>
                                 <ul>
                                     <li>Vodiča</li>
-                                    <li>Biciklu</li>
                                     <li>Voće i vodu</li>
                                     <li>Ručak</li>
                                     <li>Sigurnosnu opremu</li>
@@ -188,6 +187,9 @@
                                     brdskog biciklizma (osjećaj kao da ste u planinama), a staze su uz obalu mora, po
                                     netaknutoj prirodi. Ture se odvijaju uglavnom po single trailovima uz kratke boravke
                                     na cesti.
+                                    Trajanje 5-8 h
+                                    Kilometraža 25-40
+
                                 </div>
                             </div> <!-- tab content -->
                         </div> <!-- card1 -->
@@ -208,12 +210,14 @@
                                 <th scope="col">POLUDNEVNI IZLET</th>
                                 <th scope="col">CJELODNEVNI IZLET</th>
                                 <th scope="col">URBANA GRADSKA TURA - PULA</th>
+                                <th scope="col">ENDURO TOUR KAMENJAK</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <td>300.00 kn</td>
                                 <td>450,00 kn</td>
+                                <td>350,00 kn</td>
                                 <td>350,00 kn</td>
                             </tr>
 
@@ -236,13 +240,13 @@
                             <tr>
                                 <td>1H - 20,00kn</td>
                                 <td>1H - 30,00kn</td>
-                                <td>1H - 40,00kn</td>
+
 
                             </tr>
                             <tr>
                                 <td>4H - 50,00kn</td>
                                 <td>4H - 70,00kn</td>
-                                <td>4H - 80,00kn</td>
+                                <td>4H - 200,00kn</td>
 
                             </tr>
                             <tr>
@@ -283,6 +287,36 @@
                         </tbody>
                     </table>
                 </div>
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">BACK PACK</th>
+                                <th scope="col">BACK PACK WITH TOOLS,PUMP & FIRST AID</th>
+                                <th scope="col">SERVICE 1H</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>20.00 kn</td>
+                                <td>50,00 kn</td>
+                                <td>125,00 kn</td>
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+                <hr>
+                <div class="text-center text-muted">
+                    BIKES ARE RENTED AT YOUR OWN RESPONSIBILITY. <br>
+                    ANY COMPLAINTS MAY BE MADE WITHIN THE FIRST 15 MINUTES OF RENTAL. <br>
+                    AFTERWARDS THEY WILL NOT BE ACCEPTED. <br>
+                    ANY DAMAGE TO THE BIKE WILL BE CHARGED ADDITIONALLY.
+                </div>
+
 
                 <hr>
                 <h5 class="services-sm-title"> BICIKLE</h5>
