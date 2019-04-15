@@ -117,8 +117,7 @@
        <!-- Tab panes -->
        <div class="tab-content">
          <div role="tabpanel" class="tab-pane active" id="home1"> 
-         <b>The half-day excursion by mountain bike starts at 10:00 h and at 14:00 h..</b>
-         The half-day excursion by mountain bike starts at 10:00 h and at 14:00 h.
+         <b>The half-day excursion </b> by mountain bike starts at 09:00 h and at 13:00 h.
          Excursions by bike must be booked at least one day in advance.
          The excursion begins and finishes in Premantura at our centre near the house number 63 (opposite the Surf Bar). The half-day excursion includes biking along the bicycle trail on the GornjiKamenjak, a stop and ride along the dinosaur path withits dinosaur footprints and swimming at secluded beaches. 
          The pace of the excursion is decided by the guide with the aim to make this a safe and practicable experience for everyone present.
@@ -127,8 +126,8 @@
 
          </div>
          <div role="tabpanel" class="tab-pane" id="profile1"> 
-         <b> The full day excursion by mountain bike starts at 10 h.</b>
-          The full day excursion by mountain bike starts at 10 h.
+         <b> The full day excursion by mountain bike starts at 9 h.</b>
+         
           Excursions by bike must be booked at least one day in advance.
           The excursion begins and finishes in Premantura at our centre near the house number 63 (opposite the Surf Bar). The half-day excursion includes biking along the bicycle trail on the GornjiKamenjak, a stop and visit at the Dino Park and its dinosaur footprints, swimming at secluded beaches, riding along the single trails on DonjiKamenjak and a lunch at the Safari Bar.  
           The pace of the excursion is decided by the guide with the aim to make this a safe and practicable experience for everyone present.
@@ -260,10 +259,7 @@
       <a href="../img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img  src="../img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
   </div>
-    <div class="col-xs-6  col-sm-4 ">
-       <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-       <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
-   </div>
+
   <div class="col-xs-6 col-sm-4 ">
       <a href="../img/bike/Talon-2-Blue.jpg" class="text-center"><img  src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
@@ -272,6 +268,10 @@
     <a href="../img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img  src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike" class="img-responsive thumbnail"></a>
     <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
   </div>
+      <div class="col-xs-6  col-sm-4 ">
+       <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+       <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
+   </div>
  
 
 </div>  

@@ -112,7 +112,7 @@
        <!-- Tab panes -->
        <div class="tab-content">
          <div role="tabpanel" class="tab-pane active" id="home1"> 
-         <b>Poludnevni izlet brdskim biciklom počinje u 10 hi 14 h.</b>
+         <b>Poludnevni izlet brdskim biciklom počinje u 9 hi 13 h.</b>
           Izlet biciklom dogovara se barem jedan dan unaprijed.
           Izlet počinje i završava u Premanturi blizu kućnog broja selo 63 (nasuprot Surf Bara). Tijekom poludnevnog izleta ćemo voziti po biciklističkoj stazi na donjem Kamenjaku, zaustaviti se i pogledati dino park i vidjeti otiske dinosaurusa te se okupati na osamljenim plažama.
           O ritmu odvijanja izleta odlučuje vodič, na način da se odvijanje izleta provodi na siguran način i onim tempom koji mogu pratiti svi sudionici izleta. 
@@ -120,7 +120,7 @@
 
          </div>
          <div role="tabpanel" class="tab-pane" id="profile1"> 
-         <b> Cjelodnevni izlet biciklom počine u 10 h</b>
+         <b> Cjelodnevni izlet biciklom počine u 9 h</b>
           Izlet biciklom dogovara se barem jedan dan unaprijed.
           Izlet počinje i završava u Premanturi blizu kućnog broja selo 63 (nasuprot Surf bara). Tijekom cjelodnevnog izleta ćemo vidjeti i proći biciklističku stazu na donjem Kamenjaku, zaustaviti se i pogledati dino park i vidjeti otiske dinosaurusa. Okupatise na osamljenim plažama. Proći singl trailove na Gornjem Kamenjaku. Ručak u Safari baru.
           O ritmu odvijanja izleta odlučuje vodič, na način da se odvijanje izleta provodi na siguran način i onim tempom koji mogu pratiti svi sudionici izleta.
@@ -251,12 +251,6 @@
       <a href="img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img  src="img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
   </div>
-
-   <div class="col-xs-6  col-sm-4 ">
-      <a href="img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-      <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
-  </div>
-
   <div class="col-xs-6 col-sm-4 ">
       <a href="img/bike/Talon-2-Blue.jpg" class="text-center"><img  src="img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
@@ -265,6 +259,10 @@
   <div class="col-xs-6   col-sm-4">
     <a href="img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img  src="img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike" class="img-responsive thumbnail"></a>
     <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
+  </div>
+     <div class="col-xs-6  col-sm-4 ">
+      <a href="img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+      <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
   </div>
  
 

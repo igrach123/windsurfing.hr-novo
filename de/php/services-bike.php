@@ -114,7 +114,7 @@
        <!-- Tab panes -->
        <div class="tab-content">
          <div role="tabpanel" class="tab-pane active" id="home1"> 
-          <b>Ein Halbtagsausflug</b> mit dem Geländefahrrad beginnt wahlweise um 10 Uhr oder um 14 Uhr.
+          <b>Ein Halbtagsausflug</b> mit dem Geländefahrrad beginnt wahlweise um 9 Uhr oder um 13 Uhr.
           Die Tour muss mindestens einen Tag im Voraus gebucht werden.
           Ausgangs- und Rückkehrort ist unser Zentrum in Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über die Radwege des Unteren Kamenjaksund bietet die Erkundung vonSaurierspuren imDinoparksowie Badespaß an entlegenen Stränden.
           Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst.
@@ -125,7 +125,7 @@
 
          </div>
          <div role="tabpanel" class="tab-pane" id="profile1"> 
-         <b>Ein Ganztagsausflug</b> mit dem Geländefahrrad beginnt um 10 Uhr.
+         <b>Ein Ganztagsausflug</b> mit dem Geländefahrrad beginnt um 9 Uhr.
          Die Tour muss mindestens einen Tag im Voraus gebucht werden.
          Ausgangs- und Rückkehrort ist unser Zentrum in Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über die Radwege des Unteren Kamenjaks, inklusive Erkundung von Saurierspuren im Dinopark und Badespaß an entlegenen Stränden, sowie über die Single-Trails des Oberen Kamenjaks. Das Mittagessen findet im Safari Bar statt.
          Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst.
@@ -254,10 +254,7 @@
       <a href="../img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img  src="../img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
   </div>
-   <div class="col-xs-6  col-sm-4 ">
-       <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-       <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
-   </div>
+
   <div class="col-xs-6 col-sm-4 ">
       <a href="../img/bike/Talon-2-Blue.jpg" class="text-center"><img  src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
@@ -266,6 +263,10 @@
     <a href="../img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img  src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike" class="img-responsive thumbnail"></a>
     <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
   </div>
+     <div class="col-xs-6  col-sm-4 ">
+       <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+       <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
+   </div>
  
 
 </div>  

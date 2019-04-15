@@ -117,7 +117,7 @@
        <!-- Tab panes -->
        <div class="tab-content">
          <div role="tabpanel" class="tab-pane active" id="home1"> 
-         <b>L'escursione di mezza giornata in mountain bike ha due orari di partenza, alle 10:00 e alle 14:00.</b>
+         <b>L'escursione di mezza giornata in mountain bike ha due orari di partenza, alle 09:00 e alle 13:00.</b>
          Le escursioni in mountain bike devono essere prenotate con almeno un giorno di anticipo.
          Si parte dal villaggio di Premantura, dal nostro centro al numero civico 63 (di fronte al Surf Bar). L’escursione di mezza giornatainizia sulla pista ciclabile lungo il paesaggio protetto di DonjiKamenjak, con sosta e visita al percorso dei dinosauri, seguita da una nuotata in una caletta appartata. Il ritmo dell'escursione è deciso dalla guida nell'interesse di rendere le escursioni sicure e praticabili da tutti i presenti.
 
@@ -126,7 +126,7 @@
 
          </div>
          <div role="tabpanel" class="tab-pane" id="profile1"> 
-         <b> L'escursione di giornata intera in mountain bike inizia alle 10:00.</b>
+         <b> L'escursione di giornata intera in mountain bike inizia alle 09:00.</b>
         
          Le escursioni in mountain bike devono essere prenotate con almeno un giorno di anticipo.
          Si parte dal villaggio di Premantura, dal nostro centro al numero civico 63 (di fronte al Surf Bar). L’escursione di mezza giornata inizia sulla pista ciclabile lungo il paesaggio protetto di GornjiKamenjak, con sosta e visita al percorso dei dinosauri, seguita da una nuotata in una caletta appartata. Si prosegue seguendo le single trails del DonjiKamenjak con pausa pranzo al Safari Bar. Il ritmo dell'escursione è deciso dalla guida nell'interesse di rendere le escursioni sicure e praticabili da tutti i presenti.
@@ -259,10 +259,6 @@
       <a href="../img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img  src="../img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BICICLETTA 1</b> Torpado-bt591</p>
   </div>
-   <div class="col-xs-6  col-sm-4 ">
-       <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-       <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
-   </div>
   <div class="col-xs-6 col-sm-4 ">
       <a href="../img/bike/Talon-2-Blue.jpg" class="text-center"><img  src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
       <p class="text-center text-muted"> <b>BICICLETTA 2</b> Talon-2</p>
@@ -270,6 +266,10 @@
     <div class="col-xs-6   col-sm-4">
     <a href="../img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img  src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike" class="img-responsive thumbnail"></a>
     <p class="text-center text-muted"><b> BICICLETTA 2</b> Stratos-29</p>
+  </div>
+  <div class="col-xs-6  col-sm-4 ">
+      <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img  src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+      <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
   </div>
  
 
