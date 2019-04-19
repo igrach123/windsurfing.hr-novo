@@ -316,8 +316,6 @@
                     AFTERWARDS THEY WILL NOT BE ACCEPTED. <br>
                     ANY DAMAGE TO THE BIKE WILL BE CHARGED ADDITIONALLY.
                 </div>
-
-
                 <hr>
                 <h5 class="services-sm-title"> BICIKLE</h5>
                 <div class="row bicikle-info">

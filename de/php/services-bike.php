@@ -234,9 +234,9 @@
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">BICIKLA 1</th>
-                                <th scope="col">BICIKLA 2</th>
-                                <th scope="col">BICIKLA 3</th>
+                                <th scope="col">BIKE 1</th>
+                                <th scope="col">BIKE 2</th>
+                                <th scope="col">BIKE 3</th>
                             </tr>
                         </thead>
                         <tbody>
