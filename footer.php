@@ -1,56 +1,52 @@
 <footer id="footer" class="clearfix">
 
     <div class="container">
-        <h2 class="text-center">Kontaktirajte nas</h2>
-        <div class="text-center error"> <?php echo $result;?></div>
-        <!--error message-->
-
-
         <div class="row">
-
-            <div class="col-xs-12 col-sm-8 col-sm-offset-2  col-md-offset-3 col-md-6" id="contact-container">
+            <div class="col-xs-12 col-md-6 col-md-offset-3">
+                <h2 class="text-center">Kontaktirajte nas</h2>
                 <h4 class="text-center ">Pošaljite nam upit!</h4>
-                <form class="form-horizontal" role="form" method="post" id="contact-form">
 
+                <form role="form" method="post" id="reused_form">
                     <div class="form-group">
-
-                        <div class="col-sm-12">
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Vaše ime"
-                                value="<?php echo $_POST['name']; ?>">
-                        </div>
+                        <input type="text" placeholder="Ime" class="form-control" id="name" name="name" required
+                            maxlength="50">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Email" id="email" name="email" required
+                            maxlength="50">
                     </div>
                     <div class="form-group">
 
-                        <div class="col-sm-12">
-                            <input type="email" class="form-control" id="email" name="email" placeholder="Vaš Email"
-                                value="<?php echo $_POST['email']; ?>">
+                        <textarea class="form-control" type="textarea" name="message" id="message"
+                            placeholder="Vaša poruka ovdje!" maxlength="6000" rows="7"></textarea>
+                    </div>
+                    <div class="row" style="margin-bottom:30px;">
+                        <div class="col-sm-5">
+                            <img src="captcha.php" id="captcha_image" />
+                            <br />
+                            <a id="captcha_reload" href="#">reload</a>
+                        </div>
+                        <div class="col-sm-6">
+                            <input type="text" placeholder="Unesite kod s slike!" class="form-control" required
+                                id="captcha" name="captcha">
                         </div>
                     </div>
-                    <div class="form-group">
-
-                        <div class="col-sm-12">
-                            <textarea class="form-control" id="message" rows="4" placeholder="Vaša poruka"
-                                name="message" style="resize: none;"><?php echo $_POST['message']; ?></textarea>
-                        </div>
-                    </div>
-
-                    <div class="form-group">
-                        <label for="human" class="col-sm-2 col-sm-offset-6 control-label">2+3=?</label>
-                        <div class="col-sm-4 ">
-                            <input type="text" class="form-control" id="human" name="human" placeholder="Your answer">
-                        </div>
-                    </div>
-
-                    <div class="form-group">
-                        <div class="text-center">
-                            <input id="submit" name="submit" type="submit" value="Send"
-                                class="btn-send btn btn-primary btn-md">
-                        </div>
-                    </div>
-                    <p class="antispam hidden">your input here: <input type="text" name="url" id="url" /></p>
+                    <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">Pošaljite</button>
                 </form>
+                <div id="success_message" style="width:100%; height:100%; display:none; ">
+                    <h3>Sent your message successfully!</h3>
+                </div>
+                <div id="error_message" style="width:100%; height:100%; display:none; ">
+                    <h3>Error</h3> Sorry there was an error sending your form.
+                </div>
             </div>
+
         </div>
+        <br>
+        <br>
+
+
+
 
 
         <div class="row footer-top clearfix">
@@ -101,11 +97,14 @@
                     <li><a href="http://www.arso.gov.si/vreme/napovedi%20in%20podatki/index.html"
                             target="_blank">www.arsov.gov.si</a></li>
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
+                </ul>
 
-
-
-
-
+                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> NAŠE STRANICE</h4>
+                <ul>
+                    <li><a href="https://www.rentabikepremantura.com/" target="_blank"> rentabikepremantura.com</a>
+                    </li>
+                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a>
+                    </li>
                 </ul>
                 <!--  footer weather modal-->
             </div>
@@ -157,11 +156,14 @@
                     <img src="img/ws-logo-big-white-font.png" class="img-responsive" alt="ws-logo"></a>
             </div>
             <div class="footer-bottom-center">
-                <p class="text-center">WINDSUFING PREMANTURA - MEDULIN &copy; <span class="hidden-sm">2018.</span> </p>
+                <p class="text-center">WINDSUFING PREMANTURA - MEDULIN &copy; <span class="hidden-sm">
+                        <?php echo date("Y"); ?> </span> </p> </span> </p>
             </div>
             <div class="footer-bottom-right">
                 <a href="https://www.cro-webdesign.com/" target="_blank">
-                    <p class="text-left hidden-xs izradio">Cro Web Design</p>
+                    <p class="text-center hidden-xs izradio">POWERED BY:<br>
+                        <span class="cw-logo"></span>
+                    </p>
                 </a>
             </div>
 

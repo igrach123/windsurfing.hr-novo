@@ -227,10 +227,31 @@
                             <tr>
                                 <td>300.00 kn</td>
                                 <td>450,00 kn</td>
-                                <td>350,00 kn</td>
-                                <td>350,00 kn</td>
-                            </tr>
+                                <td>4+ PERSONS 350,00 kn</td>
+                                <td>4+ PERSONS 350,00 kn</td>
 
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>3 PERSONS 400,00 kn</td>
+                                <td>3 PERSONS 400,00 kn</td>
+
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>2 PERSONS 500,00 kn</td>
+                                <td>2 PERSONS 500,00 kn</td>
+
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>1 PERSON 1000,00 kn</td>
+                                <td>1 PERSON 1000,00 kn</td>
+
+                            </tr>
                         </tbody>
                     </table>
                 </div>
@@ -240,9 +261,9 @@
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">BICIKLA 1</th>
-                                <th scope="col">BICIKLA 2</th>
-                                <th scope="col">BICIKLA 3</th>
+                                <th scope="col">BIKE 1</th>
+                                <th scope="col">BIKE 2</th>
+                                <th scope="col">BIKE 3</th>
 
                             </tr>
                         </thead>
@@ -442,10 +463,14 @@
 
 
                 <div class="pmd-card-actions col-xs-6">
-
+                    MORE @ <a href="https://www.rentabikepremantura.com/" target="_blank"> rentabikepremantura.com</a>
+                    <br>
                     <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/" target="_blank"><span
-                            class="fa fa-facebook">VISIT US</span></a>
+                            class="fa fa-facebook"></span></a>
+                    <a class="instagram-modal-link  btn btn-danger"
+                        href="https://www.instagram.com/windsurfingcenterpremantura/" target="_blank">
+                        <span class="fa fa-instagram"></span></a>
                     <iframe class="facebook-modal-iframe"
                         src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRENT-A-BIKE-Premantura-917457535047303%2F&width=140&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477"
                         width="140" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"

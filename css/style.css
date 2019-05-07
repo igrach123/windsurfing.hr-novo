@@ -355,6 +355,14 @@ h2.pmd-card-title-text { font-size: 1.5rem; font-weight: 400; margin-bottom: 2px
 
 .badge-inverse:hover { background-color: #1a1a1a; }
 
+.facebook-modal-link { color: #ffffff !important; background-color: #3b5998 !important; margin-left: 0px !important; margin-top: 10px; padding: 12px 14px !important; }
+
+.facebook-modal-link:hover { color: #3b5998 !important; background-color: #ffffff !important; margin-left: 0px !important; margin-top: 10px; }
+
+.instagram-modal-link { color: #ffffff !important; background-color: #bc2a8d !important; margin-left: 0px !important; margin-top: 10px; border: 1px solid #bc2a8d; padding: 12px 14px !important; }
+
+.instagram-modal-link:hover { color: #bc2a8d !important; background-color: #ffffff !important; border: 1px solid #bc2a8d; margin-left: 0px !important; margin-top: 10px; }
+
 html { padding: 0px 0px; margin: 0px 0px; }
 
 body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for old browsers */ background: -webkit-linear-gradient(to top, #f2fcfe, #1c92d2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to top, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ font-size: 16px; font-family: "Open Sans", "Helvetica", sans-serif; overflow-x: hidden; }
@@ -581,6 +589,11 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services .pmd-card { border-radius: 0px 0px 5px 5px; }
 #services h3 img { width: 50px; padding-left: 5px; }
 
+#services-windsurf .btn-primary, #services-bike .btn-primary, #services-kayaking .btn-primary, #services-rental .btn-primary, #services-snorkeling .btn-primary, #services-sup .btn-primary { background-color: #ffab35; color: #ffffff; border: 1px solid #ffab35; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; padding: 10px 14px; }
+#services-windsurf .btn-primary .modal-footer, #services-bike .btn-primary .modal-footer, #services-kayaking .btn-primary .modal-footer, #services-rental .btn-primary .modal-footer, #services-snorkeling .btn-primary .modal-footer, #services-sup .btn-primary .modal-footer { padding: 0px; }
+@media only screen and (min-width: 320px) { #services-windsurf .btn-primary, #services-bike .btn-primary, #services-kayaking .btn-primary, #services-rental .btn-primary, #services-snorkeling .btn-primary, #services-sup .btn-primary { position: fixed; bottom: 15px; right: 10px; } }
+@media only screen and (min-width: 768px) { #services-windsurf .btn-primary, #services-bike .btn-primary, #services-kayaking .btn-primary, #services-rental .btn-primary, #services-snorkeling .btn-primary, #services-sup .btn-primary { position: fixed; bottom: 15px; right: 10px; } }
+#services-windsurf .btn-primary:hover, #services-bike .btn-primary:hover, #services-kayaking .btn-primary:hover, #services-rental .btn-primary:hover, #services-snorkeling .btn-primary:hover, #services-sup .btn-primary:hover { background-color: inherit; color: #ffab35; border: 1px solid #ffab35; }
 #services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro { font-family: "Roboto", cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 20px; }
 #services-windsurf .services-sm-title, #services-bike .services-sm-title, #services-kayaking .services-sm-title, #services-rental .services-sm-title, #services-snorkeling .services-sm-title, #services-sup .services-sm-title { color: #03a9f5; padding: 30px 0 30px 0; text-align: center; font-size: 28px; font-weight: 600; }
 #services-windsurf .services-sm-title2, #services-bike .services-sm-title2, #services-kayaking .services-sm-title2, #services-rental .services-sm-title2, #services-snorkeling .services-sm-title2, #services-sup .services-sm-title2 { color: #03a9f5; padding: 30px 0px 0px 0px; text-align: center; font-size: 28px; font-weight: 600; }
@@ -604,6 +617,8 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .facebook-modal-iframe { display: inherit; }
 
+@media only screen and (min-width: 320px) { #services-kayaking .nav-tabs > li { width: 100% !important; text-align: center; } }
+@media only screen and (min-width: 768px) { #services-kayaking .nav-tabs > li { width: 33.33% !important; text-align: center; } }
 #services-kayaking h4 { background-image: url(../img/kayak/kayak-header-1.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 #services-kayaking .nav-tabs { border-bottom: 2px solid #ddd; }
 #services-kayaking .nav-tabs > li.active > a, #services-kayaking .nav-tabs > li.active > a:focus, #services-kayaking .nav-tabs > li.active > a:hover { border-width: 0; }
@@ -620,6 +635,9 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 @media all and (max-width: 724px) { #services-kayaking .nav-tabs > li > a > span { font-size: 16px; }
   #services-kayaking .nav-tabs > li > a { padding: 5px 5px; } }
 
+@media only screen and (min-width: 320px) { #services-bike .nav-tabs > li { width: 100% !important; text-align: center; } }
+@media only screen and (min-width: 768px) { #services-bike .nav-tabs > li { width: 50% !important; text-align: center; } }
+@media only screen and (min-width: 992px) { #services-bike .nav-tabs > li { width: 25% !important; text-align: center; } }
 #services-bike h4 { background-image: url(../img/bike/bike-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 #services-bike .nav-tabs { border-bottom: 2px solid #ddd; }
 #services-bike .nav-tabs > li.active > a, #services-bike .nav-tabs > li.active > a:focus, #services-bike .nav-tabs > li.active > a:hover { border-width: 0; }
@@ -658,6 +676,11 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #location .location-bg-2 { background-image: url("../img/cemtri/medulin.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
 #location .location-bg-3 { background-image: url("../img/cemtri/bike-c.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
 
+#location-permantura .btn-primary, #location-medulin .btn-primary, #location-bike .btn-primary { background-color: #ffab35; color: #ffffff; border: 1px solid #ffab35; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; padding: 10px 14px; }
+#location-permantura .btn-primary .modal-footer, #location-medulin .btn-primary .modal-footer, #location-bike .btn-primary .modal-footer { padding: 0px; }
+@media only screen and (min-width: 320px) { #location-permantura .btn-primary, #location-medulin .btn-primary, #location-bike .btn-primary { position: fixed; bottom: 15px; right: 10px; } }
+@media only screen and (min-width: 768px) { #location-permantura .btn-primary, #location-medulin .btn-primary, #location-bike .btn-primary { position: fixed; bottom: 15px; right: 10px; } }
+#location-permantura .btn-primary:hover, #location-medulin .btn-primary:hover, #location-bike .btn-primary:hover { background-color: inherit; color: #ffab35; border: 1px solid #ffab35; }
 #location-permantura .close, #location-medulin .close, #location-bike .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
 #location-permantura .modal-header, #location-medulin .modal-header, #location-bike .modal-header { padding: 0px; }
 #location-permantura .l-iconi-wrapper, #location-medulin .l-iconi-wrapper, #location-bike .l-iconi-wrapper { list-style: none; }
@@ -732,6 +755,9 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 footer { color: #ffffff; background: #078d8d; background: -moz-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, #078d8d), color-stop(45%, #066a6a), color-stop(100%, #032a6d)); background: -webkit-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -o-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -ms-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: linear-gradient(to bottom, #078d8d 0%, #066a6a 45%, #032a6d 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 ); }
 footer h2 { color: #fff; }
 footer h4 { color: #ffab35; padding-bottom: 10px; text-transform: uppercase; }
+@media only screen and (min-width: 320px) { footer h4 { padding-bottom: 0px; } }
+@media only screen and (min-width: 992px) { footer h4 { padding-bottom: 10px; } }
+footer .our-sites { margin-top: 15px; margin-bottom: 0px; padding-bottom: 5px; }
 footer h5 { color: #89e9f8; font-weight: bolder; }
 @media only screen and (min-width: 320px) { footer { text-align: center; } }
 footer .row a { color: #fafafa; }
@@ -753,16 +779,20 @@ footer .row a:hover, footer .row a:active { text-decoration: none; color: #03a9f
 #footer-bottom { min-height: 50px; color: #fafafa; /*  overwrite bootstrap default margin-left, because the <label> doesn't contain the <input> element. */ /* for image option with span text */ }
 @media only screen and (min-width: 768px) { #footer-bottom .footer-bottom-left { width: 25%; float: left; }
   #footer-bottom .footer-bottom-center { width: 50%; float: left; text-align: center; }
-  #footer-bottom .footer-bottom-right { width: 25%; float: left; }
-  #footer-bottom .footer-bottom-right p { font-size: 60%; text-transform: uppercase; font-weight: bold; color: #b8bec5; line-height: 400%; }
-  #footer-bottom .footer-bottom-right p a { color: #b8bec5; text-decoration: none; } }
+  #footer-bottom .footer-bottom-right { margin-bottom: 0px; width: 25%; float: left; }
+  #footer-bottom .footer-bottom-right p { font-size: 60%; margin-bottom: 0px; text-transform: uppercase; font-weight: bold; color: #b8bec5; }
+  #footer-bottom .footer-bottom-right p a { color: #b8bec5; text-decoration: none; }
+  #footer-bottom .footer-bottom-right .izradio { margin-top: 10px; }
+  #footer-bottom .footer-bottom-right .cw-logo { margin-top: 5px; display: inline-block; width: 40px; height: 40px; background-image: url(../img/social/cro-webdesing-logo-black.png); background-size: cover; transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); -webkit-transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); -moz-transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
+  #footer-bottom .footer-bottom-right .cw-logo:hover { display: inline-block; background-image: url(../img/social/cro-webdesing-logo.png); } }
 @media only screen and (min-width: 320px) { #footer-bottom p { line-height: 300%; display: inline-block; font-size: 65%; margin-top: 10px; color: #fafafa; }
   #footer-bottom .footer-bottom-center p { font-family: "Permanent Marker", cursive; }
   #footer-bottom img { width: 60px; margin: 0 auto; padding-top: 7px; } }
 @media only screen and (min-width: 480px) { #footer-bottom p { display: inline-block; font-size: 90%; }
   #footer-bottom img { width: 60px; padding-top: 7px; } }
 @media only screen and (min-width: 768px) { #footer-bottom p { display: inline-block; font-size: 100%; }
-  #footer-bottom img { width: 50px; padding-top: 10px; } }
+  #footer-bottom img { width: 70px; padding-top: 30px; }
+  #footer-bottom .footer-bottom-center p { margin-top: 35px; } }
 #footer-bottom .jf-form { margin-top: 28px; }
 #footer-bottom .jf-form > form { margin-bottom: 32px; }
 #footer-bottom .jf-option-box { display: none; margin-left: 8px; }

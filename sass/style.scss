@@ -22,11 +22,40 @@ $main-blue: #03a9f5;
 $light-blue: #bbd9ee;
 $torkis-blue: #89e9f8;
 $facebook-blue: #3b5998;
+$instagram-purple: #bc2a8d;
 $main-orange: #ffab35;
 $bg-grey-light: #f5f5f5;
 $bg-grey-lighter: #fafafa;
 $bg-white: #ffffff;
 
+.facebook-modal-link {
+  color: $bg-white !important;
+  background-color: $facebook-blue !important;
+  margin-left: 0px !important;
+  margin-top: 10px;
+  padding: 12px 14px !important;
+}
+.facebook-modal-link:hover {
+  color: $facebook-blue !important;
+  background-color: $bg-white !important;
+  margin-left: 0px !important;
+  margin-top: 10px;
+}
+.instagram-modal-link {
+  color: $bg-white !important;
+  background-color: $instagram-purple !important;
+  margin-left: 0px !important;
+  margin-top: 10px;
+  border: 1px solid $instagram-purple;
+  padding: 12px 14px !important;
+}
+.instagram-modal-link:hover {
+  color: $instagram-purple !important;
+  background-color: $bg-white !important;
+  border: 1px solid $instagram-purple;
+  margin-left: 0px !important;
+  margin-top: 10px;
+}
 html {
   padding: 0px 0px;
   margin: 0px 0px;
@@ -1124,6 +1153,34 @@ header {
 #services-rental,
 #services-snorkeling,
 #services-sup {
+  .btn-primary {
+    background-color: #ffab35;
+    color: #ffffff;
+    border: 1px solid #ffab35;
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+    -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+    padding: 10px 14px;
+    .modal-footer {
+      padding: 0px;
+    }
+    @include xxs {
+      position: fixed;
+      bottom: 15px;
+      right: 10px;
+    }
+    @include sm {
+      position: fixed;
+      bottom: 15px;
+      right: 10px;
+    }
+  }
+  .btn-primary:hover {
+    background-color: inherit;
+    color: #ffab35;
+    border: 1px solid #ffab35;
+  }
   .intro {
     font-family: "Roboto", cursive;
     color: $third;
@@ -1245,6 +1302,19 @@ header {
 }
 
 #services-kayaking {
+  @include xxs {
+    .nav-tabs > li {
+      width: 100% !important;
+      text-align: center;
+    }
+  }
+  @include sm {
+    .nav-tabs > li {
+      width: 33.33% !important;
+      text-align: center;
+    }
+  }
+
   h4 {
     background-image: url(../img/kayak/kayak-header-1.jpg);
     background-size: cover;
@@ -1321,6 +1391,24 @@ header {
   }
 }
 #services-bike {
+  @include xxs {
+    .nav-tabs > li {
+      width: 100% !important;
+      text-align: center;
+    }
+  }
+  @include sm {
+    .nav-tabs > li {
+      width: 50% !important;
+      text-align: center;
+    }
+  }
+  @include md {
+    .nav-tabs > li {
+      width: 25% !important;
+      text-align: center;
+    }
+  }
   h4 {
     background-image: url(../img/bike/bike-header.jpg);
     background-size: cover;
@@ -1445,6 +1533,7 @@ header {
     background-color: $main-blue;
     border-radius: 5px;
     margin-bottom: 25px;
+
     a {
       text-decoration: none;
     }
@@ -1500,6 +1589,34 @@ header {
 #location-permantura,
 #location-medulin,
 #location-bike {
+  .btn-primary {
+    background-color: #ffab35;
+    color: #ffffff;
+    border: 1px solid #ffab35;
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+    -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+    padding: 10px 14px;
+    .modal-footer {
+      padding: 0px;
+    }
+    @include xxs {
+      position: fixed;
+      bottom: 15px;
+      right: 10px;
+    }
+    @include sm {
+      position: fixed;
+      bottom: 15px;
+      right: 10px;
+    }
+  }
+  .btn-primary:hover {
+    background-color: inherit;
+    color: #ffab35;
+    border: 1px solid #ffab35;
+  }
   //modal button close desing
   .close {
     padding-right: 10px;
@@ -1851,9 +1968,20 @@ footer {
     color: #fff;
   }
   h4 {
+    @include xxs {
+      padding-bottom: 0px;
+    }
+    @include md {
+      padding-bottom: 10px;
+    }
     color: $main-orange;
     padding-bottom: 10px;
     text-transform: uppercase;
+  }
+  .our-sites {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
   }
   h5 {
     color: $torkis-blue;
@@ -1942,19 +2070,43 @@ footer {
       text-align: center;
     }
     .footer-bottom-right {
+      margin-bottom: 0px;
       width: 25%;
       float: left;
+
       p {
         font-size: 60%;
+        margin-bottom: 0px;
 
         text-transform: uppercase;
         font-weight: bold;
         color: #b8bec5;
-        line-height: 400%;
+
         a {
           color: #b8bec5;
           text-decoration: none;
         }
+      }
+      .izradio {
+        margin-top: 10px;
+      }
+      .cw-logo {
+        margin-top: 5px;
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        background-image: url(../img/social/cro-webdesing-logo-black.png);
+        background-size: cover;
+        transition: background-image 0.4s all 0.4s
+          cubic-bezier(0.25, 0.8, 0.25, 1);
+        -webkit-transition: background-image 0.4s all 0.4s
+          cubic-bezier(0.25, 0.8, 0.25, 1);
+        -moz-transition: background-image 0.4s all 0.4s
+          cubic-bezier(0.25, 0.8, 0.25, 1);
+      }
+      .cw-logo:hover {
+        display: inline-block;
+        background-image: url(../img/social/cro-webdesing-logo.png);
       }
     }
   }
@@ -1972,6 +2124,7 @@ footer {
         font-family: "Permanent Marker", cursive;
       }
     }
+
     img {
       width: 60px;
       margin: 0 auto;
@@ -1994,8 +2147,13 @@ footer {
       font-size: 100%;
     }
     img {
-      width: 50px;
-      padding-top: 10px;
+      width: 70px;
+      padding-top: 30px;
+    }
+    .footer-bottom-center {
+      p {
+        margin-top: 35px;
+      }
     }
   }
 
