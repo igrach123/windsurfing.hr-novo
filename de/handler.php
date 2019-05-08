@@ -19,8 +19,7 @@ $validator->field('email')->isEmail();
 $validator->field('message')->maxLength(6000);
 
 
-$pp->requireReCaptcha();
-$pp->getReCaptcha()->initSecretKey('6LfpFpcUAAAAAHxEw1PpXqViiIp4NgK3Z3NZlRTY');
+$pp->requireCaptcha();
 
 
 $pp->sendEmailTo('brajkovich.igor@gmail.com'); // ← Your email here

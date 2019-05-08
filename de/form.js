@@ -61,3 +61,18 @@ $(function()
         
       });	
 });
+
+
+
+$(function()
+{
+	$('#captcha_reload').on('click',function(e)
+	{
+	  e.preventDefault();
+	  d = new Date();
+	  var src = $("img#captcha_image").attr("src");
+	  src = src.split(/[?#]/)[0];
+	  
+	  $("img#captcha_image").attr("src", src+'?'+d.getTime());
+	});
+});

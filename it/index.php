@@ -30,8 +30,6 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <base href="#">
-    <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
     <link href="../en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
         content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
@@ -114,6 +112,7 @@
     <!--JavaScript, jquerry and plugins-->
     <script src="../js/vendor/jquery.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
+    <script src="form.js"></script>
     <!--   
         <script type="text/javascript" src="js/owl.carousel.min.js"></script>
         <script src="js/vendor/jquery.matchHeight.js" type="text/javascript"></script>

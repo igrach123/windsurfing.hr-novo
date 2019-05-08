@@ -1,15 +1,14 @@
 <footer id="footer" class="clearfix">
 
     <div class="container">
-        <div class="row">
+    <div class="row">
             <div class="col-xs-12 col-md-6 col-md-offset-3">
-
-                <h2 class="text-center">Contact Us:</h2>
-                <h4 class="text-center ">Send us a message!</h4>
+                <h2 class="text-center">Kontaktirajte nas</h2>
+                <h4 class="text-center ">Pošaljite nam upit!</h4>
 
                 <form role="form" method="post" id="reused_form">
                     <div class="form-group">
-                        <input type="text" placeholder="Name" class="form-control" id="name" name="name" required
+                        <input type="text" placeholder="Ime" class="form-control" id="name" name="name" required
                             maxlength="50">
                     </div>
                     <div class="form-group">
@@ -19,7 +18,7 @@
                     <div class="form-group">
 
                         <textarea class="form-control" type="textarea" name="message" id="message"
-                            placeholder="Your message  here!" maxlength="6000" rows="7"></textarea>
+                            placeholder="Vaša poruka ovdje!" maxlength="6000" rows="7"></textarea>
                     </div>
                     <div class="row" style="margin-bottom:30px;">
                         <div class="col-sm-5">
@@ -28,11 +27,11 @@
                             <a id="captcha_reload" href="#">reload</a>
                         </div>
                         <div class="col-sm-6">
-                            <input type="text" placeholder="Enter the code!" class="form-control" required id="captcha"
-                                name="captcha">
+                            <input type="text" placeholder="Unesite kod s slike!" class="form-control" required
+                                id="captcha" name="captcha">
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">SEND</button>
+                    <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">Pošaljite</button>
                 </form>
                 <div id="success_message" style="width:100%; height:100%; display:none; ">
                     <h3>Sent your message successfully!</h3>
@@ -40,9 +39,7 @@
                 <div id="error_message" style="width:100%; height:100%; display:none; ">
                     <h3>Error</h3> Sorry there was an error sending your form.
                 </div>
-
             </div>
-
         </div>
         <br>
         <br>
