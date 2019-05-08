@@ -31,7 +31,7 @@
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <base href="#">
-    <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
+    <link href="#" rel="canonical" /> <!-- dodati stranicu na kraju -->
     <link href="en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
         content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
@@ -117,8 +117,6 @@
         <?php include "php/partner-slide.php" ?>
 
     </div> <!-- end of content wrapper -->
-
-
     <?php include "footer.php"; ?>
 
 

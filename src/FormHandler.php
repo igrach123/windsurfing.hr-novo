@@ -42,11 +42,11 @@ class FormHandler
 		$this->mailer = new PHPMailer;
 		$this->mail_template='';
 
-		$this->mailer->Subject = "Windusrfing.hr Contact Form";
+		$this->mailer->Subject = "Contact Form Submission ";
 
 		$host = isset($_SERVER['SERVER_NAME'])?$_SERVER['SERVER_NAME']:'localhost';
         $from_email ='forms@'.$host;
-   		$this->mailer->setFrom($from_email,'Windusrfing.hr',false);  
+   		$this->mailer->setFrom($from_email,'Contact Form',false);  
 
    		$this->captcha = false;   
 

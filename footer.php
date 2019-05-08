@@ -1,8 +1,17 @@
 <footer id="footer" class="clearfix">
-
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-md-6 col-md-offset-3">
+            <div class="col-md-6">
+                <div class="" id="map">
+                    <h2>KAKO DO NAS</h2>
+                    <div class="google-maps">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38094.689198160864!2d13.958886755066738!3d44.79294009379744!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9544cb64a3fa26f9!2sRent+a+Bike+Centar!5e0!3m2!1sen!2shr!4v1522863383452"
+                            width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
                 <h2 class="text-center">Kontaktirajte nas</h2>
                 <h4 class="text-center ">Pošaljite nam upit!</h4>
 
@@ -40,20 +49,22 @@
                     <h3>Error</h3> Sorry there was an error sending your form.
                 </div>
             </div>
-
         </div>
-        <br>
-        <br>
+    </div>
 
 
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8 col-sm-offset-2  col-md-offset-3 col-md-6" id="contact-container">
 
+            </div>
+        </div>
 
 
         <div class="row footer-top clearfix">
 
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content ">
                 <h4 class=""> <span><i class="fa fa-caret-right"></i></span> KONTAKT</h4>
-
                 <ul>
                     <li>
                         <h5>R.T.O. - Boris Ivančić </h5>
@@ -65,7 +76,6 @@
                         emailE = ('bivancic@' + 'yahoo.com')
                         document.write('<a href="mailto:' + emailE + '">' + emailE + '</a>')
                         </script>
-
                         <noscript>
                             <em>Email address protected by JavaScript.<BR>
                                 Please enable JavaScript to contact me.</em>
@@ -79,7 +89,7 @@
             <div class="col-xs-12 col-sm-6 col-md-3  footer-content ">
                 <h4 class=""> <span><i class="fa fa-caret-right"></i></span> KORISNI LINKOVI</h4>
                 <ul>
-                    <li><a href="https://www.premantura.net/" target="_blank">premantura.net</a></li>
+                    <li><a href="https://www.premantura.net/" target="_blank">www.premantura.net</a></li>
                     <li><a href="https://www.herole.de/" target="_blank">www.herole.de</a></li>
                     <li><a href="http://www.vows.at/" target="_blank">www.vows.at</a></li>
                     <li><a href="https://www.continentseven.com/" target="_blank">Continent seven</a></li>
@@ -87,7 +97,6 @@
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
                     <li><a href="http://www.hjs.hr/" target="_blank">HJS</a></li>
                     <li><a href="https://www.getmyboat.com/" target="_blank">GetMyBoat</a></li>
-
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm visible-md visible-lg   ">
@@ -98,15 +107,12 @@
                             target="_blank">www.arsov.gov.si</a></li>
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
                 </ul>
-
-                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> NAŠE STRANICE</h4>
+                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> OUR SITES</h4>
                 <ul>
-                    <li><a href="https://www.rentabikepremantura.com/" target="_blank"> rentabikepremantura.com</a>
-                    </li>
-                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a>
-                    </li>
+                    <li><a href="https://www.windsurfing.hr/" target="_blank"> windsurfing.hr</a></li>
+                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a></li>
                 </ul>
-                <!--  footer weather modal-->
+
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm  visible-md visible-lg ">
                 <h4 class=""> <span><i class="fa fa-caret-right"></i></span> SMJEŠTAJ</h4>
@@ -114,12 +120,10 @@
                     <li><a href="https://www.arenaturist.com/" target="_blank">arenaturist.com</a></li>
                     <li><a href="http://www.tzom.hr/" target="_blank">tzcom.hr</a></li>
                     <li><a href="http://medulin.hr/" target="_blank">medulin.hr</a></li>
-
                 </ul>
 
             </div>
         </div> <!-- end of roow -->
-
 
         <div class="row footer-top2 visible-sm hidden-md hidden-lg">
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content ">
@@ -130,12 +134,13 @@
                             target="_blank">www.arsov.gov.si</a></li>
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
 
-
-
-
-
                 </ul>
-                <!--  footer weather modal-->
+                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> OUR SITES</h4>
+                <ul>
+                    <li><a href="https://www.windsurfing.hr/" target="_blank"> windsurfing.hr</a></li>
+                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a></li>
+                </ul>
+
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content ">
                 <h4 class=""> <span><i class="fa fa-caret-right"></i></span> SMJEŠTAJ</h4>
@@ -143,21 +148,18 @@
                     <li><a href="https://www.arenaturist.com/" target="_blank">arenaturist.com</a></li>
                     <li><a href="http://www.tzom.hr/" target="_blank">tzcom.hr</a></li>
                     <li><a href="http://medulin.hr/" target="_blank">medulin.hr</a></li>
-
                 </ul>
 
             </div>
         </div> <!-- footer-top2 -->
 
         <div class="container-fluid" id="footer-bottom">
-
-
             <div class="footer-bottom-left"><a href="index.php" target="_self">
                     <img src="img/ws-logo-big-white-font.png" class="img-responsive" alt="ws-logo"></a>
             </div>
             <div class="footer-bottom-center">
-                <p class="text-center">WINDSUFING PREMANTURA - MEDULIN &copy; <span class="hidden-sm">
-                        <?php echo date("Y"); ?> </span> </p> </span> </p>
+                <p class="text-center"><?php echo "$the_sitetitle"; ?> &copy; <span class="hidden-sm">
+                        <?php echo date("Y"); ?> </span> </p>
             </div>
             <div class="footer-bottom-right">
                 <a href="https://www.cro-webdesign.com/" target="_blank">
@@ -166,8 +168,6 @@
                     </p>
                 </a>
             </div>
-
         </div>
     </div> <!-- end of container -->
-
 </footer>
