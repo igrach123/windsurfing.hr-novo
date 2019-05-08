@@ -101,8 +101,10 @@
                 </ul>
                 <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> OUR SITES</h4>
                 <ul>
-                    <li><a href="https://www.windsurfing.hr/" target="_blank"> windsurfing.hr</a></li>
-                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a></li>
+                    <li><a href="https://www.rentabikepremantura.com/" target="_blank"> rentabikepremantura.com</a>
+                    </li>
+                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a>
+                    </li>
                 </ul>
 
             </div>
