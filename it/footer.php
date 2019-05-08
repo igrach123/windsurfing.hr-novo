@@ -35,7 +35,7 @@
                     <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">SEND</button>
                 </form>
                 <div id="success_message" style="width:100%; height:100%; display:none; ">
-                    <h3 class="text-success">Sent your message successfully!</h3>
+                    <h3>Sent your message successfully!</h3>
                 </div>
                 <div class="text-danger" id="error_message" style="width:100%; height:100%; display:none; ">
                     <h3>Error</h3> Sorry there was an error sending your form.
