@@ -51,6 +51,7 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.min.css">
     <link rel="stylesheet" href="css/owl.transitions.min.css">
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cd2bcc93255ff0012e37fb6&product=inline-follow-buttons' async='async'></script>
     <!--main stylesheet-->
     <link rel="stylesheet" href="css/style.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
@@ -128,19 +129,6 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="form.js"></script>
     <script src="js/vendor/jquery.matchHeight.js" type="text/javascript"></script>
-    <!--   
-        <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-        
-
-        <script src="js/vendor/smooth-scroll.min.js"></script> 
-        <script src="js/vendor/blueimp-gallery.min.js"></script>
-       
-        <script src="js/echo.min.js"></script> -->
-
-
-
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ac0f8a1b1b5a818"></script>
     <script src="js/main-js-backup-min.js"></script>
 
 </body>

@@ -32,14 +32,16 @@
                     </div>
                     <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">Pošaljite</button>
                 </form>
-                <div id="success_message" style="width:100%; height:100%; display:none; ">
-                    <h3>Sent your message successfully!</h3>
+                <div class="text-success" id="success_message" style="width:100%; height:100%; display:none; ">
+                    <h3 class="text-success">Sent your message successfully!</h3>
                 </div>
-                <div id="error_message" style="width:100%; height:100%; display:none; ">
-                    <h3>Error</h3> Sorry there was an error sending your form.
+                <div class="text-danger" id="error_message" style="width:100%; height:100%; display:none; ">
+                    <h3 class="text-danger">Error</h3> Sorry there was an error sending your form.
                 </div>
             </div>
         </div>
+        <br>
+        <div class="sharethis-inline-follow-buttons"></div>
     </div>
 
 
@@ -150,8 +152,8 @@
                     <img src="img/ws-logo-big-white-font.png" class="img-responsive" alt="ws-logo"></a>
             </div>
             <div class="footer-bottom-center">
-                <p class="text-center"><?php echo "$the_sitetitle"; ?> &copy; <span class="hidden-sm">
-                        <?php echo date("Y"); ?> </span> </p>
+                <p class="text-center">WINDSUFING PREMANTURA - MEDULIN &copy; <span class="hidden-sm">
+                        <?php echo date("Y"); ?> </span> </p> </span> </p>
             </div>
             <div class="footer-bottom-right">
                 <a href="https://www.cro-webdesign.com/" target="_blank">
