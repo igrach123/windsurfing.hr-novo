@@ -89,9 +89,8 @@
                                 <ul>
                                     <li>Personal Guide</li>
                                     <li>Fruit & water</li>
-                                    <li>Lunch</li>
                                     <li>Snorkeling equipment</li>
-                                    <li>Safety equipment,</li>
+                                    <li>Safety equipment</li>
                                     <li>Kayak</li>
                                 </ul>
                                 <div class='icons'>
@@ -148,7 +147,7 @@
 
                                 <div role="tabpanel" class="tab-pane" id="messages"><b>The guided kayak excursion to the
                                         coastal caves</b>
-                                    starts at 9 am and lasts approximately five-
+                                    starts at 9h and at 14:30h and lasts approximately 5
                                     hours. The tour must be booked at least one day in advance. The place of departure
                                     and return is
                                     the campsite of Stupice in Premantura. The excursion includes snorkelling on the

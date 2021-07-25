@@ -141,7 +141,7 @@
                                 </div>
 
                                 <div role="tabpanel" class="tab-pane" id="messages"><b>Izlet kajakom u špilje.</b>
-                                    Izlet kajakom u špilje počinje u 9 h i traje oko 5 sati. Izlet kajakom se dogovara
+                                    Izlet kajakom u špilje počinje u 9h i u 14:30 i traje oko 5 sati. Izlet kajakom se dogovara
                                     najmanje jedan
                                     dan unaprijed. Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i
                                     završava. Izlet

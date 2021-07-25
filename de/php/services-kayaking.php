@@ -85,7 +85,6 @@
                                 <ul>
                                     <li>Personaler Tourleiter</li>
                                     <li>Obst & Wasser</li>
-                                    <li>Mahlzeit</li>
                                     <li>Schnorchelausrüstung</li>
                                     <li>Sicherheitsausstattung</li>
                                     <li>Kajak</li>
@@ -151,7 +150,7 @@
 
                                 <div role="tabpanel" class="tab-pane" id="messages">
                                     <b> Der Kajakausflug zu Küstenhöhlen</b>
-                                    beginnt um 9 Uhr. Diese etwa fünfstündige Tour muss
+                                    beginnt um 9h und um 14:30h. Diese etwa fünfstündige Tour muss
                                     mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist der
                                     Campingplatz Stupice in Premantura. Der Ausflug bietet Schnorchelgelegenheiten an
                                     wunderschönen Stränden der entlegenen Inseln und in den Höhlen des Schutzgebiets

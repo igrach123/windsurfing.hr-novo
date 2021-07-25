@@ -92,7 +92,6 @@
                                 <ul>
                                     <li>guida</li>
                                     <li>frutta & acqua</li>
-                                    <li>pranzo</li>
                                     <li>attrezzatura per lo snorkeling</li>
                                     <li>equipaggiamento di sicurezza</li>
                                     <li>Kayak</li>
@@ -156,7 +155,7 @@
                                         alle grotte costiere</b>
 
 
-                                    inizia alle 9 del mattino e dura circa cinque
+                                    inizia alle 9:00h e alle 14:30h del mattino e dura circa cinque
                                     ore. L’escursione deve essere prenotata con almeno un giorno di anticipo. Il luogo
                                     di partenza e
                                     di ritorno è il campeggio di Stupice a Premantura. L’escursione include lo
