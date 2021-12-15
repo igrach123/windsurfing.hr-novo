@@ -37,7 +37,7 @@
                                 </p>
 
 
-                                <span class='name btn btn-info btn-block '>300,00 kn</span>
+                                <span class='name btn btn-info btn-block '>350,00 kn</span>
                             </div>
 
                             <div class='back'>
@@ -66,7 +66,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>1000,00 kn</span>
+                                <span class='name btn btn-info btn-block '>1250,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b><span>Grundkurs beinhaltet:</span></b>
@@ -86,34 +86,7 @@
                         </div>
                     </div><!-- end of col-sm-1   -->
                     <div class="col-xs-12 col-md-4 col-sm-6">
-                        <div class='card'>
-                            <div class='front'>
-                                <h6>Juniorkurs</h6>
-                                <div><span class='badge badge-info'>8H</span></div>
-
-
-                                <span class='job'> Der Juniorkurs ist Kindern angepasst. </span>
-                                <br>
-                                <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
-                                </p>
-                                <span class='name btn btn-info btn-block '>1000,00 kn</span>
-                            </div>
-                            <div class='back'>
-                                <b> <span>Juniorkurs beinhaltet:</span></b>
-                                <ul>
-                                    <li>Segeltheorie</li>
-                                    <li>Simulator</li>
-                                    <li>Balance</li>
-                                    <li>Zwei Wenden in den Wind</li>
-                                    <li> Zwei Wenden mit dem Wind</li>
-                                    <li> Segeln in den Wind</li>
-                                    <li> Segeln mit dem Wind</li>
-                                </ul>
-                                <div class='icons'>
-
-                                </div>
-                            </div>
-                        </div>
+                       
                     </div><!-- end of col-sm-1   -->
                     <div class="col-xs-12 col-md-4 col-sm-6">
                         <div class='card'>
@@ -126,7 +99,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>750,00 kn</span>
+                                <span class='name btn btn-info btn-block '>750,00 kn + Ausrüstung</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Fortschrittlicher Kurs beinhaltet:</span></b>
@@ -155,7 +128,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>500,00 kn</span>
+                                <span class='name btn btn-info btn-block '>500,00 kn + Ausrüstung</span>
                             </div>
                             <div class='back'>
                                 <span>Spaßkurs beinhaltet:</span>
@@ -181,7 +154,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>250,00 kn</span>
+                                <span class='name btn btn-info btn-block '>350,00 kn</span>
                             </div>
                             <div class='back'>
                                 <span>Private Training beinhaltet:</span>
@@ -210,7 +183,6 @@
                                 <tr>
                                     <th scope="col">Probekurs</th>
                                     <th scope="col">Grundkurs</th>
-                                    <th scope="col">Junior Kurs</th>
                                     <th scope="col">Fortgeschnittener Kurs</th>
                                     <th scope="col">Spaßkurs</th>
                                     <th scope="col">Privatstunde </th>
@@ -218,17 +190,16 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>1h - 200.00 kn</td>
-                                    <td>6h - 850,00 kn</td>
-                                    <td>8h - 1000,00 kn</td>
-                                    <td>5h - 750,00 kn</td>
-                                    <td>3h - 500,00 kn</td>
-                                    <td>1h - 250,00 kn</td>
+                                    <td>1h - 250.00 kn</td>
+                                    <td>6h - 1000,00 kn</td>
+                                    <td>5h - 750,00 kn + Ausrüstung</td>
+                                    <td>3h - 500,00 kn + Ausrüstung</td>
+                                    <td>1h - 350,00 kn</td>
                                 </tr>
                                 <tr>
 
-                                    <td>2h - 300,00 kn</td>
-                                    <td>8h - 1000,00 kn</td>
+                                    <td>2h - 350,00 kn</td>
+                                    <td>8h - 1250,00 kn</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -248,28 +219,42 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>1h - 80.00 kn</td>
-                                    <td>1h - 100,00 kn</td>
-                                    <td>1h - 150,00 kn</td>
-                                    <td>Wetsuit 1h -20,00 kn</td>
+                                    <td>1h - 100.00 kn</td>
+                                    <td>1h - 130,00 kn</td>
+                                    <td>1h - 180,00 kn</td>
+                                    <td>Wetsuit 1h -30,00 kn</td>
 
                                 </tr>
                                 <tr>
-                                    <td>2h - 140,00 kn</td>
-                                    <td>2h - 160,00 kn</td>
-                                    <td>8h - 250,00 kn</td>
-                                    <td>Harness 1h -20,00 kn</td>
+                                    <td>2h - 180,00 kn</td>
+                                    <td>2h - 200,00 kn</td>
+                                    <td>8h - 300,00 kn</td>
+                                    <td>Harness 1h -30,00 kn</td>
                                 </tr>
                                 <tr>
-                                    <td>4h - 250,00 kn</td>
                                     <td>4h - 300,00 kn</td>
-                                    <td>8h - 400,00 kn</td>
+                                    <td>4h - 400,00 kn</td>
+                                    <td>8h - 500,00 kn</td>
                                 </tr>
                                 <tr>
-                                    <td>8h - 400,00 kn</td>
                                     <td>8h - 500,00 kn</td>
                                     <td>8h - 600,00 kn</td>
+                                    <td>8h - 700,00 kn</td>
                                 </tr>
+<<<<<<< Updated upstream
+                                  <tr>
+=======
+                                <tr>
+>>>>>>> Stashed changes
+                                <td>5h - PREPAID - 400,00 kn</td>
+                                <td>5h - PREPAID - 500,00 kn</td>
+                                <td>5h - PREPAID - 700,00 kn</td>
+                            </tr>
+                            <tr>
+                                <td>8h - PREPAID - 700,00 kn</td>
+                                <td>8h - PREPAID - 1000,00 kn</td>
+                                <td>8h - PREPAID - 1350,00 kn</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>

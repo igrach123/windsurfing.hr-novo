@@ -32,7 +32,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>300,00 kn</span>
+                                <span class='name btn btn-info btn-block '>350,00 kn</span>
                             </div>
 
                             <div class='back'>
@@ -62,7 +62,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>1000,00 kn</span>
+                                <span class='name btn btn-info btn-block '>1250,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b><span>Basic Course includes:</span></b>
@@ -82,35 +82,7 @@
                         </div>
                     </div><!-- end of col-sm-1   -->
                     <div class="col-xs-12 col-md-4 col-sm-6">
-                        <div class='card'>
-                            <div class='front'>
-                                <h6>JUNIOR COURSE</h6>
-                                <div><span class='badge badge-info'>8H</span></div>
 
-
-                                <span class='job'> Junior Course is adapted to children. </span>
-                                <br>
-                                <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
-                                </p>
-
-                                <span class='name btn btn-info btn-block '>1000,00 kn</span>
-                            </div>
-                            <div class='back'>
-                                <b> <span>Junior Course includes:</span></b>
-                                <ul>
-                                    <li>theory of sailing</li>
-                                    <li>simulator</li>
-                                    <li>balance</li>
-                                    <li>two tacks</li>
-                                    <li>two jibes</li>
-                                    <li>sailing upwind</li>
-                                    <li>sailing downwind</li>
-                                </ul>
-                                <div class='icons'>
-
-                                </div>
-                            </div>
-                        </div>
                     </div><!-- end of col-sm-1   -->
                     <div class="col-xs-12 col-md-4 col-sm-6">
                         <div class='card'>
@@ -124,7 +96,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>750,00 kn</span>
+                                <span class='name btn btn-info btn-block '>750,00 kn + EQUIPMENT</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Advance Course includes:</span></b>
@@ -154,7 +126,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>500,00 kn</span>
+                                <span class='name btn btn-info btn-block '>500,00 kn + EQUIPMENT</span>
                             </div>
                             <div class='back'>
                                 <span>Fun Course includes:</span>
@@ -181,7 +153,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>250,00 kn</span>
+                                <span class='name btn btn-info btn-block '>350,00 kn</span>
                             </div>
                             <div class='back'>
                                 <span>Private training includes:</span>
@@ -210,7 +182,6 @@
                             <tr>
                                 <th scope="col">TRIAL COURSE</th>
                                 <th scope="col">BEGINNER COURSE</th>
-                                <th scope="col">JUNIOR COURSE</th>
                                 <th scope="col">ADVANCED COURSE</th>
                                 <th scope="col">FUN COURSE</th>
                                 <th scope="col">PRIVATE TRAINING</th>
@@ -218,17 +189,16 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>1h - 200.00 kn</td>
-                                <td>6h - 850,00 kn</td>
-                                <td>8h - 1000,00 kn</td>
-                                <td>5h - 750,00 kn</td>
-                                <td>3h - 500,00 kn</td>
-                                <td>1h - 250,00 kn</td>
+                                <td>1h - 250.00 kn</td>
+                                <td>6h - 1000,00 kn</td>
+                                <td>5h - 750,00 kn + EQUIPMENT</td>
+                                <td>3h - 500,00 kn + EQUIPMENT</td>
+                                <td>1h - 350,00 kn</td>
                             </tr>
                             <tr>
 
-                                <td>2h - 300,00 kn</td>
-                                <td>8h - 1000,00 kn</td>
+                                <td>2h - 350,00 kn</td>
+                                <td>8h - 1250,00 kn</td>
                             </tr>
                         </tbody>
                     </table>
@@ -247,27 +217,37 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>1h - 80.00 kn</td>
-                                <td>1h - 100,00 kn</td>
-                                <td>1h - 150,00 kn</td>
-                                <td>Wetsuit 1h -20,00 kn</td>
+                                <td>1h - 100.00 kn</td>
+                                <td>1h - 130,00 kn</td>
+                                <td>1h - 180,00 kn</td>
+                                <td>Wetsuit 1h -30,00 kn</td>
 
                             </tr>
                             <tr>
-                                <td>2h - 140,00 kn</td>
-                                <td>2h - 160,00 kn</td>
-                                <td>8h - 250,00 kn</td>
-                                <td>Harness 1h -20,00 kn</td>
+                                <td>2h - 180,00 kn</td>
+                                <td>2h - 200,00 kn</td>
+                                <td>8h - 300,00 kn</td>
+                                <td>Harness 1h -30,00 kn</td>
                             </tr>
                             <tr>
-                                <td>4h - 250,00 kn</td>
                                 <td>4h - 300,00 kn</td>
-                                <td>8h - 400,00 kn</td>
+                                <td>4h - 400,00 kn</td>
+                                <td>8h - 500,00 kn</td>
                             </tr>
                             <tr>
-                                <td>8h - 400,00 kn</td>
                                 <td>8h - 500,00 kn</td>
                                 <td>8h - 600,00 kn</td>
+                                <td>8h - 700,00 kn</td>
+                            </tr>
+                            <tr>
+                                <td>5h - PREPAID - 400,00 kn</td>
+                                <td>5h - PREPAID - 500,00 kn</td>
+                                <td>5h - PREPAID - 700,00 kn</td>
+                            </tr>
+                            <tr>
+                                <td>8h - PREPAID - 700,00 kn</td>
+                                <td>8h - PREPAID - 1000,00 kn</td>
+                                <td>8h - PREPAID - 1350,00 kn</td>
                             </tr>
                         </tbody>
                     </table>
