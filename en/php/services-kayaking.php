@@ -25,7 +25,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>300,00 kn</span>
+                                <span class='name btn btn-info btn-block '>350,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b><span>Half-day excursion inlcudes:</span></b>
@@ -54,7 +54,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>450,00 kn</span>
+                                <span class='name btn btn-info btn-block '>650,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b><span>Full-day excursion inlcudes:</span></b>
@@ -82,7 +82,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>400,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Kayak - Cave excursion includes:</span></b>
@@ -185,9 +185,9 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>300.00 kn</td>
-                                <td>450,00 kn</td>
-                                <td>350,00 kn</td>
+                                <td>350.00 kn</td>
+                                <td>650,00 kn</td>
+                                <td>400,00 kn</td>
                             </tr>
 
                         </tbody>
@@ -208,37 +208,37 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                        <tr>
                                 <td>1H</td>
-                                <td>40,00 kn</td>
-                                <td>1H</td>
-                                <td>60,00kn</td>
-                                <td>1H</td>
-                                <td>100,00kn</td>
-                            </tr>
-                            <tr>
-                                <td>2H</td>
                                 <td>70,00 kn</td>
-                                <td>2H</td>
+                                <td>1H</td>
                                 <td>100,00kn</td>
+                                <td>1H</td>
+                                <td>140,00kn</td>
+                            </tr>
+                            <tr>
                                 <td>2H</td>
-                                <td>150,00kn</td>
+                                <td>90,00 kn</td>
+                                <td>2H</td>
+                                <td>120,00kn</td>
+                                <td>2H</td>
+                                <td>180,00kn</td>
                             </tr>
                             <tr>
                                 <td>4H</td>
-                                <td>100,00 kn</td>
+                                <td>120,00 kn</td>
                                 <td>4H</td>
-                                <td>150,00kn</td>
+                                <td>180,00kn</td>
                                 <td>4H</td>
-                                <td>200,00kn</td>
+                                <td>250,00kn</td>
                             </tr>
                             <tr>
                                 <td>8H</td>
-                                <td>150,00 kn</td>
+                                <td>180,00 kn</td>
                                 <td>8H</td>
-                                <td>200,00kn</td>
+                                <td>220,00kn</td>
                                 <td>8H</td>
-                                <td>300,00kn</td>
+                                <td>350,00kn</td>
                             </tr>
                         </tbody>
                     </table>

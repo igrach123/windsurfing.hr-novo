@@ -23,7 +23,7 @@
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>300,00 kn</span>
+                                <span class='name btn btn-info btn-block '>350,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b><span>Poludnevni izlet uključuje:</span></b>
@@ -51,7 +51,7 @@
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>450,00 kn</span>
+                                <span class='name btn btn-info btn-block '>650,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b><span>Cjelodnevni izlet uključuje:</span></b>
@@ -80,7 +80,7 @@
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>400,00 kn</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Ova punda sadrži:</span></b>
@@ -181,9 +181,9 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>300.00 kn</td>
-                                <td>450,00 kn</td>
-                                <td>350,00 kn</td>
+                                <td>350.00 kn</td>
+                                <td>650,00 kn</td>
+                                <td>400,00 kn</td>
                             </tr>
 
                         </tbody>
@@ -206,35 +206,35 @@
                         <tbody>
                             <tr>
                                 <td>1H</td>
-                                <td>40,00 kn</td>
-                                <td>1H</td>
-                                <td>60,00kn</td>
-                                <td>1H</td>
-                                <td>100,00kn</td>
-                            </tr>
-                            <tr>
-                                <td>2H</td>
                                 <td>70,00 kn</td>
-                                <td>2H</td>
+                                <td>1H</td>
                                 <td>100,00kn</td>
+                                <td>1H</td>
+                                <td>140,00kn</td>
+                            </tr>
+                            <tr>
                                 <td>2H</td>
-                                <td>150,00kn</td>
+                                <td>90,00 kn</td>
+                                <td>2H</td>
+                                <td>120,00kn</td>
+                                <td>2H</td>
+                                <td>180,00kn</td>
                             </tr>
                             <tr>
                                 <td>4H</td>
-                                <td>100,00 kn</td>
+                                <td>120,00 kn</td>
                                 <td>4H</td>
-                                <td>150,00kn</td>
+                                <td>180,00kn</td>
                                 <td>4H</td>
-                                <td>200,00kn</td>
+                                <td>250,00kn</td>
                             </tr>
                             <tr>
                                 <td>8H</td>
-                                <td>150,00 kn</td>
+                                <td>180,00 kn</td>
                                 <td>8H</td>
-                                <td>200,00kn</td>
+                                <td>220,00kn</td>
                                 <td>8H</td>
-                                <td>300,00kn</td>
+                                <td>350,00kn</td>
                             </tr>
                         </tbody>
                     </table>
@@ -350,7 +350,6 @@
                         src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FKayaking-Premantura-241379939600438%2F&width=147&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477"
                         width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
                         allowTransparency="true"></iframe>
-
                 </div>
 
                 <div class="modal-footer row">
