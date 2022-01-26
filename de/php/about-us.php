@@ -12,7 +12,7 @@
                        <span id="hiddenText"> 
                      Unser Zentrum bietet auch organisierte Fahrrad- und Kajaktouren an, mit Angeboten die von großen Gruppenausflügenfür über 15 Teilnehmer bis zu Sonderausflügen für maximal sechs Personen reichen.
                      Unser Personal ist qualifiziert für, und erfahren in der Durchführung aller Aktivitäten die das Windsurfzentrum Premantura anbietet.
-                     Die Standorteunseres Windsurfzentrums befinden sich in Premantura im Campingplatz Stupice und in Medulinim Campingplatz Medulin.
+                     Die Standorteunseres Windsurfzentrums befinden sich in Premantura im Campingplatz Stupice.
 
 
                 </span>  

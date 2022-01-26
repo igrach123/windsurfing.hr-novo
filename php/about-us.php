@@ -14,7 +14,7 @@
                       Danas raspolažemo sa tridesetak kajaka i desetak dasaka za veslanje.
                       Nudimo i izlete brdskim biciklima i morskim kajacima. Ovaj segment naše ponude razvili smo u više varijanti, tako da izlete nudimo za velike grupe, za više od 15 osoba pa sve do specijalnih izleta za najviše 6 osoba.
                       Osoblje našeg centra je kvalificirano za obavljanje svih djelatnosti koje naš centar pruža, a iznad svega iskusno.
-                      Naši centri nalaze se u Premanturi u kampu Stupice i u Medulinu u kampu Medulin.</span>  
+                      Naši centri nalaze se u Premanturi.</span>  
                       <a class=" visible-xs visible-sm visible-md" href="#" onclick="$('#hiddenText').show(); return false;">VIŠE..</a>                        
                     </p>
                 </div> 

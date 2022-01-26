@@ -154,11 +154,11 @@
                     <img src="img/ws-logo-big-white-font.png" class="img-responsive" alt="ws-logo"></a>
             </div>
             <div class="footer-bottom-center">
-                <p class="text-center">WINDSUFING PREMANTURA - MEDULIN &copy; <span class="hidden-sm">
+                <p class="text-center">WINDSUFING PREMANTURA &copy; <span class="hidden-sm">
                         <?php echo date("Y"); ?> </span> </p> </span> </p>
             </div>
             <div class="footer-bottom-right">
-                <a href="https://www.cro-webdesign.com/" target="_blank">
+                <a href="https://www.linkedin.com/in/igor-brajković-5673b1105" target="_blank">
                     <p class="text-center hidden-xs izradio">POWERED BY:<br>
                         <span class="cw-logo"></span>
                     </p>

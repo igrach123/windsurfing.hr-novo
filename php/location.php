@@ -2,7 +2,7 @@
     <div class="container">
         <h2>KAKO DO NAS</h2>
         <div class="row">
-            <div class="col-sm-6  col-sm-offset-3 col-md-4 col-md-offset-0 s-container ">
+            <div class="col-sm-6  col-sm-offset-3 col-md-offset-2 col-md-4 s-container ">
                 <div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-1 card-1">
                     <a href="#location-permantura" data-toggle="modal" role="button" data-target="#location-permantura">
                         <h3>Windsurf centar <span> Premantura</span></h3>
@@ -12,20 +12,10 @@
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-4 s-container ">
-                <div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-2 card-2">
-                    <a href="#location-medulin" data-toggle="modal" role="button" data-target="#location-medulin">
-                        <h3>Windsurf centar <span> Medulin</span></h3>
-
-
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 s-container">
+            <div class="col-sm-6 col-md-4  s-container">
                 <div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-3 card-1">
                     <a href="#location-bike" data-toggle="modal" role="button" data-target="#location-bike">
                         <h3>Bike centar <span> Premantura</span></h3>
-
                     </a>
                 </div>
             </div>
