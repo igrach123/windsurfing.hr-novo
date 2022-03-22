@@ -226,13 +226,13 @@
                             <tr>
                                 <td>2h - 180,00 kn</td>
                                 <td>2h - 200,00 kn</td>
-                                <td>8h - 300,00 kn</td>
+                                <td>2h - 300,00 kn</td>
                                 <td>Harness 1h -30,00 kn</td>
                             </tr>
                             <tr>
                                 <td>4h - 300,00 kn</td>
                                 <td>4h - 400,00 kn</td>
-                                <td>8h - 500,00 kn</td>
+                                <td>4h - 500,00 kn</td>
                             </tr>
                             <tr>
                                 <td>8h - 500,00 kn</td>
