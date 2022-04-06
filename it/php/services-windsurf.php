@@ -206,6 +206,29 @@
                         </tbody>
                     </table>
                 </div>
+                <!--    WING SCHOOL -->
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">WING SCHOOL</th>
+                                <th scope="col">WING SCHOOL ON FOIL</th>
+                                <th scope="col">PRIVATE LESSON</th>
+                                <th scope="col">RENT A WING OR WINDSRUFING FOIL</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>4h - 1800,00 kn</td>
+                                <td>2h - 1000,00 kn</td>
+                                <td>1h -  600,00 kn</td>
+                                <td>1h -  300,00 kn</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+                <!--    WING SCHOOL -->
                 <p class="text-center h7">NOLEGGIO</p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
