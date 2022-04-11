@@ -263,27 +263,6 @@
                         <?php include "../var-cjene/bike-cjene.php"; ?>
                     </table>
                 </div>
-                <div class="table-responsive">
-                    <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col">BACK PACK</th>
-                                <th scope="col">BACK PACK WITH TOOLS,PUMP & FIRST AID</th>
-                                <th scope="col">SERVICE 1H</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>20.00 kn</td>
-                                <td>50,00 kn</td>
-                                <td>125,00 kn</td>
-
-                            </tr>
-
-                        </tbody>
-                    </table>
-                </div>
 
                 <hr>
                 <div class="text-center text-muted">

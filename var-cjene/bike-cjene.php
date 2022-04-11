@@ -63,7 +63,7 @@
                             <tr>
                                 <td>20.00 kn</td>
                                 <td>50,00 kn</td>
-                                <td>125,00 kn</td>
+                                <td>200,00 kn</td>
 
                             </tr>
 
