@@ -37,7 +37,7 @@
                                 </p>
 
 
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>55 €</span>
                             </div>
 
                             <div class='back'>
@@ -66,7 +66,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>1250,00 kn</span>
+                                <span class='name btn btn-info btn-block '>180 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Grundkurs beinhaltet:</span></b>
@@ -99,7 +99,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>750,00 kn + Ausrüstung</span>
+                                <span class='name btn btn-info btn-block '>100 € + Ausrüstung</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Fortschrittlicher Kurs beinhaltet:</span></b>
@@ -121,14 +121,14 @@
                         <div class='card'>
                             <div class='front'>
                                 <h6>Spaßkurs</h6>
-                                <div> <span class='badge badge-info'>5H</span></div>
+                                <div> <span class='badge badge-info'>3H</span></div>
 
 
                                 <span class='job'> Spaß Windsurfing-Techniken. </span>
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>500,00 kn + Ausrüstung</span>
+                                <span class='name btn btn-info btn-block '>100 € + Ausrüstung</span>
                             </div>
                             <div class='back'>
                                 <span>Spaßkurs beinhaltet:</span>
@@ -154,7 +154,32 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
+                            </div>
+                            <div class='back'>
+                                <span>Private Training beinhaltet:</span>
+                                <ul>
+                                    <li>Der Private Training wird in Absprache mit dem Ausbilder abgehalten.</li>
+
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of col-sm-1   -->
+                    <div class="col-xs-12 col-md-4 col-sm-6">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>Private Stunden fur 2</h6>
+                                <div><span class='badge badge-info'>1H</span></div>
+
+
+                                <span class='job'> Privates Training</span>
+                                <br>
+                                <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+                                <span class='name btn btn-info btn-block '>80 €</span>
                             </div>
                             <div class='back'>
                                 <span>Private Training beinhaltet:</span>
@@ -186,22 +211,23 @@
                                     <th scope="col">Fortgeschnittener Kurs</th>
                                     <th scope="col">Spaßkurs</th>
                                     <th scope="col">Privatstunde </th>
+                                    <th scope="col">Privatstunde fur 2 </th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
-                                    <td>1h - 250.00 kn</td>
-                                    <td>6h - 1000,00 kn</td>
-                                    <td>5h - 750,00 kn + Ausrüstung</td>
-                                    <td>3h - 500,00 kn + Ausrüstung</td>
-                                    <td>1h - 350,00 kn</td>
-                                </tr>
-                                <tr>
-
-                                    <td>2h - 350,00 kn</td>
-                                    <td>8h - 1250,00 kn</td>
-                                </tr>
-                            </tbody>
+                            <tr>
+                                <td>1h - 40 €</td>
+                                <td>6h - 140 €</td>
+                                <td>5h - 100 € + EQUIPMENT</td>
+                                <td>3h - 100 € + EQUIPMENT</td>
+                                <td>1h - 50 €</td>
+                                <td>1h - 80 €</td>
+                            </tr>
+                            <tr>
+                                <td>2h - 55 €</td>
+                                <td>8h - 180 €</td>
+                            </tr>
+                        </tbody>
                         </table>
                     </div>
                     <!--    WING SCHOOL -->
@@ -210,16 +236,14 @@
                         <thead>
                             <tr>
                                 <th scope="col">WING SCHOOL</th>
-                                <th scope="col">WING SCHOOL ON FOIL</th>
                                 <th scope="col">PRIVATE LESSON</th>
                                 
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>4h - 1800,00 kn</td>
-                                <td>2h - 1000,00 kn</td>
-                                <td>1h -  600,00 kn</td>
+                                <td>4h - 240 €</td>
+                                <td>1h -  80 €</td>
                                
                             </tr>
 

@@ -214,7 +214,7 @@
                                 <th scope="col">PRIVATE TRAINING FOR 2</th>
                             </tr>
                         </thead>
-                           <tbody>
+                        <tbody>
                             <tr>
                                 <td>1h - 40 €</td>
                                 <td>6h - 140 €</td>
