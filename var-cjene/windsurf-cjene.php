@@ -14,40 +14,40 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>1h - 100.00 kn</td>
-                                <td>1h - 130,00 kn</td>
-                                <td>1h - 180,00 kn</td>
-                                 <td>1h -  300,00 kn</td>
-                                <td>Wetsuit 1h -30,00 kn</td>
+                                <td>1h - 20 €</td>
+                                <td>1h - 30 €</td>
+                                <td>1h - 40 €</td>
+                                 <td>1h - 50 €</td>
+                                <td>Wetsuit 1h - 5 €</td>
                                
 
                             </tr>
                             <tr>
-                                <td>2h - 180,00 kn</td>
-                                <td>2h - 200,00 kn</td>
-                                <td>2h - 300,00 kn</td>
+                                <td>2h - 35 €</td>
+                                <td>2h - 45 €</td>
+                                <td>2h - 60 €</td>
                                 <td></td>
-                                <td>Harness 1h -30,00 kn</td>
+                                <td>Harness 1h - 5 €</td>
                             </tr>
                             <tr>
-                                <td>4h - 300,00 kn</td>
-                                <td>4h - 400,00 kn</td>
-                                <td>4h - 500,00 kn</td>
+                                <td>4h - 50 €</td>
+                                <td>4h - 70 €</td>
+                                <td>4h - 80 €</td>
                             </tr>
                             <tr>
-                                <td>8h - 500,00 kn</td>
-                                <td>8h - 600,00 kn</td>
-                                <td>8h - 700,00 kn</td>
+                                <td>8h - 80 €</td>
+                                <td>8h - 100 €</td>
+                                <td>8h - 130 €</td>
                             </tr>
                             <tr>
-                                <td>5h - PREPAID - 400,00 kn</td>
-                                <td>5h - PREPAID - 500,00 kn</td>
-                                <td>5h - PREPAID - 700,00 kn</td>
+                                <td>5h - <small>PREPAID</small> - 80 €</td>
+                                <td>5h - <small>PREPAID</small> - 120 €</td>
+                                <td>5h - <small>PREPAID</small> - 150 €</td>
                             </tr>
                             <tr>
-                                <td>8h - PREPAID - 700,00 kn</td>
-                                <td>8h - PREPAID - 1000,00 kn</td>
-                                <td>8h - PREPAID - 1350,00 kn</td>
+                                <td>10h - <small>PREPAID</small> - 140 €</td>
+                                <td>10h - <small>PREPAID</small> - 180 €</td>
+                                <td>10h - <small>PREPAID</small> - 250 €</td>
                                    
                             </tr>
                         </tbody>

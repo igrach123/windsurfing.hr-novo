@@ -28,13 +28,11 @@
                             <div class='front'>
                                 <h6>PROBNI TEČAJ </h6>
                                 <div> <span class='badge badge-info'>2H</span></div>
-
                                 <span class='job'> Probni tečaj je prva dva sata osnovnog tečaja. </span>
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>55 € </span>
                             </div>
 
                             <div class='back'>
@@ -57,13 +55,11 @@
                             <div class='front'>
                                 <h6>OSNOVNI TEČAJ</h6>
                                 <div><span class='badge badge-info'>8H</span></div>
-
-
                                 <span class='job'> Osnovni tečaj za učenje windsurfa. </span>
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>1250,00 kn</span>
+                                <span class='name btn btn-info btn-block '>180 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Osnovni tečaj sadrži:</span></b>
@@ -93,7 +89,7 @@
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>750,00 kn + oprema</span>
+                                <span class='name btn btn-info btn-block '>100 € + oprema</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Napredni tečaj sadrži:</span></b>
@@ -115,12 +111,12 @@
                         <div class='card'>
                             <div class='front'>
                                 <h6>FUN TEČAJ</h6>
-                                <div> <span class='badge badge-info'>5H</span></div>
+                                <div> <span class='badge badge-info'>3H</span></div>
                                 <span class='job'> Zabavne tehnike windsurfa. </span>
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>500,00 kn + oprema</span>
+                                <span class='name btn btn-info btn-block '>100 € + oprema</span>
                             </div>
                             <div class='back'>
                                 <span>Zabavni tečaj sadrži:</span>
@@ -138,13 +134,36 @@
                     <div class="col-xs-12 col-md-4 col-sm-6">
                         <div class='card'>
                             <div class='front'>
-                                <h6>PRIVATNI SATI</h6>
+                                <h6>PRIVATNI SAT</h6>
                                 <div><span class='badge badge-info'>1H</span></div>
-                                <span class='job'> Prvatni training s instruktorom </span>
+                                <span class='job'>Individulani rvatni training s instruktorom </span>
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
+                            </div>
+                            <div class='back'>
+                                <span>Privatni tečaj sadrži:</span>
+                                <ul>
+                                    <li>Privatni tečaj se održava u dogovoru s instruktorom.</li>
+
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of col-sm-1   -->
+                      <div class="col-xs-12 col-md-4 col-sm-6">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>PRIVATNI SAT ZA DVOJE</h6>
+                                <div><span class='badge badge-info'>1H</span></div>
+                                <span class='job'>Individulani prvatni training s instruktorom za dvoje </span>
+                                <br>
+                                <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+                                <span class='name btn btn-info btn-block '>80 €</span>
                             </div>
                             <div class='back'>
                                 <span>Privatni tečaj sadrži:</span>
@@ -177,20 +196,21 @@
                                 <th scope="col">NAPREDNI TEČAJ</th>
                                 <th scope="col">FUN TEČAJ</th>
                                 <th scope="col">PRIVATNI TRAINING</th>
+                                <th scope="col">PRIVATNI TRAINING ZA DVOJE</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>1h - 250.00 kn</td>
-                                <td>6h - 1000,00 kn</td>
-                                <td>5h - 750,00 kn + OPREMA</td>
-                                <td>3h - 500,00 kn + OPREMA</td>
-                                <td>1h - 350,00 kn</td>
+                                <td>1h - 40 €</td>
+                                <td>6h - 140 €</td>
+                                <td>5h - 100 € + OPREMA</td>
+                                <td>3h - 100 € + OPREMA</td>
+                                <td>1h - 50 €</td>
+                                <td>1h - 80 €</td>
                             </tr>
                             <tr>
-
-                                <td>2h - 350,00 kn</td>
-                                <td>8h - 1250,00 kn</td>
+                                <td>2h - 55 €</td>
+                                <td>8h - 180 €</td>
                             </tr>
                         </tbody>
                     </table>
@@ -201,19 +221,16 @@
                         <thead>
                             <tr>
                                 <th scope="col">WING SCHOOL</th>
-                                <th scope="col">WING SCHOOL ON FOIL</th>
+                               
                                 <th scope="col">PRIVATE LESSON</th>
                                 
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>4h - 1800,00 kn</td>
-                                <td>2h - 1000,00 kn</td>
-                                <td>1h -  600,00 kn</td>
-                            
+                                <td>4h - 240 €</td>
+                                <td>1h -  80 €</td>  
                             </tr>
-
                         </tbody>
                     </table>
                 </div>

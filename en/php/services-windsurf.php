@@ -32,7 +32,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>55 €</span>
                             </div>
 
                             <div class='back'>
@@ -62,7 +62,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>1250,00 kn</span>
+                                <span class='name btn btn-info btn-block '>180 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Basic Course includes:</span></b>
@@ -96,7 +96,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>750,00 kn + EQUIPMENT</span>
+                                <span class='name btn btn-info btn-block '>100 € + EQUIPMENT</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Advance Course includes:</span></b>
@@ -118,7 +118,7 @@
                         <div class='card'>
                             <div class='front'>
                                 <h6>FUN COURSE</h6>
-                                <div> <span class='badge badge-info'>5H</span></div>
+                                <div> <span class='badge badge-info'>3H</span></div>
 
 
                                 <span class='job'> Fun Windsurfing techniques. </span>
@@ -126,7 +126,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>500,00 kn + EQUIPMENT</span>
+                                <span class='name btn btn-info btn-block '>100 € + EQUIPMENT</span>
                             </div>
                             <div class='back'>
                                 <span>Fun Course includes:</span>
@@ -153,7 +153,33 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
+                            </div>
+                            <div class='back'>
+                                <span>Private training includes:</span>
+                                <ul>
+                                    <li>Private course is held in agreement with the instructor.</li>
+
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of col-sm-1   -->
+                    <div class="col-xs-12 col-md-4 col-sm-6">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>PRIVATE HOURS FOR 2</h6>
+                                <div><span class='badge badge-info'>1H</span></div>
+
+
+                                <span class='job'> Private training</span>
+                                <br>
+                                <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+
+                                <span class='name btn btn-info btn-block '>80 €</span>
                             </div>
                             <div class='back'>
                                 <span>Private training includes:</span>
@@ -185,20 +211,21 @@
                                 <th scope="col">ADVANCED COURSE</th>
                                 <th scope="col">FUN COURSE</th>
                                 <th scope="col">PRIVATE TRAINING</th>
+                                <th scope="col">PRIVATE TRAINING FOR 2</th>
                             </tr>
                         </thead>
-                        <tbody>
+                           <tbody>
                             <tr>
-                                <td>1h - 250.00 kn</td>
-                                <td>6h - 1000,00 kn</td>
-                                <td>5h - 750,00 kn + EQUIPMENT</td>
-                                <td>3h - 500,00 kn + EQUIPMENT</td>
-                                <td>1h - 350,00 kn</td>
+                                <td>1h - 40 €</td>
+                                <td>6h - 140 €</td>
+                                <td>5h - 100 € + EQUIPMENT</td>
+                                <td>3h - 100 € + EQUIPMENT</td>
+                                <td>1h - 50 €</td>
+                                <td>1h - 80 €</td>
                             </tr>
                             <tr>
-
-                                <td>2h - 350,00 kn</td>
-                                <td>8h - 1250,00 kn</td>
+                                <td>2h - 55 €</td>
+                                <td>8h - 180 €</td>
                             </tr>
                         </tbody>
                     </table>
@@ -209,16 +236,14 @@
                         <thead>
                             <tr>
                                 <th scope="col">WING SCHOOL</th>
-                                <th scope="col">WING SCHOOL ON FOIL</th>
                                 <th scope="col">PRIVATE LESSON</th>
                                
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>4h - 1800,00 kn</td>
-                                <td>2h - 1000,00 kn</td>
-                                <td>1h -  600,00 kn</td>
+                                <td>4h - 240 €</td>
+                                <td>1h -  80 €</td>
                                
                             </tr>
 
