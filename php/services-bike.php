@@ -213,6 +213,7 @@
                                 <th scope="col">ENDURO TOUR KAMENJAK</th>
                             </tr>
                         </thead>
+                      
                         <tbody>
                             <tr>
                                 <td>300.00 kn</td>
@@ -258,7 +259,7 @@
 
                             </tr>
                         </thead>
-                        <?php include "var-cjene/bike-cjene.php"; ?>
+                      
                     </table>
                 </div>
 
