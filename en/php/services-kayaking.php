@@ -25,7 +25,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Half-day excursion inlcudes:</span></b>
@@ -54,7 +54,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>650,00 kn</span>
+                                <span class='name btn btn-info btn-block '>90 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Full-day excursion inlcudes:</span></b>
@@ -82,7 +82,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>400,00 kn</span>
+                                <span class='name btn btn-info btn-block '>60 €</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Kayak - Cave excursion includes:</span></b>
@@ -185,9 +185,9 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>350.00 kn</td>
-                                <td>650,00 kn</td>
-                                <td>400,00 kn</td>
+                                 <td>50 €</td>
+                                <td>90 €</td>
+                                <td>60 €</td>
                             </tr>
 
                         </tbody>
@@ -205,40 +205,45 @@
                                 <th scope="col">2 PAX</th>
                                 <th scope="col">KAJAK 3</th>
                                 <th scope="col">3 PAX</th>
+                                <th scope="col">DRY BAS</th>
                             </tr>
                         </thead>
                         <tbody>
-                        <tr>
+                            <tr>
                                 <td>1H</td>
-                                <td>70,00 kn</td>
+                                <td>12 €</td>
                                 <td>1H</td>
-                                <td>100,00kn</td>
+                                <td>15 €</td>
                                 <td>1H</td>
-                                <td>140,00kn</td>
+                                <td>20 €</td>
+                                <td>4 €</td>
                             </tr>
                             <tr>
                                 <td>2H</td>
-                                <td>90,00 kn</td>
+                                <td>20 €</td>
                                 <td>2H</td>
-                                <td>120,00kn</td>
+                                <td>25 €</td>
                                 <td>2H</td>
-                                <td>180,00kn</td>
+                                <td>30 €</td>
+                                <td></td>
                             </tr>
                             <tr>
                                 <td>4H</td>
-                                <td>120,00 kn</td>
+                                <td>30 €</td>
                                 <td>4H</td>
-                                <td>180,00kn</td>
+                                <td>35 €</td>
                                 <td>4H</td>
-                                <td>250,00kn</td>
+                                <td>40 €</td>
+                                <td></td>
                             </tr>
                             <tr>
                                 <td>8H</td>
-                                <td>180,00 kn</td>
+                                <td>40 €</td>
                                 <td>8H</td>
-                                <td>220,00kn</td>
+                                <td>45 €</td>
                                 <td>8H</td>
-                                <td>350,00kn</td>
+                                <td>60 €</td>
+                                <td></td>
                             </tr>
                         </tbody>
                     </table>
