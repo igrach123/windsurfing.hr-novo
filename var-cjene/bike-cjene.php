@@ -1,4 +1,12 @@
 <tbody>
+ <thead>
+                            <tr>
+                                <th scope="col">KIDS Bike </th>
+                                <th scope="col">MB HART Tail </th>
+                                <th scope="col">FULLY Tail</th>
+
+                            </tr>
+                        </thead>                            
                             <tr>
                                 <td>1H - 30,00kn</td>
                                 <td>1H - 40,00kn</td>

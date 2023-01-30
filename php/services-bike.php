@@ -11,7 +11,7 @@
                 <h5 class="services-sm-title">IZLETI BICIKLIMA</h5>
 
                 <div class="row">
-                    <div class=" col-sm-6 col-md-3 col-xs-12 ">
+                    <div class=" col-sm-4 col-xs-12 ">
                         <div class='card'>
                             <div class='front'>
                                 <h6>POLUDNEVNI IZLET</h6>
@@ -20,7 +20,7 @@
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>300,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
                             </div>
 
                             <div class='back'>
@@ -41,7 +41,7 @@
 
                     <!-- end of probni tečaj   -->
 
-                    <div class=" col-sm-6 col-md-3 col-xs-12">
+                    <div class=" col-sm-4 col-xs-12 ">
                         <div class='card'>
                             <div class='front'>
                                 <h6>CJLEODNEVNI IZLET</h6>
@@ -50,7 +50,7 @@
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>450,00 kn</span>
+                                <span class='name btn btn-info btn-block '>90 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Cjelodnevni izlet uključuje:</span></b>
@@ -68,21 +68,76 @@
                         </div>
                     </div><!-- end of col-sm-1   -->
 
-                    <div class=" col-sm-6 col-md-3 col-xs-12 ">
+                    <div class=" col-sm-4 col-xs-12 ">
                         <div class='card'>
                             <div class='front'>
-                                <h6>GRADSKA TURA PULA</h6>
-                                <div><span class='badge badge-info'>5H</span></div>
-
-
-                                <span class='job'> Urbana gradska tura. </span>
+                                <h6>SUNSET TOUR</h6>
+                                <div><span class='badge badge-info'>cca 3H</span></div>
+                                <span class='job'> </span>
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>4+ 350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
                             </div>
                             <div class='back'>
-                                <b> <span> Urbana gradska tura uključuje:</span></b>
+                                <b> <span> uključuje:</span></b>
+                                <ul>
+                                    <li>Vodiča</li>
+                                    <li>Voće i vodu</li>
+                                    <li>Sigurnosnu opremu</li>
+                                </ul>
+                                <div class='icons'>
+                                </div>
+                            </div>
+                        </div> <!-- card -->
+                    </div><!-- end of col-sm-1   -->
+                </div><!-- ROW -->
+                <div class="row">
+                    <div class=" col-sm-4 col-xs-12 ">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>POLUDNEVNI IZLET</h6>
+                                <div> <span class='badge badge-info'>oko 4H</span></div>
+                                <div> <span class='badge badge-info'>E BIKE</span></div>
+                                <br>
+                                <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+
+                                <span class='name btn btn-info btn-block '>80 €</span>
+                            </div>
+
+                            <div class='back'>
+                                <b><span>Poludnevni izlet uključuje:</span></b>
+                                <ul>
+                                    <li>Vodiča</li>
+                                    <li>Biciklu</li>
+                                    <li>Voće i vodu</li>
+                                    <li>Sigurnosnu opremu</li>
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+
+                        </div> <!-- card -->
+                    </div> <!-- col sm 4 -->
+
+                    <!-- end of probni tečaj   -->
+
+                    <div class=" col-sm-4 col-xs-12 ">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>CJLEODNEVNI IZLET</h6>
+                                <div><span class='badge badge-info'>8H</span></div>
+                                 <div> <span class='badge badge-info'>E BIKE</span></div>
+
+                                <br>
+                                <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+                                <span class='name btn btn-info btn-block '>120 €</span>
+                            </div>
+                            <div class='back'>
+                                <b><span>Cjelodnevni izlet uključuje:</span></b>
                                 <ul>
                                     <li>Vodiča</li>
                                     <li>Biciklu</li>
@@ -94,37 +149,33 @@
 
                                 </div>
                             </div>
-                        </div> <!-- card -->
+                        </div>
                     </div><!-- end of col-sm-1   -->
 
-                    <div class=" col-sm-6 col-md-3 col-xs-12">
+                    <div class=" col-sm-4 col-xs-12 ">
                         <div class='card'>
                             <div class='front'>
-                                <h6>ENDURO TURA KAMENJAK</h6>
-                                <div><span class='badge badge-info'>cca 5H-8H</span></div>
-
-
+                                <h6>SUNSET TOUR</h6>
+                                <div><span class='badge badge-info'>cca 3H</span></div>
+                                 <div> <span class='badge badge-info'>E BIKE</span></div>
                                 <span class='job'> </span>
                                 <br>
                                 <p><a href="#" class="">više <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '> 4+ 350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>70 €</span>
                             </div>
                             <div class='back'>
-                                <b> <span> Enduro Tours Kamenjak uključuje:</span></b>
+                                <b> <span> uključuje:</span></b>
                                 <ul>
                                     <li>Vodiča</li>
                                     <li>Voće i vodu</li>
-                                    <li>Ručak</li>
                                     <li>Sigurnosnu opremu</li>
                                 </ul>
                                 <div class='icons'>
-
                                 </div>
                             </div>
                         </div> <!-- card -->
                     </div><!-- end of col-sm-1   -->
-
                 </div><!-- ROW -->
 
                 <!-- opis izlet-->
@@ -139,9 +190,8 @@
                                 <li role="presentation"><a href="#profile1" aria-controls="profile1" role="tab"
                                         data-toggle="tab">  <span>CJELODNEVNI IZLET</span></a></li>
                                 <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab"
-                                        data-toggle="tab">  <span>URBANA GRADSKA TURA</span></a></li>
-                                <li role="presentation"><a href="#enduro" aria-controls="enduro" role="tab"
-                                        data-toggle="tab">  <span>ENDURO KAMENJAK TURA</span></a></li>
+                                        data-toggle="tab">  <span>Sunset Tour</span></a></li>
+
                             </ul>
 
                             <!-- Tab panes -->
@@ -171,25 +221,9 @@
                                     <b>Prijeći ćemo oko 30 km</b>
                                 </div>
 
-                                <div role="tabpanel" class="tab-pane" id="messages1"><b>Urbana gradska tura.</b>
-                                    Početak ture Marsovo polje
-                                    Prvi stop Verudela
-                                    Obilazak Aquarima ili kupanje
-                                    Drugi stop Valovine
-                                    Snorkeling u špilju (grotte di colombi)
-                                    Treći stop Arena pula
-                                    Četvrti stop Forum
-                                    Peti stop Zlatna vrata
-                                    Povratak na Marsovo polje
-                                </div>
-                                <div role="tabpanel" class="tab-pane" id="enduro"><b>Enduro Kamenjak tura.</b>
-                                    Ove ture su namijenjene biciklistima s većim iskustvom. Pružaju pravi doživljaj
-                                    brdskog biciklizma (osjećaj kao da ste u planinama), a staze su uz obalu mora, po
-                                    netaknutoj prirodi. Ture se odvijaju uglavnom po single trailovima uz kratke boravke
-                                    na cesti.
-                                    Trajanje 5-8 h
-                                    Kilometraža 25-40
-
+                                <div role="tabpanel" class="tab-pane" id="messages1"><b>Sunset Tura</b>
+                                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, commodi.
+                                  Treba opis
                                 </div>
                             </div> <!-- tab content -->
                         </div> <!-- card1 -->
@@ -251,15 +285,8 @@
                 <p class="h7">NAJAM BICIKLE</p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col">BICIKLA 1</th>
-                                <th scope="col">BICIKLA 2</th>
-                                <th scope="col">BICIKLA 3</th>
-
-                            </tr>
-                        </thead>
-                      
+                       
+                       <?php include "var-cjene/bike-cjene.php"; ?>
                     </table>
                 </div>
 
