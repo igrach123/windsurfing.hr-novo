@@ -15,12 +15,34 @@
                     desiderato.
 
                     Il prezzo include mute, attrezzatura per lo snorkeling, guide, frutta e acqua.
-                    Prezzo 150,00 HRK a persona.
+           
 
 
                 </p>
 
-
+                
+                
+                 <p class="h7">PRICES</p>
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">SNORKELING TOUR 2-3H</th>
+                                <th scope="col">SNORKELING EQIPMENT 1H</th>
+                                <th scope="col">TENNIS REQUET 1H</th>
+                            
+                              
+                            </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                                <td>40€ / PERSON</td>
+                                <td>5€</td>
+                                <td>5€</td>                                                                                 
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
 
 
                 <hr>

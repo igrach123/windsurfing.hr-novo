@@ -136,7 +136,7 @@
 						      Offriamo lo snorkeling per gruppi. Questa attività è solitamente inclusa in un'escursione in kayak, ma la offriamo anche come attività autonoma. Possiamo fare snorkelling ovunque sulla costa, come desiderato.
 
 						      Il prezzo include mute, attrezzatura per lo snorkeling, guide, frutta e acqua.
-						      Prezzo 150,00 HRK a persona.
+						    
 
 
 

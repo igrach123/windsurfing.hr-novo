@@ -167,7 +167,7 @@
                         kao samostalnu aktivnost. Snorkeling možemo održati na bilom kojem dijelu obale, po želji.
 
                         U cijenu su uključeni najam odijela, oprema za snorkeling, vodič,voće ivoda.
-                        Cijena 150,00 kn po osobi.
+                     
 
                     </div>
 

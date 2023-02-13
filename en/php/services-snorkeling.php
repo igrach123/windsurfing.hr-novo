@@ -12,9 +12,30 @@
                 
                 We offer snorkeling for groups. This activity is usually included in a kayak excursion, but we also offer it as a stand-alone activity. We can snorkel anywhere on the coast. 
                 The price includes wetsuits, snorkeling equipment, guides, fruit and water.
-                Price 150.00 HRK per person.
+              
 
             </p>     
+                <p class="h7">PRICES</p>
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">SNORKELING TOUR 2-3H</th>
+                                <th scope="col">SNORKELING EQIPMENT 1H</th>
+                                <th scope="col">TENNIS REQUET 1H</th>
+                            
+                              
+                            </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                                <td>40€ / PERSON</td>
+                                <td>5€</td>
+                                <td>5€</td>                                                                                 
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
     
  
  

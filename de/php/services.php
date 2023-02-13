@@ -135,7 +135,7 @@
 						 <div class="pmd-card-body">
 						       Wir bieten Schnorcheln für Gruppen an. Diese Aktivität ist meist in Kajakausflügen inbegriffen, sie kann jedoch auch einzeln gebucht werden. Das Schnorcheln kann, je nach Wunsch, an jedem beliebigen Küstenabschnitt stattfinden.
 						       Im Preis inbegriffen sind Tauchanzug, Schnorchelausrüstung, Tourleiter, Obst und Wasser.
-						       Der Preis beträgt 150 Kuna pro Person.
+						  
 
 
 					    </div>

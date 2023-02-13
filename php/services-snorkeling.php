@@ -10,8 +10,27 @@
             <div class="modal-body">
 
 
-
-
+            <p class="h7">PRICES</p>
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">SNORKELING TOUR 2-3H</th>
+                                <th scope="col">SNORKELING EQIPMENT 1H</th>
+                                <th scope="col">TENNIS REQUET 1H</th>
+                            
+                              
+                            </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                                <td>40€ / PERSON</td>
+                                <td>5€</td>
+                                <td>5€</td>                                                                                 
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
 
                 <hr>
 
