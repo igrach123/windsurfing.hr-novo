@@ -311,7 +311,7 @@
                         <a href="img/bike/e-bike.jpg" class="text-center">
                             <img src="img/bike/e-bike-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>FALI E-BIKE</b> Stance E+ 2</p>
+                        <p class="text-center text-muted"> <b>HARD TAIL</b> E-BIKE</p>
                     </div>
                     <div class="col-xs-6 col-sm-6">
                         <a href="img/bike/e-bike-fully.jpg" class="text-center">
