@@ -83,6 +83,7 @@
                                 <b> <span> uključuje:</span></b>
                                 <ul>
                                     <li>Vodiča</li>
+                                    <li>Biciklu</li>
                                     <li>Voće i vodu</li>
                                     <li>Sigurnosnu opremu</li>
                                 </ul>
@@ -222,8 +223,8 @@
                                 </div>
 
                                 <div role="tabpanel" class="tab-pane" id="messages1"><b>Sunset Tura</b>
-                                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, commodi.
-                                  Treba opis
+                                  Izlet na biciklu uz zalazak sunca može biti nezaboravno iskustvo. Vozeći se po lijepoj stazi uz more  možete uživati u prekrasnom prizoru zalaska sunca. Kombinacija brzine i adrenalina bicikliranja s mirnom atmosferom 
+                                  čini ovaj izlet idealnim za opuštanje i uživanje u prirodi. Završite ga uz romantičnu večeru ili veselu zabavu s prijateljima.
                                 </div>
                             </div> <!-- tab content -->
                         </div> <!-- card1 -->
@@ -243,40 +244,26 @@
                             <tr>
                                 <th scope="col">POLUDNEVNI IZLET</th>
                                 <th scope="col">CJELODNEVNI IZLET</th>
-                                <th scope="col">URBANA GRADSKA TURA - PULA</th>
-                                <th scope="col">ENDURO TOUR KAMENJAK</th>
+                                <th scope="col">SUSNET TOUR</th>
+                                <th scope="col">E-BIKE POLUDNEVNI IZLET</th>
+                                <th scope="col">E-BIKE CJELODNEVNI IZLET</th>
+                                <th scope="col">E-BIKE SUSNET TOUR</th>
+                            
                             </tr>
                         </thead>
                       
                         <tbody>
                             <tr>
-                                <td>300.00 kn</td>
-                                <td>450,00 kn</td>
-                                <td>4+ PERSONS 350,00 kn</td>
-                                <td>4+ PERSONS 350,00 kn</td>
+                                <td>4H 50€</td>
+                                <td>8H 90€</td>
+                                <td>3H 50€</td>
+                                <td>4H 80€</td>
+                                <td>8H 120€</td>
+                                <td>3H 70€</td>
+                              
 
                             </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>3 PERSONS 400,00 kn</td>
-                                <td>3 PERSONS 400,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>2 PERSONS 500,00 kn</td>
-                                <td>2 PERSONS 500,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>1 PERSON 1000,00 kn</td>
-                                <td>1 PERSON 1000,00 kn</td>
-
-                            </tr>
+                         
                         </tbody>
 
                     </table>
@@ -301,44 +288,46 @@
                 <h5 class="services-sm-title"> BICIKLE</h5>
                 <div class="row bicikle-info">
 
-                    <div class="col-xs-6  col-sm-4 ">
-                        <a href="img/bike/brb-trail-ht-26-21.jpg" class="text-center"><img
-                                src="img/bike/brb-trail-ht-26-21_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Trail-ht-26</p>
-                    </div>
+                  
 
-                    <div class="col-xs-6 col-sm-4">
-                        <a href="img/bike/torpado-bt590-storm-red.jpg" class="text-center"><img
-                                src="img/bike/torpado-bt590-storm-red_thumb.jpg" alt="bike"
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="img/bike/kids-bike.jpg" class="text-center"><img
+                                src="img/bike/kids-bike-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt590</p>
+                        <p class="text-center text-muted"> <b>KIDS BIKE</b> </p>
                     </div>
-
-                    <div class="col-xs-6 col-sm-4">
-                        <a href="img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img
-                                src="img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
-                    </div>
-                    <div class="col-xs-6 col-sm-4 ">
+                      <div class="col-xs-6 col-sm-6 ">
                         <a href="img/bike/Talon-2-Blue.jpg" class="text-center"><img
                                 src="img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
+                        <p class="text-center text-muted"> <b>HARD TAIL</b> Talon-2</p>
                     </div>
+                     <div class="col-xs-6  col-sm-6 ">
+                        <a href="img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img
+                                src="img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike"
+                                class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>FULLY TAIL MTB</b> Trance 2</p>
+                    </div>
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="img/bike/e-bike.jpg" class="text-center">
+                            <img src="img/bike/e-bike-xs.jpg" alt="bike"
+                                class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>FALI E-BIKE</b> Stance E+ 2</p>
+                    </div>
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="img/bike/e-bike-fully.jpg" class="text-center">
+                            <img src="img/bike/e-bike-fully-xs.jpg" alt="bike"
+                                class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>FULLY E-BIKE</b> Stance E+ 2</p>
+                    </div>
+                    <!-- 
 
                     <div class="col-xs-6   col-sm-4">
                         <a href="img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img
                                 src="img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
                         <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
-                    </div>
-                    <div class="col-xs-6  col-sm-4 ">
-                        <a href="img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img
-                                src="img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
-                    </div>
+                    </div> -->
+                   
 
 
                 </div>

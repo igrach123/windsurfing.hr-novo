@@ -13,7 +13,7 @@
                 <h5 class="services-sm-title">Radausflüge</h5>
 
                 <div class="row">
-                    <div class=" col-sm-6 col-md-3 col-xs-12">
+                    <div class="  col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>Halbtagsausflug</h6>
@@ -22,7 +22,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>300,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
                             </div>
 
                             <div class='back'>
@@ -44,7 +44,7 @@
 
                     <!-- end of probni tečaj   -->
 
-                    <div class="col-sm-6 col-md-3 col-xs-12">
+                    <div class=" col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>Ganztagsausflug</h6>
@@ -53,7 +53,7 @@
                                 <br>
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>450,00 kn</span>
+                                <span class='name btn btn-info btn-block '>90 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Ganztagsausflug beinhaltet:</span></b>
@@ -70,17 +70,17 @@
                             </div>
                         </div>
                     </div><!-- end of col-sm-1   -->
-                    <div class="col-sm-6 col-md-3 col-xs-12">
+                    <div class=" col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
-                                <h6>Urban Stadtausflug Pula</h6>
-                                <div><span class='badge badge-info'>5H</span></div>
+                                <h6>Sunset Tour</h6>
+                                <div><span class='badge badge-info'>3H</span></div>
 
                                 <br>
 
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
                             </div>
                             <div class='back'>
                                 <b> <span>Urban Stadtausflug Pula:</span></b>
@@ -89,7 +89,7 @@
                                     <li>Geländefahrrad</li>
                                     <li>Sicherheitsausstattung</li>
                                     <li>Obst & Wasser</li>
-                                    <li>Mahlzeit</li>
+                                  
 
                                 </ul>
                                 <div class='icons'>
@@ -98,26 +98,86 @@
                             </div>
                         </div> <!-- card -->
                     </div><!-- end of col-sm-1   -->
-
-                    <div class=" col-sm-6 col-md-3 col-xs-12">
+                    <div class="  col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
-                                <h6>ENDORU TOUREN KAMENJAK</h6>
-                                <div><span class='badge badge-info'>5H-8H</span></div>
+                                <h6>E-Bike Halbtagsausflug</h6>
+                                <div> <span class='badge badge-info'>ca. 4H</span></div>
+                                 <div> <span class='badge badge-info'>E BIKE</span></div>
+
+                                <br>
+                                <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+                                <span class='name btn btn-info btn-block '>80 €</span>
+                            </div>
+
+                            <div class='back'>
+                                <b><span>Halbtagsausflug beinhaltet:</span></b>
+                                <ul>
+                                    <li>Halbtagsausflug</li>
+                                    <li>Geländefahrrad</li>
+                                    <li>Sicherheitsausstattung</li>
+                                    <li>Obst & Wasser</li>
+
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+
+                        </div> <!-- card -->
+                    </div> <!-- col sm 4 -->
+
+                    <!-- end of probni tečaj   -->
+
+                    <div class=" col-sm-4 col-xs-12">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>E-bIke Ganztagsausflug</h6>
+                                <div><span class='badge badge-info'>8H</span></div>
+                                 <div> <span class='badge badge-info'>E BIKE</span></div>
+
+                                <br>
+                                <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+                                <span class='name btn btn-info btn-block '>120 €</span>
+                            </div>
+                            <div class='back'>
+                                <b><span>Ganztagsausflug beinhaltet:</span></b>
+                                <ul>
+                                    <li>Tourleiter</li>
+                                    <li>Geländefahrrad</li>
+                                    <li>Sicherheitsausstattung</li>
+                                    <li>Obst & Wasser</li>
+                                    <li>Mahlzeit</li>
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of col-sm-1   -->
+                    <div class=" col-sm-4 col-xs-12">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>E-Bike Sunset Tour</h6>
+                                <div><span class='badge badge-info'>3H</span></div>
+                                 <div> <span class='badge badge-info'>E BIKE</span></div>
 
                                 <br>
 
                                 <p><a href="#" class="">mehr <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>70 €</span>
                             </div>
                             <div class='back'>
-                                <b> <span>ENDORU TOUREN KAMENJAK:</span></b>
+                                <b> <span>Urban Stadtausflug Pula:</span></b>
                                 <ul>
                                     <li>Tourleiter</li>
+                                    <li>Geländefahrrad</li>
                                     <li>Sicherheitsausstattung</li>
                                     <li>Obst & Wasser</li>
-                                    <li>Mahlzeit</li>
+                                  
 
                                 </ul>
                                 <div class='icons'>
@@ -126,6 +186,8 @@
                             </div>
                         </div> <!-- card -->
                     </div><!-- end of col-sm-1   -->
+
+                 
                 </div><!-- ROW -->
                 <!-- opis izlet
  -->
@@ -139,10 +201,8 @@
                                         data-toggle="tab"><span>Halbtagsradausflug</span></a></li>
                                 <li role="presentation"><a href="#profile1" aria-controls="profile1" role="tab"
                                         data-toggle="tab">  <span>Ganztagsradausflug</span></a></li>
-                                <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab"
-                                        data-toggle="tab">  <span>Urban Stadtausflug Pula</span></a></li>
-                                <li role="presentation"><a href="#enduro" aria-controls="enduro" role="tab"
-                                        data-toggle="tab">  <span>ENDOURO TOUREN KAMENJAK</span></a></li>
+                               <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab"
+                                        data-toggle="tab">  <span>Sunset Tour</span></a></li>
                             </ul>
 
                             <!-- Tab panes -->
@@ -176,26 +236,9 @@
                                     <b> Es werden rund 30 Km zurückgelegt.</b>
                                 </div>
 
-                                <div role="tabpanel" class="tab-pane" id="messages1"><b>Urban Stadtausflug Pula</b>
-                                    Der Beginn der Feldbesichtigung von Mars
-                                    Erster Stopp Verudela
-                                    Aquarienrundfahrt oder Schwimmen
-                                    Der zweite Halt Valovine
-                                    Schnorcheln in der Höhle (Colombi-Grotten)
-                                    Third Stage Arena Arena
-                                    Das vierte Stop-Forum
-                                    Fünfte Haltestelle Golden Gate
-                                    Kehre zum Marsfeld zurück
-                                </div>
-                                <div role="tabpanel" class="tab-pane" id="enduro"><b>ENDURO TOUREN KAMENJAK</b>
-                                    Diese Touren sind erfahreneren Radfahrern vorbehalten. Sie bieten das Gefühl einer
-                                    wahren Bergfahrt
-                                    obwohl die Fahrradwege entlang der Meeresküste führen, durch unberührte Natur.
-                                    Die Fahrt findet meist auf Pfaden statt, mit kurzen Straßenintervallen.
-                                    Dauer 5 - 8 Stunden
-                                    Entfernung 25 - 40 Kilometer
-                                    Im Preis inbegriffen: Mittagessen, Obst, Wasser, Führer.
-                                </div>
+                                <div role="tabpanel" class="tab-pane" id="messages1"><b></b>
+                                    Eine Fahrradtour bei Sonnenuntergang kann ein unvergessliches Erlebnis sein. Auf einem schönen Küstenweg  kann man den wunderschönen Sonnenuntergang genießen. Die Kombination aus Geschwindigkeit und Adrenalin beim Radfahren mit der friedlichen Atmosphäre bei Sonnenuntergang macht diese Tour ideal für Entspannung und Naturgenuss. Beende sie mit einem romantischen Abendessen oder einer lustigen Nacht mit Freunden.
+                                </div>                              
                             </div> <!-- tab content -->
                         </div> <!-- card1 -->
                     </div> <!-- col md 12 -->
@@ -213,37 +256,21 @@
                             <tr>
                                 <th scope="col">Halbtagsausflug</th>
                                 <th scope="col">Ganztagsausflug</th>
-                                <th scope="col">Urban Stadtausflug Pula</th>
-                                <th scope="col">Enduro Touren Kamenjak</th>
+                                 <th scope="col">SUSNET TOUR.</th>
+                                <th scope="col">Halbtagsausflug</th>
+                                <th scope="col">Ganztagsausflug</th>
+                                 <th scope="col">SUSNET TOUR.</th>
+                               
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>300.00 kn</td>
-                                <td>450,00 kn</td>
-                                <td>4+ PERSONS 350,00 kn</td>
-                                <td>4+ PERSONS 350,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>3 PERSONS 400,00 kn</td>
-                                <td>3 PERSONS 400,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>2 PERSONS 500,00 kn</td>
-                                <td>2 PERSONS 500,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>1 PERSON 1000,00 kn</td>
-                                <td>1 PERSON 1000,00 kn</td>
+                                <td>4H 50€</td>
+                                <td>8H 90€</td>
+                                <td>3H 50€</td>
+                                <td>4H 80€</td>
+                                <td>8H 120€</td>
+                                <td>3H 70€</td>
 
                             </tr>
                         </tbody>
@@ -253,13 +280,7 @@
                 <p class="h7">FAHRAD VERLEIH</p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col">BIKE 1</th>
-                                <th scope="col">BIKE 2</th>
-                                <th scope="col">BIKE 3</th>
-                            </tr>
-                        </thead>
+                       
                         <?php include "../var-cjene/bike-cjene.php"; ?>
                     </table>
                 </div>
@@ -277,43 +298,34 @@
                 <h5 class="services-sm-title">FAHRRÄDER</h5>
                 <div class="row bicikle-info">
 
-                    <div class="col-xs-6  col-sm-4 ">
-                        <a href="../img/bike/brb-trail-ht-26-21.jpg" class="text-center"><img
-                                src="../img/bike/brb-trail-ht-26-21_thumb.jpg" alt="bike"
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="../img/bike/kids-bike.jpg" class="text-center"><img
+                                src="../img/bike/kids-bike-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Trail-ht-26</p>
+                        <p class="text-center text-muted"> <b>KIDS BIKE</b> </p>
                     </div>
-
-                    <div class="col-xs-6 col-sm-4">
-                        <a href="../img/bike/torpado-bt590-storm-red.jpg" class="text-center"><img
-                                src="../img/bike/torpado-bt590-storm-red_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt590</p>
-                    </div>
-                    <div class="col-xs-6 col-sm-4">
-                        <a href="../img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img
-                                src="../img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
-                    </div>
-
-                    <div class="col-xs-6 col-sm-4 ">
+                      <div class="col-xs-6 col-sm-6 ">
                         <a href="../img/bike/Talon-2-Blue.jpg" class="text-center"><img
-                                src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
+                                src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>HARD TAIL</b> Talon-2</p>
                     </div>
-                    <div class="col-xs-6   col-sm-4">
-                        <a href="../img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img
-                                src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
-                    </div>
-                    <div class="col-xs-6  col-sm-4 ">
+                     <div class="col-xs-6  col-sm-6 ">
                         <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img
                                 src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
+                        <p class="text-center text-muted"> <b>FULLY TAIL MTB</b> Trance 2</p>
+                    </div>
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="../img/bike/e-bike.jpg" class="text-center">
+                            <img src="../img/bike/e-bike-xs.jpg" alt="bike"
+                                class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>HARD TAIL E-BIKE </b> EBIKE</p>
+                    </div>
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="../img/bike/e-bike-fully.jpg" class="text-center">
+                            <img src="../img/bike/e-bike-fully-xs.jpg" alt="bike"
+                                class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>FULLY E-BIKE</b> Stance E+ 2</p>
                     </div>
 
 

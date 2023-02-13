@@ -11,7 +11,7 @@
                 <h5 class="services-sm-title">BIKE EXCURSIONS</h5>
 
                 <div class="row">
-                    <div class=" col-sm-6 col-md-3 col-xs-12">
+                    <div class=" col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>Half-day excursion</h6>
@@ -21,7 +21,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>300,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
                             </div>
 
                             <div class='back'>
@@ -43,7 +43,7 @@
 
                     <!-- end of probni tečaj   -->
 
-                    <div class="col-sm-6 col-md-3 col-xs-12">
+                    <div class="col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>Full day excursion</h6>
@@ -53,7 +53,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>450,00 kn</span>
+                                <span class='name btn btn-info btn-block '>90 €</span>
                             </div>
                             <div class='back'>
                                 <b><span>Full day excursion includes:</span></b>
@@ -70,11 +70,11 @@
                             </div>
                         </div>
                     </div><!-- end of col-sm-1   -->
-                    <div class="col-sm-6 col-md-3 col-xs-12">
+                    <div class="col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
-                                <h6>URBAN CITY TOUR PULA</h6>
-                                <div><span class='badge badge-info'>5H</span></div>
+                                <h6>SUNSET TOUR</h6>
+                                <div><span class='badge badge-info'>3H</span></div>
 
 
 
@@ -82,15 +82,13 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>50 €</span>
                             </div>
                             <div class='back'>
-                                <b> <span>URBAN CITY TOUR PULA inlcudes:</span></b>
+                                <b> <span>SUNSET TOUR inlcudes:</span></b>
                                 <ul>
                                     <li>Personal Guide</li>
                                     <li>Bicycle</li>
-                                    <li>Lunch</li>
-                                    <li>Dinner</li>
                                     <li>Safety equipment</li>
                                     <li>Fruit & water</li>
                                 </ul>
@@ -100,12 +98,73 @@
                             </div>
                         </div> <!-- card -->
                     </div><!-- end of col-sm-1   -->
-
-                    <div class=" col-sm-6 col-md-3 col-xs-12">
+                    <div class=" col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
-                                <h6>ENDURO TOUR KAMENJAK</h6>
-                                <div><span class='badge badge-info'>5H-8H</span></div>
+                                <h6>E-Bike Half-day excursion</h6>
+                                <div> <span class='badge badge-info'>about 4H</span></div>
+                                 <div> <span class='badge badge-info'>E BIKE</span></div>
+
+                                <br>
+                                <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+
+                                <span class='name btn btn-info btn-block '>80 €</span>
+                            </div>
+
+                            <div class='back'>
+                                <b><span>Half-day excursion includes:</span></b>
+                                <ul>
+                                    <li>Guide</li>
+                                    <li>Bicycle</li>
+                                    <li>Safety equipment</li>
+                                    <li>Fruit & water</li>
+
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+
+                        </div> <!-- card -->
+                    </div> <!-- col sm 4 -->
+
+                    <!-- end of probni tečaj   -->
+
+                    <div class="col-sm-4 col-xs-12">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>E-Bike Full day excursion</h6>
+                                <div><span class='badge badge-info'>8H</span></div>
+                                <div> <span class='badge badge-info'>E BIKE</span></div>
+
+                                <br>
+                                <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
+                                </p>
+
+                                <span class='name btn btn-info btn-block '>120 €</span>
+                            </div>
+                            <div class='back'>
+                                <b><span>Full day excursion includes:</span></b>
+                                <ul>
+                                    <li>Guide</li>
+                                    <li>Bicycle</li>
+                                    <li>Lunch</li>
+                                    <li>Safety equipment</li>
+                                    <li>Fruit & water</li>
+                                </ul>
+                                <div class='icons'>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of col-sm-1   -->
+                    <div class="col-sm-4 col-xs-12">
+                        <div class='card'>
+                            <div class='front'>
+                                <h6>E-Bike Sunset Tour</h6>
+                                <div><span class='badge badge-info'>3H</span></div>
+                                <div> <span class='badge badge-info'>E BIKE</span></div>
 
 
 
@@ -113,14 +172,13 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>350,00 kn</span>
+                                <span class='name btn btn-info btn-block '>70 €</span>
                             </div>
                             <div class='back'>
-                                <b> <span>URBAN CITY TOUR PULA inlcudes:</span></b>
+                                <b> <span>SUNSET TOUR inlcudes:</span></b>
                                 <ul>
                                     <li>Personal Guide</li>
-                                    <li>Lunch</li>
-                                    <li>Dinner</li>
+                                    <li>Bicycle</li>
                                     <li>Safety equipment</li>
                                     <li>Fruit & water</li>
                                 </ul>
@@ -130,6 +188,8 @@
                             </div>
                         </div> <!-- card -->
                     </div><!-- end of col-sm-1   -->
+
+                   
 
                 </div><!-- ROW -->
                 <!-- opis izleta-->
@@ -144,9 +204,8 @@
                                 <li role="presentation"><a href="#profile1" aria-controls="profile1" role="tab"
                                         data-toggle="tab">  <span>Full day excursion</span></a></li>
                                 <li role="presentation"><a href="#messages1" aria-controls="messages1" role="tab"
-                                        data-toggle="tab">  <span>URBAN CITY TOUR PULA</span></a></li>
-                                <li role="presentation"><a href="#enduro" aria-controls="enduro" role="tab"
-                                        data-toggle="tab">  <span>ENDURO TOUR KAMENJAK</span></a></li>
+                                        data-toggle="tab">  <span>Sunset Tour</span></a></li>
+                             
                             </ul>
 
                             <!-- Tab panes -->
@@ -179,27 +238,10 @@
                                     <b>The distance covered is of about 30 km.</b>
                                 </div>
 
-                                <div role="tabpanel" class="tab-pane" id="messages1"><b>URBAN CITY TOUR PULA.</b>
-                                    The beginning of Mars's field tour
-                                    First Stop Verudela
-                                    Tour of Aquariums or swimming
-                                    The second stop Valovine
-                                    Snorkeling in the cave (grottoes of colombi)
-                                    Third Stage Arena Arena
-                                    The Fourth Stop Forum
-                                    Fifth Stop Golden Gate
-                                    Return to Mars Field
+                                <div role="tabpanel" class="tab-pane" id="messages1"><b>Sunset Tour</b>
+                                   A bike ride at sunset can be an unforgettable experience. Riding on a beautiful coastal path or through lush forests, you can enjoy the beautiful view of the sunset. The combination of the speed and adrenaline of cycling with the peaceful atmosphere of the sunset makes this ride ideal for relaxation and enjoying nature. Finish it with a romantic dinner or a fun night out with friends.
                                 </div>
-                                <div role="tabpanel" class="tab-pane" id="enduro"><b>ENDURO TOUR KAMENJAK.</b>
-                                    These tours are designed for experienced bikers. They provide a real mountain bike
-                                    experience (it feels
-                                    like a mountain trail), but the trails run along the seashore, in pristine nature.
-                                    The tours are mostly on
-                                    single tracks with only short stays on the road.
-                                    Duration 5-8 h
-                                    Kilometres 25-40
-                                    The price includes: lunch, fruit, water, guide
-                                </div>
+                              
                             </div> <!-- tab content -->
                         </div> <!-- card1 -->
                     </div> <!-- col md 12 -->
@@ -219,37 +261,22 @@
                             <tr>
                                 <th scope="col">HALF-DAY</th>
                                 <th scope="col">FULL-DAY</th>
-                                <th scope="col">URBAN CITY TOUR PULA.</th>
-                                <th scope="col">ENDURO TOUR KAMENJAK.</th>
+                                <th scope="col">SUSNET TOUR.</th>
+                                <th scope="col">E-BIKE HALF-DAY</th>
+                                <th scope="col">E-BIKE FULL-DAY</th>
+                                <th scope="col">E-BIKE SUSNET TOUR.</th>
+                              
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td>300.00 kn</td>
-                                <td>450,00 kn</td>
-                                <td>4+ PERSONS 350,00 kn</td>
-                                <td>4+ PERSONS 350,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>3 PERSONS 400,00 kn</td>
-                                <td>3 PERSONS 400,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>2 PERSONS 500,00 kn</td>
-                                <td>2 PERSONS 500,00 kn</td>
-
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>1 PERSON 1000,00 kn</td>
-                                <td>1 PERSON 1000,00 kn</td>
+                          <tr>
+                                <td>4H 50€</td>
+                                <td>8H 90€</td>
+                                <td>3H 50€</td>
+                                <td>4H 80€</td>
+                                <td>8H 120€</td>
+                                <td>3H 70€</td>
+                              
 
                             </tr>
                         </tbody>
@@ -259,14 +286,7 @@
                 <p class="h7">BIKE RENTAL</p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col">BIKE 1</th>
-                                <th scope="col">BIKE 2</th>
-                                <th scope="col">BIKE 3</th>
-
-                            </tr>
-                        </thead>
+                       
                         <?php include "../var-cjene/bike-cjene.php"; ?>
                     </table>
  
@@ -285,43 +305,34 @@
                 <h5 class="services-sm-title">BIKES</h5>
                 <div class="row bicikle-info">
 
-                    <div class="col-xs-6  col-sm-4 ">
-                        <a href="../img/bike/brb-trail-ht-26-21.jpg" class="text-center"><img
-                                src="../img/bike/brb-trail-ht-26-21_thumb.jpg" alt="bike"
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="../img/bike/kids-bike.jpg" class="text-center"><img
+                                src="../img/bike/kids-bike-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Trail-ht-26</p>
+                        <p class="text-center text-muted"> <b>KIDS BIKE</b> </p>
                     </div>
-
-                    <div class="col-xs-6 col-sm-4">
-                        <a href="../img/bike/torpado-bt590-storm-red.jpg" class="text-center"><img
-                                src="../img/bike/torpado-bt590-storm-red_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt590</p>
-                    </div>
-                    <div class="col-xs-6 col-sm-4">
-                        <a href="../img/bike/torpado-bt591-storm-lilla.jpg" class="text-center"><img
-                                src="../img/bike/torpado-bt591-storm-lilla_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 1</b> Torpado-bt591</p>
-                    </div>
-
-                    <div class="col-xs-6 col-sm-4 ">
+                      <div class="col-xs-6 col-sm-6 ">
                         <a href="../img/bike/Talon-2-Blue.jpg" class="text-center"><img
-                                src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 2</b> Talon-2</p>
+                                src="../img/bike/Talon-2-Blue_thumb.jpg" alt="bike" class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>HARD TAIL</b> Talon-2</p>
                     </div>
-                    <div class="col-xs-6   col-sm-4">
-                        <a href="../img/bike/brb-stratos-29-rc02-27s-black_thumb.jpg" class="text-center"><img
-                                src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="bike"
-                                class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"><b> BIKE 2</b> Stratos-29</p>
-                    </div>
-                    <div class="col-xs-6  col-sm-4 ">
+                     <div class="col-xs-6  col-sm-6 ">
                         <a href="../img/bike/MY19Trance2_ColorA.jpg" class="text-center"><img
                                 src="../img/bike/MY19Trance2_ColorA-thumb.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>BIKE 3</b> Trance 2 2019</p>
+                        <p class="text-center text-muted"> <b>FULLY TAIL MTB</b> Trance 2</p>
+                    </div>
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="../img/bike/e-bike.jpg" class="text-center">
+                            <img src="../img/bike/e-bike-xs.jpg" alt="bike"
+                                class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>HARD TAIL E-BIKE </b> E BIKE</p>
+                    </div>
+                    <div class="col-xs-6 col-sm-6">
+                        <a href="../img/bike/e-bike-fully.jpg" class="text-center">
+                            <img src="../img/bike/e-bike-fully-xs.jpg" alt="bike"
+                                class="img-responsive thumbnail"></a>
+                        <p class="text-center text-muted"> <b>FULLY E-BIKE</b> Stance E+ 2</p>
                     </div>
 
 
