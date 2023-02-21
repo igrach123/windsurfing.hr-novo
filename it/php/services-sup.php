@@ -16,19 +16,11 @@
                     il classico stand up paddling e lo SUP yoga fino alloSUP inacque selvagge.Offriamo diverse tavole da
                     SUP in noleggio – il modo ideale per esplorare le acque dell'Arcipelago di Medulin in tutto relax.
                 </p>
-
-
-
-
-
                 <hr>
-
-
-
-
+                 <?php include "../var-cjene/sup-cijene.php"; ?>
+                 
                 <!-- galerija -->
                 <h5 class="services-sm-title">GALLERIA</h5>
-
                 <!-- video -->
                 <div class="row">
                     <div class="col-xs-offset-2 col-xs-8">

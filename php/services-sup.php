@@ -15,15 +15,9 @@
                     dasci, sup yoge i organiziranja regata do veslanja po divljim vodama. Nudimo više SUP daski za
                     rekreativno veslanje koje možete iznajmiti i tako upoznati naš prelijepi akvatorij.
                 </p>
-
-
-
-
-
                 <hr>
 
-
-
+            <?php include "var-cjene/sup-cijene.php"; ?>
 
                 <!-- galerija -->
                 <h5 class="services-sm-title">GALERIJA</h5>

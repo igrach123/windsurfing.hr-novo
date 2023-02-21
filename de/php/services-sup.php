@@ -16,16 +16,8 @@
                     bis zu Wildwasserpaddeln weiterentwickelt. Wir stellen mehrere Freizeitbretter zur Verfügung, die es
                     ermöglichen per Stehpaddel unsere wunderbaren Gewässer zu erkunden.
                 </p>
-
-
-
-
-
                 <hr>
-
-
-
-
+                <?php include "../var-cjene/sup-cijene.php"; ?>
                 <!-- galerija -->
                 <h5 class="services-sm-title">GALERIE</h5>
 

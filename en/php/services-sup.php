@@ -16,12 +16,8 @@
                     We offer several SUP boards for rent, which provide a great way to explore the waters of the
                     Medulin Archipelago.
                 </p>
-
-
-
-
-
                 <hr>
+                  <?php include "../var-cjene/sup-cijene.php"; ?>
 
 
 
