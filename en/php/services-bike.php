@@ -38,10 +38,10 @@
                                 </div>
                             </div>
 
-                        </div> <!-- card -->
-                    </div> <!-- col sm 4 -->
+                        </div> 
+                    </div> 
 
-                    <!-- end of probni tečaj   -->
+                  
 
                     <div class="col-sm-4 col-xs-12">
                         <div class='card'>
@@ -69,7 +69,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!-- end of col-sm-1   -->
+                    </div>
                     <div class="col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
@@ -96,9 +96,9 @@
 
                                 </div>
                             </div>
-                        </div> <!-- card -->
-                    </div><!-- end of col-sm-1   -->
-                    <div class=" col-sm-4 col-xs-12">
+                        </div>
+                    </div>
+                    <!-- <div class=" col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>E-Bike Half-day excursion</h6>
@@ -126,10 +126,10 @@
                                 </div>
                             </div>
 
-                        </div> <!-- card -->
-                    </div> <!-- col sm 4 -->
+                        </div>
+                    </div>
 
-                    <!-- end of probni tečaj   -->
+          
 
                     <div class="col-sm-4 col-xs-12">
                         <div class='card'>
@@ -158,20 +158,16 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!-- end of col-sm-1   -->
+                    </div>
                     <div class="col-sm-4 col-xs-12">
                         <div class='card'>
                             <div class='front'>
                                 <h6>E-Bike Sunset Tour</h6>
                                 <div><span class='badge badge-info'>3H</span></div>
                                 <div> <span class='badge badge-info'>E BIKE</span></div>
-
-
-
                                 <br>
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
-
                                 <span class='name btn btn-info btn-block '>70 €</span>
                             </div>
                             <div class='back'>
@@ -183,11 +179,10 @@
                                     <li>Fruit & water</li>
                                 </ul>
                                 <div class='icons'>
-
                                 </div>
                             </div>
-                        </div> <!-- card -->
-                    </div><!-- end of col-sm-1   -->
+                        </div>
+                    </div> -->
 
                    
 
@@ -262,9 +257,9 @@
                                 <th scope="col">HALF-DAY</th>
                                 <th scope="col">FULL-DAY</th>
                                 <th scope="col">SUSNET TOUR.</th>
-                                <th scope="col">E-BIKE HALF-DAY</th>
+                               <!--  <th scope="col">E-BIKE HALF-DAY</th>
                                 <th scope="col">E-BIKE FULL-DAY</th>
-                                <th scope="col">E-BIKE SUSNET TOUR.</th>
+                                <th scope="col">E-BIKE SUSNET TOUR.</th> -->
                               
                             </tr>
                         </thead>
@@ -273,9 +268,9 @@
                                 <td>4H 50€</td>
                                 <td>8H 90€</td>
                                 <td>3H 50€</td>
-                                <td>4H 80€</td>
+                               <!--  <td>4H 80€</td>
                                 <td>8H 120€</td>
-                                <td>3H 70€</td>
+                                <td>3H 70€</td> -->
                               
 
                             </tr>
@@ -322,7 +317,7 @@
                                 class="img-responsive thumbnail"></a>
                         <p class="text-center text-muted"> <b>FULLY TAIL MTB</b> Trance 2</p>
                     </div>
-                    <div class="col-xs-6 col-sm-6">
+                   <!--  <div class="col-xs-6 col-sm-6">
                         <a href="../img/bike/e-bike.jpg" class="text-center">
                             <img src="../img/bike/e-bike-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
@@ -333,7 +328,7 @@
                             <img src="../img/bike/e-bike-fully-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
                         <p class="text-center text-muted"> <b>FULLY E-BIKE</b> Stance E+ 2</p>
-                    </div>
+                    </div> -->
 
 
                 </div>
