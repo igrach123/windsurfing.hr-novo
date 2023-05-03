@@ -10,14 +10,14 @@
                             <tr>
                                 <td>1H - 4€</td>
                                 <td>1H - 6€</td>
-                                <td>1H -35 €</td>
+                                <td>/</td>
 
 
                             </tr>
                             <tr>
                                 <td>4H - 10 €</td>
                                 <td>4H - 15 €</td>
-                                <td>4H - 50 €</td>
+                                <td>4H - 35 €</td>
 
                             </tr>
                             <tr>
@@ -31,7 +31,7 @@
                                 <td>2 Days - 85 €</td>
                             </tr>
                             <tr>
-                                <td>3 Days - 50 €</td>
+                                <td>3 Days - 35 €</td>
                                 <td>3 Days - 50 €</td>
                                 <td>3 Days - 125 €</td>
                             </tr>

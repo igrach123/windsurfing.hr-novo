@@ -15,8 +15,8 @@
                         <tbody>
                             <tr>
                                 <td>1h - 20 €</td>
+                                <td>1h - 25 €</td>
                                 <td>1h - 30 €</td>
-                                <td>1h - 40 €</td>
                                  <td>1h - 50 €</td>
                                 <td>Wetsuit 1h - 5 €</td>
                                
@@ -24,30 +24,30 @@
                             </tr>
                             <tr>
                                 <td>2h - 35 €</td>
-                                <td>2h - 45 €</td>
-                                <td>2h - 60 €</td>
+                                <td>2h - 35 €</td>
+                                <td>2h - 50 €</td>
                                 <td></td>
                                 <td>Harness 1h - 5 €</td>
                             </tr>
                             <tr>
                                 <td>4h - 50 €</td>
-                                <td>4h - 70 €</td>
+                                <td>4h - 55 €</td>
                                 <td>4h - 80 €</td>
                             </tr>
                             <tr>
                                 <td>8h - 80 €</td>
+                                <td>8h - 80 €</td>
                                 <td>8h - 100 €</td>
-                                <td>8h - 130 €</td>
                             </tr>
                             <tr>
                                 <td>5h - <small>PREPAID</small> - 80 €</td>
+                                <td>5h - <small>PREPAID</small> - 100 €</td>
                                 <td>5h - <small>PREPAID</small> - 120 €</td>
-                                <td>5h - <small>PREPAID</small> - 150 €</td>
                             </tr>
                             <tr>
                                 <td>10h - <small>PREPAID</small> - 140 €</td>
                                 <td>10h - <small>PREPAID</small> - 180 €</td>
-                                <td>10h - <small>PREPAID</small> - 250 €</td>
+                                <td>10h - <small>PREPAID</small> - 220 €</td>
                                    
                             </tr>
                         </tbody>

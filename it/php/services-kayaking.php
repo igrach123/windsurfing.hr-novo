@@ -240,20 +240,20 @@
                             </tr>
                             <tr>
                                 <td>4H</td>
+                                <td>25 €</td>
+                                <td>4H</td>
                                 <td>30 €</td>
                                 <td>4H</td>
                                 <td>35 €</td>
-                                <td>4H</td>
-                                <td>40 €</td>
                                 <td></td>
                             </tr>
                             <tr>
                                 <td>8H</td>
+                                <td>30 €</td>
+                                <td>8H</td>
                                 <td>40 €</td>
                                 <td>8H</td>
-                                <td>45 €</td>
-                                <td>8H</td>
-                                <td>60 €</td>
+                                <td>50 €</td>
                                 <td></td>
                             </tr>
                         </tbody>
