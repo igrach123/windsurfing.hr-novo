@@ -632,6 +632,7 @@ a {
 }
 @include xxs {
   #bootstrap-touch-slider {
+    background-color: $main-blue;
     padding-top: 60px;
   }
 }
@@ -2128,7 +2129,7 @@ footer {
         display: inline-block;
         width: 40px;
         height: 40px;
-        background-image: url(../img/social/cro-webdesing-logo-black.png);
+        background-image: url(../img/social/wab_logo_blue_1@2x.png);
         background-size: cover;
         transition: background-image 0.4s all 0.4s
           cubic-bezier(0.25, 0.8, 0.25, 1);
@@ -2136,10 +2137,6 @@ footer {
           cubic-bezier(0.25, 0.8, 0.25, 1);
         -moz-transition: background-image 0.4s all 0.4s
           cubic-bezier(0.25, 0.8, 0.25, 1);
-      }
-      .cw-logo:hover {
-        display: inline-block;
-        background-image: url(../img/social/cro-webdesing-logo.png);
       }
     }
   }

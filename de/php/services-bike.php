@@ -316,18 +316,18 @@
                                 class="img-responsive thumbnail"></a>
                         <p class="text-center text-muted"> <b>FULLY TAIL MTB</b> Trance 2</p>
                     </div>
-                  <!--   <div class="col-xs-6 col-sm-6">
-                        <a href="../img/bike/e-bike.jpg" class="text-center">
-                            <img src="../img/bike/e-bike-xs.jpg" alt="bike"
+                     <div class="col-xs-6 col-sm-6">
+                        <a href="../img/bike/radon.jpg" class="text-center">
+                            <img src="../img/bike/radon-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>HARD TAIL E-BIKE </b> EBIKE</p>
+                        <p class="text-center text-muted"> <b>RADON</b</p>
                     </div>
                     <div class="col-xs-6 col-sm-6">
-                        <a href="../img/bike/e-bike-fully.jpg" class="text-center">
-                            <img src="../img/bike/e-bike-fully-xs.jpg" alt="bike"
+                        <a href="../img/bike/radon-lady.jpg" class="text-center">
+                            <img src="../img/bike/radon-lady-xs.jpg" alt="bike"
                                 class="img-responsive thumbnail"></a>
-                        <p class="text-center text-muted"> <b>FULLY E-BIKE</b> Stance E+ 2</p>
-                    </div> -->
+                        <p class="text-center text-muted"> <b>RADON LADY</b></p>
+                    </div> 
 
 
                 </div>

@@ -59,7 +59,8 @@
                 <!-- Third Slide -->
                 <div class="item active">
                     <!-- Slide Background -->
-                    <img src="img/hero-image-template-1.jpg" class="img-responsive" alt="kamioni Rudina trans"/>
+         
+                    <img src="img/hero-image-template-1.jpg" class="lazyload img-responsive" alt="windsurfing header">
                     <div class="bs-slider-overlay"></div>
 
                     <div class="container">
@@ -83,7 +84,8 @@
                 <!-- Second Slide -->
                 <div class="item">
                     <!-- Slide Background -->
-                    <img src="img/hero-image-template-2.jpg" class="img-responsive" alt="kamioni" />
+                  
+                    <img data-src="img/hero-image-template-2.jpg" class="lazyload img-responsive" alt="windsurfing header">
                     <div class="bs-slider-overlay"></div>
                     <!-- Slide Text Layer -->
                     <div class="slide-text slide_style_center container">
@@ -102,7 +104,7 @@
                 <!-- Third Slide -->
                 <div class="item">
                     <!-- Slide Background -->
-                   <img src="img/hero-image-template-3.jpg" class="img-responsive" alt="kamioni" />
+                   <img data-src="img/hero-image-template-3.jpg" class="lazyload img-responsive" alt="windsurfing header">
                     <div class="bs-slider-overlay"></div>
                     <!-- Slide Text Layer -->
                     <div class="slide-text slide_style_right container">

@@ -47,6 +47,10 @@
     <link rel="stylesheet" href="css/assets/blueimp-gallery.min.css">
     <link rel="stylesheet" href="css/assets/blueimp-gallery-indicator.css">
     <link rel="stylesheet" href="css/assets/blueimp-gallery-video.css">
+   <!--  lazy load -->
+     <script src="js/lazysizes.min.js" async></script>
+  <!-- Images End -->
+</body>
     <!--owl carousel-->
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.min.css">

@@ -157,7 +157,7 @@
                         <?php echo date("Y"); ?> </span> </p> </span> </p>
             </div>
             <div class="footer-bottom-right">
-                <a href="https://www.linkedin.com/in/igor-brajković-5673b1105" target="_blank">
+                <a href="https://webartlab.hr/" target="_blank">
                     <p class="text-center hidden-xs izradio">POWERED BY:<br>
                         <span class="cw-logo"></span>
                     </p>
