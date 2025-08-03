@@ -7,39 +7,20 @@
                 <h2 class="text-center">Contattaci:</h2>
                 <h4 class="text-center ">Mandaci un messaggio!</h4>
 
-                <form role="form" method="post" id="reused_form">
+                <form id="form">
                     <div class="form-group">
-                        <input type="text" placeholder="Name" class="form-control" id="name" name="name" required
-                            maxlength="50">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Email" id="email" name="email" required
-                            maxlength="50">
+                        <input type="text" name="name" id="name" placeholder="name" class="form-control"> 
                     </div>
                     <div class="form-group">
-
-                        <textarea class="form-control" type="textarea" name="message" id="message"
-                            placeholder="Your message  here!" maxlength="6000" rows="7"></textarea>
+                         <textarea placeholder="message" type="text" name="message" id="message"  class="form-control" type="textarea" rows="6"> </textarea>
                     </div>
-                    <div class="row" style="margin-bottom:30px;">
-                        <div class="col-sm-5">
-                            <img src="captcha.php" id="captcha_image" />
-                            <br />
-                            <a id="captcha_reload" href="#">reload</a>
-                        </div>
-                        <div class="col-sm-6">
-                            <input type="text" placeholder="Enter the code!" class="form-control" required id="captcha"
-                                name="captcha">
-                        </div>
+                    <div class="form-group">
+                        <input type="text" name="email" id="email" placeholder="email" class="form-control" >
                     </div>
-                    <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">SEND</button>
+                      <!-- Google reCAPTCHA widget -->
+                    <div class="g-recaptcha" data-sitekey="6LfGU5krAAAAAM5iNlglkpZLqp4eAKrTpcgUx7QU"></div> <br>
+                    <input type="submit" id="button" value="Send Email" class="btn btn-lg btn-default" >
                 </form>
-                <div id="success_message" style="width:100%; height:100%; display:none; ">
-                    <h3>Sent your message successfully!</h3>
-                </div>
-                <div class="text-danger" id="error_message" style="width:100%; height:100%; display:none; ">
-                    <h3>Error</h3> Sorry there was an error sending your form.
-                </div class="text-danger">
 
             </div>
 

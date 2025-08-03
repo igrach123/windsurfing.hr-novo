@@ -108,8 +108,17 @@
     <!--JavaScript, jquerry and plugins-->
     <script src="../js/vendor/jquery.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
-    <script src="form.js"></script>
     <script src="../js/main-js-backup-min.js"></script>
+    <!-- email dodatni skript -->
+    <script type="text/javascript"
+    src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script type="text/javascript">
+    emailjs.init('VvtSZpUIjxELKSKAL')
+    </script>
+    <script src="../js/emailjs.js"></script>
+    <!-- reCAPTCHA script -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 
 </body>
 
