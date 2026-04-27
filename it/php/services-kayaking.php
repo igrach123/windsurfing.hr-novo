@@ -76,7 +76,7 @@
                         <div class='card'>
                             <div class='front'>
                                 <h6>L’escursione alle grotte costiere</h6>
-                                <div><span class='badge badge-info'>CIRCA 5H</span></div>
+                                <div><span class='badge badge-info'>CIRCA 4H</span></div>
                                 <span class='job'>Min 4 PAX </span>
 
 
@@ -155,8 +155,7 @@
                                         alle grotte costiere</b>
 
 
-                                    inizia alle 9:00h e alle 14:30h del mattino e dura circa cinque
-                                    ore. L’escursione deve essere prenotata con almeno un giorno di anticipo. Il luogo
+                                    inizia alle 10h - 14 h & 14h - 18h. L’escursione deve essere prenotata con almeno un giorno di anticipo. Il luogo
                                     di partenza e
                                     di ritorno è il campeggio di Stupice a Premantura. L’escursione include lo
                                     snorkeling sulle

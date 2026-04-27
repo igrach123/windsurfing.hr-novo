@@ -73,7 +73,7 @@
                         <div class='card'>
                             <div class='front'>
                                 <h6>IZLET KAJAKOM U ŠPILJE</h6>
-                                <div><span class='badge badge-info'>5H</span></div>
+                                <div><span class='badge badge-info'>4H</span></div>
 
 
                                 <span class='job'> Min 4 osobe </span>
@@ -116,7 +116,7 @@
                             <!-- Tab panes -->
                             <div class="tab-content">
                                 <div role="tabpanel" class="tab-pane active" id="home"> <b>Poludnevni izlet kajakom</b>
-                                    počinje u 09 h i 13 h.
+                                    počinje u 10h - 14 h & 14h - 18h
                                     Izlet kajakom se dogovara najmanjejedan dan unaprijed.
                                     Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i završava.
                                     Izlet uključuje i snorkeling. Isti će se odvijati na predivnim plažama osamljenih
@@ -127,7 +127,7 @@
                                     provodi na siguran način i onim tempom koji mogu pratiti svi sudionici izleta.
                                 </div>
                                 <div role="tabpanel" class="tab-pane" id="profile"> <b>Cjelodnevni izlet kajakom</b>
-                                    počinje u 09h
+                                    počinje u 10h
                                     Izlet kajakom se dogovara najmanje jedan dan unaprijed.
                                     Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i završava.
                                     Izlet uključuje i snorkeling. Isti će se odvijati na predivnim plažama osamljenih
@@ -141,7 +141,7 @@
                                 </div>
 
                                 <div role="tabpanel" class="tab-pane" id="messages"><b>Izlet kajakom u špilje.</b>
-                                    Izlet kajakom u špilje počinje u 9h i u 14:30 i traje oko 5 sati. Izlet kajakom se dogovara
+                                    Izlet kajakom u špilje počinje u 10h i u 14h. Izlet kajakom se dogovara
                                     najmanje jedan
                                     dan unaprijed. Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i
                                     završava. Izlet
