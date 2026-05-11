@@ -35,7 +35,7 @@
                                 <p><a href="#" class="">più <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>55 €</span>
+                                <span class='name btn btn-info btn-block '>60 €</span>
                             </div>
 
                             <div class='back'>
@@ -220,14 +220,14 @@
                         <tbody>
                             <tr>
                                 <td>1h - 40 €</td>
-                                <td>6h - 140 €</td>
+                                <td>6h - 160 €</td>
                                 <td>5h - 100 € + EQUIPMENT</td>
                                 <td>3h - 100 € + EQUIPMENT</td>
-                                <td>1h - 50 €</td>
-                                <td>1h - 80 €</td>
+                                <td>1h - 60 €</td>
+                                <td>1h - 100 €</td>
                             </tr>
                             <tr>
-                                <td>2h - 55 €</td>
+                                <td>2h - 60 €</td>
                                 <td>8h - 180 €</td>
                             </tr>
                         </tbody>

@@ -24,14 +24,14 @@
                             </tr>
                             <tr>
                                 <td>2h - 35 €</td>
-                                <td>2h - 35 €</td>
+                                <td>2h - 40 €</td>
                                 <td>2h - 50 €</td>
                                 <td></td>
                                 <td>Harness 1h - 5 €</td>
                             </tr>
                             <tr>
                                 <td>4h - 50 €</td>
-                                <td>4h - 55 €</td>
+                                <td>4h - 60 €</td>
                                 <td>4h - 80 €</td>
                             </tr>
                             <tr>
