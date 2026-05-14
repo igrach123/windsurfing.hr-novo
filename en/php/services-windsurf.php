@@ -153,7 +153,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>50 €</span>
+                                <span class='name btn btn-info btn-block '>60 €</span>
                             </div>
                             <div class='back'>
                                 <span>Private training includes:</span>
@@ -179,7 +179,7 @@
                                 <p><a href="#" class="">more <span><i class="fa fa-arrow-right"></i></span></a>
                                 </p>
 
-                                <span class='name btn btn-info btn-block '>80 €</span>
+                                <span class='name btn btn-info btn-block '>100 €</span>
                             </div>
                             <div class='back'>
                                 <span>Private training includes:</span>
